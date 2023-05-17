@@ -7,20 +7,20 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Digital Ops-Tech Centre
+      subtitle: DOTC
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: About Us
+          description: Find out what DOTC does!
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Our Products
+          description: Find out what we have created!
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Join Us!
+          description: Find a career with us!
           url: /privacy/
   - infobar:
       title: Infobar title
