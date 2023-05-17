@@ -2,8 +2,8 @@ title: Digital Ops-Tech Centre
 url: https://dotc.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#f5a623"
-  secondary-color: "#f8e71c"
+  primary-color: "#f8e71c"
+  secondary-color: "#f5a623"
   media-colors:
     - title: media-color-one
       color: "#49759a"
