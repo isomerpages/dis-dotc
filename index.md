@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Digital Ops-Tech Centre
       subtitle: DOTC
-      background: /images/hero-banner.png
+      background: /images/background.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
