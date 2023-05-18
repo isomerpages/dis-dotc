@@ -2,7 +2,3 @@ logo: /images/dotc-logo.jpg
 links:
   - title: Contact Us
     url: https://go.gov.sg/contact-dotc
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
