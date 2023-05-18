@@ -2,7 +2,7 @@
 layout: homepage
 title: Digital Ops-Tech Centre
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/dotc logo.jpg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
