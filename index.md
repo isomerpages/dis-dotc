@@ -11,17 +11,17 @@ sections:
       subtitle: DOTC
       background: /images/background.png
       button: Contact Us
-      url: /contact-us/
+      url: https://go.gov.sg/contact-dotc
       key_highlights:
         - title: About Us
           description: Find out what DOTC does!
           url: https://google.com
         - title: Our Products
           description: Find out what we have created!
-          url: https://gmail.com
+          url: ""
         - title: Join Us!
           description: Find a career with us!
-          url: /privacy/
+          url: https://go.gov.sg/contact-dotc
   - infobar:
       title: Infobar title
       subtitle: Subtitle
