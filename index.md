@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: About Us
           description: Find out what DOTC does!
-          url: https://google.com
+          url: ""
         - title: Our Products
           description: Find out what we have created!
           url: ""
