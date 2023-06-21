@@ -14,8 +14,8 @@ sections:
       url: https://go.gov.sg/contact-dotc
       key_highlights:
         - title: About Us
-          description: Find out what DOTC does!
-          url: ""
+          description: Find out what DOTC does
+          url: https://dotc.gov.sg/about/
         - title: Our Products
           description: Find out what we have created!
           url: ""
