@@ -1,4 +1,5 @@
 collections:
   join-us:
     output: true
-    order: []
+    order:
+      - Why Join Us?.md
