@@ -19,7 +19,7 @@ sections:
         - title: Why join DOTC?
           description: Contribute to a larger purpose
           url: https://dotc.gov.sg/why-dotc/
-        - title: Join Us!
+        - title: Job openings
           description: Find a career with us!
           url: https://go.gov.sg/contact-dotc
   - infobar:
