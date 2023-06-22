@@ -1,7 +1,12 @@
 logo: /images/for white bg.png
 links:
-  - title: Who We Are
-    collection: who-we-are
+  - title: WHO WE ARE
+    url: /permalink
+    sublinks:
+      - title: Our Mission and Focus
+        url: https://dotc.gov.sg/mission/
+      - title: About DOTC
+        url: https://dotc.gov.sg/about/
   - title: Join DOTC
     url: /join
     sublinks:
