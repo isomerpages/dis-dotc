@@ -2,4 +2,5 @@ collections:
   about-dotc:
     output: true
     order:
+      - Our Mission and Focus.md
       - What is DOTC?.md
