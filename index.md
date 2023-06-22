@@ -16,9 +16,9 @@ sections:
         - title: About Us
           description: Find out what DOTC does
           url: https://dotc.gov.sg/about/
-        - title: Our Products
-          description: Find out what we have created!
-          url: ""
+        - title: Why join DOTC?
+          description: Contribute to a larger purpose
+          url: https://dotc.gov.sg/why-dotc/
         - title: Join Us!
           description: Find a career with us!
           url: https://go.gov.sg/contact-dotc
