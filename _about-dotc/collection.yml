@@ -2,4 +2,4 @@ collections:
   about-dotc:
     output: true
     order:
-      - About DOTC.md
+      - What is DOTC?.md
