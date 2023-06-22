@@ -14,8 +14,6 @@ We cultivate our very own digital experts, through the the C4X(Digital) and Digi
 
 As the centre of excellence for SAF's digital expertise, DOTC partners the Defence Tech Community (DTC), Whole-of-Government digital agencies, academia and the industry, to remain innovative in its approaches and culture. Those with us are given opportunities for rotation between the DOTC and the SAF's operational units, and externally to DOTC's professional partners for exposure to build a comprehensive understanding of the cyber ecosystem.
 
-
-    
 # Join Us in Shaping the Future
 
 Whether you are a military professional, a digital enthusiast, or an organisation interested in partnering with us, we invite you to join us on this exciting journey of transforming the military through digital innovation. Together, we can forge a future where technology empowers our armed forces and for Singapore's defence.
