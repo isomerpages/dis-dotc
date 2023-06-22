@@ -1,4 +1,5 @@
 collections:
   about-dotc:
     output: true
-    order: []
+    order:
+      - About DOTC.md
