@@ -1,4 +1,10 @@
 logo: /images/logo-dotc.PNG
 links:
+  - title: Who we are
+    url: https://dotc.gov.sg/about/
+  - title: What we do
+    url: https://dotc.gov.sg/why-dotc/
+  - title: Join DOTC
+    url: /permalink
   - title: Contact Us
     url: https://go.gov.sg/contact-dotc
