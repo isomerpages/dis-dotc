@@ -1,0 +1,4 @@
+collections:
+  about-dotc:
+    output: true
+    order: []
