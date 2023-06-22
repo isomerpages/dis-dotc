@@ -1,5 +1,5 @@
 collections:
-  about-dotc:
+  who-we-are:
     output: true
     order:
       - What is DOTC?.md
