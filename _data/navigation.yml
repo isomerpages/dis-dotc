@@ -4,14 +4,14 @@ links:
     url: /permalink
     sublinks:
       - title: Our Mission and Focus
-        url: https://dotc.gov.sg/mission/
+        url: /mission
       - title: About DOTC
-        url: https://dotc.gov.sg/about/
+        url: /about
   - title: Join DOTC
     url: /join
     sublinks:
       - title: Why Join
-        url: https://dotc.gov.sg/why-dotc/
+        url: /why-dotc
       - title: Find Openings
         url: /permalink
   - title: Contact Us
