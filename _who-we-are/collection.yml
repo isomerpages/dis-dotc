@@ -1,0 +1,6 @@
+collections:
+  who-we-are:
+    output: true
+    order:
+      - What is DOTC?.md
+      - Our Mission and Focus.md
