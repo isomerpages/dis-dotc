@@ -27,4 +27,4 @@ DOTC is part of Singapore's Ministry of Defence. Joining our team means becoming
 ## Ready to Forge the Future with Us?
 If you are passionate about digital technology, military operations, and making a real difference, we invite you to join the DOTC team. Together, let's push the boundaries of military technology, develop innovative solutions, and shape the future of defence.
 
-Check our current openings and [apply today](go.gov.sg/contact-dotc) to become a part of our dynamic and forward-thinking team.
+Check our current openings and [apply today](https://go.gov.sg/contact-dotc) to become a part of our dynamic and forward-thinking team.
