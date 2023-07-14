@@ -1,10 +1,10 @@
 logo: /images/for white bg.png
 links:
   - title: WHO WE ARE
-    url: /permalink
+    url: /about
     sublinks:
       - title: Our Mission and Focus
-        url: /mission
+        url: /about/mission
       - title: About DOTC
         url: /about
   - title: Join DOTC
