@@ -3,10 +3,10 @@ links:
   - title: Who We Are
     url: /about
     sublinks:
-      - title: Our Mission and Focus
-        url: /about/mission
       - title: About DOTC
         url: /about
+      - title: Meet The Team
+        url: /about/team
   - title: Join DOTC
     url: /join-us/openings
     sublinks:
