@@ -2,6 +2,6 @@ collections:
   who-we-are:
     output: true
     order:
-      - Meet the Team.md
       - What is DOTC?.md
+      - Meet the Team.md
       - Our Mission and Focus.md
