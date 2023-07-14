@@ -8,11 +8,11 @@ links:
       - title: About DOTC
         url: /about
   - title: Join DOTC
-    url: /join
+    url: /join-us/openings
     sublinks:
       - title: Why Join
-        url: /why-dotc
+        url: /join-us/why-dotc
       - title: Find Openings
-        url: /permalink
+        url: /join-us/openings
   - title: Contact Us
     url: https://go.gov.sg/contact-dotc
