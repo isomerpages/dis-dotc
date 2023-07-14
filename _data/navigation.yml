@@ -1,6 +1,6 @@
 logo: /images/for white bg.png
 links:
-  - title: WHO WE ARE
+  - title: Who We Are
     url: /about
     sublinks:
       - title: Our Mission and Focus
@@ -12,7 +12,11 @@ links:
     sublinks:
       - title: Why Join
         url: /join-us/why-dotc
-      - title: Find Openings
-        url: /join-us/openings
+      - title: Software Engineer
+        url: /join-us/software-engineer
+      - title: UI/UX Designer
+        url: /join-us/designer
+      - title: Product Manager
+        url: /join-us/product-manager
   - title: Contact Us
     url: https://go.gov.sg/contact-dotc
