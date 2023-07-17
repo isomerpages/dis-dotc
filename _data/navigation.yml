@@ -11,11 +11,20 @@ links:
     url: /people
     sublinks:
       - title: Meet the Team
-        url: /about/team
+        url: /people/team
       - title: Roles
         url: /people/roles
       - title: Join Us
         url: /people/recruitment
+  - title: What We Do
+    url: /what-we-do
+    sublinks:
+      - title: Products
+        url: /what-we-do/products
+      - title: Partnerships
+        url: /what-we-do/partnerships
+      - title: Life at DOTC
+        url: /what-we-do/dotc-life
   - title: Join DOTC
     url: /join-us/openings
     sublinks:
@@ -27,11 +36,5 @@ links:
         url: /join-us/designer
       - title: Product Manager
         url: /join-us/product-manager
-  - title: Products
-    url: /products
-  - title: Partnerships
-    url: /partnerships/attachments
-  - title: Blog
-    url: /blog
   - title: Contact Us
     url: https://go.gov.sg/contact-dotc
