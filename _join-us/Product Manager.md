@@ -16,7 +16,7 @@ Your job is to:
 You should:
 
 * Have strong leadership and communication skills, with the ability to network with and collaborate with stakeholders in different parts of the SAF.
-* Be ruthless in prioritizing product requirements, weighing stakeholders' requests, technical constraints and design elements 
+* Be unsparing in prioritizing product requirements, weighing stakeholders' requests, technical constraints and design elements 
 *   Be curious and ask questions
 *   Not leave broken things broken
 *   Have an entrepreneurial spirit and work towards how technology and design can be harnessed together to create great experiences
