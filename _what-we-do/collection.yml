@@ -1,4 +1,5 @@
 collections:
   what-we-do:
     output: true
-    order: []
+    order:
+      - Products.md
