@@ -2,4 +2,4 @@ collections:
   partnerships:
     output: true
     order:
-      - Partnerships.md
+      - Attachments.md
