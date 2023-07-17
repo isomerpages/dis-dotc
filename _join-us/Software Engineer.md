@@ -15,6 +15,6 @@ You should:
 - Be comfortable and fluent in at least one programming language
 - Be curious and ask questions 
 - Not leave broken things broken
-- Have an entrepreneurial spirit and work towards how technology can be harnessed
+- Have an entrepreneurial spirit and work towards how technology and design can be harnessed together to create great experiences
 
 [Apply now!](https://go.gov.sg/contact-dotc)
