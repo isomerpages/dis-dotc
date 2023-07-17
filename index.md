@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Digital Ops-Tech Centre
       subtitle: Forging the Digital Frontier
-      background: /images/keyboard.jpg
+      background: /images/pexels-rahul-pandit-1933900.jpg
       button: Learn More
       url: https://go.gov.sg/about/
   - resources:
