@@ -1,12 +1,23 @@
 logo: /images/for white bg.png
 links:
-  - title: Who We Are
+  - title: About
     url: /about
     sublinks:
-      - title: About DOTC
-        url: /about
-      - title: Meet The Team
+      - title: Mission
+        url: /about/mission
+      - title: Vision
+        url: /about/vision
+      - title: Direction
+        url: /about/direction
+  - title: People
+    url: /people
+    sublinks:
+      - title: Meet the Team
         url: /about/team
+      - title: Roles
+        url: /people/roles
+      - title: Join Us
+        url: /people/recruitment
   - title: Join DOTC
     url: /join-us/openings
     sublinks:
@@ -18,7 +29,11 @@ links:
         url: /join-us/designer
       - title: Product Manager
         url: /join-us/product-manager
+  - title: Products
+    url: /products
   - title: Partnerships
     url: /partnerships/attachments
+  - title: Blog
+    resource_room: true
   - title: Contact Us
     url: https://go.gov.sg/contact-dotc
