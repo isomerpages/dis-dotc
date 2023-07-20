@@ -2,6 +2,7 @@ collections:
   join-us:
     output: true
     order:
+      - Meet the Team.md
       - Why Join Us?.md
       - Software Engineer.md
       - UIUX Designer.md
