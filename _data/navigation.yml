@@ -7,15 +7,6 @@ links:
         url: /about/mission
       - title: Vision
         url: /about/vision
-  - title: People
-    url: /people
-    sublinks:
-      - title: Meet the Team
-        url: /people/team
-      - title: Roles
-        url: /people/roles
-      - title: Join Us
-        url: /people/recruitment
   - title: What We Do
     url: /what-we-do
     sublinks:
@@ -30,6 +21,8 @@ links:
     sublinks:
       - title: Why Join
         url: /join-us/why-dotc
+      - title: Meet the Team
+        url: /join-us/meet-the-team
       - title: Software Engineer
         url: /join-us/software-engineer
       - title: UI/UX Designer
