@@ -1,6 +1,0 @@
-collections:
-  people:
-    output: true
-    order:
-      - Roles.md
-      - Join Us.md
