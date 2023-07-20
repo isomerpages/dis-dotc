@@ -2,6 +2,5 @@ collections:
   people:
     output: true
     order:
-      - Meet the Team.md
       - Roles.md
       - Join Us.md
