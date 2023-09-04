@@ -1,0 +1,7 @@
+collections:
+  what-we-do:
+    output: true
+    order:
+      - Products.md
+      - Partnerships.md
+      - Life at DOTC.md

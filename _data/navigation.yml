@@ -1,18 +1,33 @@
-logo: /images/for white bg.png
+logo: /images/dotc-logo-v2.png
 links:
-  - title: WHO WE ARE
-    url: /permalink
+  - title: About
+    url: /about
     sublinks:
-      - title: Our Mission and Focus
-        url: /mission
-      - title: About DOTC
-        url: /about
+      - title: Mission
+        url: /about/mission
+      - title: Vision
+        url: /about/vision
+  - title: What We Do
+    url: /what-we-do
+    sublinks:
+      - title: Products
+        url: /what-we-do/products
+      - title: Partnerships
+        url: /what-we-do/partnerships
+      - title: Life at DOTC
+        url: /what-we-do/dotc-life
   - title: Join DOTC
-    url: /join
+    url: /join-us/openings
     sublinks:
       - title: Why Join
-        url: /why-dotc
-      - title: Find Openings
-        url: /permalink
+        url: /join-us/why-dotc
+      - title: Meet the Team
+        url: /join-us/meet-the-team
+      - title: Software Engineer
+        url: /join-us/software-engineer
+      - title: UI/UX Designer
+        url: /join-us/designer
+      - title: Product Manager
+        url: /join-us/product-manager
   - title: Contact Us
     url: https://go.gov.sg/contact-dotc

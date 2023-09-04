@@ -3,3 +3,7 @@ collections:
     output: true
     order:
       - Why Join Us?.md
+      - Meet the Team.md
+      - Software Engineer.md
+      - UIUX Designer.md
+      - Product Manager.md
