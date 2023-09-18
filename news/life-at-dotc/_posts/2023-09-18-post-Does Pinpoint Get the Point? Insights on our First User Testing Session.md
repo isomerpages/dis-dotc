@@ -40,4 +40,4 @@ At DOTC, working iteratively and hand-in-hand with our users is incredibly impor
 
 Pinpoint isn’t just a software; it’s a game-changer. With the insights derived from our user testing sessions, we are ready to make it even better.
 
-> If you are eager to join us in pushing boundaries and building what truly matters, we are actively seeking talented individuals – software engineers, UX/UI designers, and product managers. DOTC is where innovation thrives, and we invite you to be part of our journey. Click here to find out more.
+> If you are eager to join us in pushing boundaries and building what truly matters, we are actively seeking talented individuals – software engineers, UX/UI designers, and product managers. DOTC is where innovation thrives, and we invite you to be part of our journey. [Contact us](https://go.gov.sg/contact-dotc) to find out more.
