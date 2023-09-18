@@ -22,8 +22,6 @@ Through our user testing session, we wanted to uncover any usability issues in t
 
 Our users ranged from a diverse group – from those who work commonly with photography for media and event purposes, to those who analyse and synthesise important results from a collection of media. This ensured that we were able to cover a wide spectrum of perspectives, as well as ensure that Pinpoint covered the various use cases that we had identified.
 
-
-
 # What we Learnt
 
 The feedback we received were really insightful, and we were incredibly happy to learn that users felt this would be a great alternative to their current workflow, and that Pinpoint would indeed improve their processes massively. They praised the intuitive interface and the potential of simplifying media organisation.
@@ -31,6 +29,8 @@ The feedback we received were really insightful, and we were incredibly happy to
 At the same time, their constructive criticism highlighted the areas where we could further improve the user experience of Pinpoint, as well as clarified the features we should prioritise next.
 
 Overall, the sessions were great, and being able to see Pinpoint in use by our actual users, even in quite a raw prototype form and their eyes lighting up as they got excited about its possibilities, really boosted the team’s spirits. It reinforced our belief in the power of user-centric design and how the insights we got could be turned into meaningful enhancements.
+
+![Photos from Pinpoint's User Testing Sessions](/images/pinpoint%20user%20testing%20session.png)
 
 # The Path Ahead
 
