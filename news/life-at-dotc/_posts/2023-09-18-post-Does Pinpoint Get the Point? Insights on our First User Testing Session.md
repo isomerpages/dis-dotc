@@ -10,11 +10,9 @@ image: ""
 
 Pinpoint is DOTC’s first collaboration with OGP. The brainchild of a hackathon, it is an AI-driven media gallery solution. It is designed to make life easier for those in the government – from those in media roles to more intelligence driven ones, allowing them to effortlessly manage and find their media assets anytime, anywhere.
 
-
+![Image of Pinpoint's Landing Page](/images/pinpoint%20-%20landing%20page.png)
 
 A few months back, we conducted user exploration sessions to discover that such pain points exist for media assets, and then subsequently went into development for Pinpoint as a solution. Instead of the traditional, time-consuming method of precisely naming and sorting media into different folders, while dealing with different variations of nomenclature for the same people or assets, Pinpoint works primarily through tags and filters.
-
-What does Pinpoint do image
 
 # Testing out Pinpoint with our Users
 
