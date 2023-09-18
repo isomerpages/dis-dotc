@@ -18,7 +18,7 @@ A few months back, we conducted user exploration sessions to discover that such 
 
 Through our user testing session, we wanted to uncover any usability issues in the process of using Pinpoint to upload, organize, and search for assets. Gathering our users in three separate sessions, they were able to interact hands-on with a working prototype of Pinpoint, and given tasks to perform.
 
-insert photo of plan
+![Screenshot of Pinpoint's User Testing Plan](/images/pinpoint%20user%20testing%20plan.png)
 
 Our users ranged from a diverse group – from those who work commonly with photography for media and event purposes, to those who analyse and synthesise important results from a collection of media. This ensured that we were able to cover a wide spectrum of perspectives, as well as ensure that Pinpoint covered the various use cases that we had identified.
 
