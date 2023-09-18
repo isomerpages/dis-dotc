@@ -7,7 +7,7 @@ description: ""
 At DOTC, we believe in working closely with our users to discover and solve meaningful problems. We prioritise understanding the needs, challenges, and goals of our military personnel and operational units. By adopting a user-centric approach, we ensure that our solutions are tailored to address their unique requirements, ultimately enhancing their effectiveness and success on the field.
     
 # Empowered to Make a Difference
-We provide our team members with the people, tools, and space they need to change how things work. We empower our teams to think innovatively, challenge the status quo, and explore new possibilities. By fostering an environment that encourages creativity and autonomy. We want to make a real impact in shaping the future of technology in the SAF.
+We believe in providing the resources required for success. We provide our team members with the people, tools, and space they need to change how things work. We empower our teams to think innovatively, challenge the status quo, and explore new possibilities. By fostering an environment that encourages creativity and autonomy. We want to make a real impact in shaping the future of the SAF.
     
 # Collaboration and Teamwork
 Working in close teams is at the heart of our success. We believe that great ideas emerge when diverse talents collaborate, communicate, and combine their expertise. We foster a culture of collaboration, where every team member's contribution is valued and respected. By pooling our skills, knowledge, and perspectives, we create solutions that are greater than the sum of their parts.
