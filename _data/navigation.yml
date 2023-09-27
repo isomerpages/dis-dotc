@@ -8,7 +8,7 @@ links:
       - title: Vision
         url: /about/vision
   - title: What We Do
-    url: /what-we-do
+    url: /what-we-do/products
     sublinks:
       - title: Products
         url: /what-we-do/products
