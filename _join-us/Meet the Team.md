@@ -1,5 +1,5 @@
 ---
 title: Meet the Team
-permalink: /people/team/
+permalink: /join-us/meet-the-team/
 description: ""
 ---
