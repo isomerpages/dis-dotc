@@ -14,4 +14,3 @@ description: ""
 | ![Software Engineer Keith Chew](/images/keith-chew.png) Keith Chew| Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Insert quote about DOTC here     | Insert quote about DOTC here     | Insert quote about DOTC here    |
-
