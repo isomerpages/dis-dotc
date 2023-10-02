@@ -26,14 +26,10 @@ locations:
     title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
       - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
+      - email: ""
+      - other: Fill in this form <a href="https://go.gov.sg/contact-dotc">here</a> and
+          we'll keep in touch!
     title: Careers
 feedback: https://go.gov.sg/contact-dotc
 ---
