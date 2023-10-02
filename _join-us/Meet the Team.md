@@ -11,6 +11,14 @@ description: ""
 
 
 
-| ![Software Engineer Keith Chew](/images/keith-chew.png) Keith Chew| Column 2 | Column 3 |
+| ![Software Engineer Keith Chew](/images/keith-chew.png) Keith Chew| ![Software Engineeer Wei Xiang Ong](/images/wei-xiang-ong.png) Ong Wei Xiang| Column 3 |
 | -------- | -------- | -------- |
 | Insert quote about DOTC here     | Insert quote about DOTC here     | Insert quote about DOTC here    |
+
+# Corporate Services
+
+
+| ![Finance Manager Sharmaine Chan](/images/sharmaine-chan.png)Sharmaine Chan | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
