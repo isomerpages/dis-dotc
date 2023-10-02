@@ -3,7 +3,7 @@ title: Meet the Team
 permalink: /join-us/meet-the-team/
 description: ""
 ---
-# Engineers
+# Product Team
 
 | ![Software Engineer Benjamin Loh](/images/Meet%20the%20Team/benjamin-loh.png) Benjamin Loh|![Software Engineer Chi Fa Foo](/images/Meet%20the%20Team/chi-fa-updated.png) Chi Fa Foo | ![Software Engineer Christian Chow](/images/Meet%20the%20Team/christian-chow.png) Christian Chow|
 | -------- | -------- | -------- |
