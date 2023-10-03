@@ -4,7 +4,7 @@ permalink: /join-us/meet-the-team/
 description: ""
 ---
 | ![Head DOTC David Kok](/images/Meet%20the%20Team/david-kok.png) | DOTC is the engaging place to learn... - Hd DOTC, David Kok|
-| -------- | -------- | 
+| -------- | -------- 
 
 # Product Team
 
