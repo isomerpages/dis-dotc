@@ -4,15 +4,18 @@ permalink: /join-us/meet-the-team/test1/
 description: ""
 third_nav_title: Meet the Team 2
 ---
-<div style="display:flex;flex-direction:column">
 <div style="display:flex;">
-	<img src="/images/david-kok.png">
-	<b style="margin:60px">DOTC is the engaging place to learn... - Hd DOTC, David Kok</b>
+	<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);margin:16px;width:80vh">
+		<div style="display:flex;width:80vh;align-items:flex-start">
+	<img src="/images/david-kok.png" style="margin:16px;width:250px;height:225px;">
+			<b style="margin-left:60px;margin-right:60px;margin-top:15px">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</b>
+		</div>
+	</div>
 	</div>
 	<div>
 		<hr style="width:92vh;border-top: 1px solid #000;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
 	</div>
-	</div>
+	
 <header style="font-size:50px;margin:16px;color:Dodgerblue">Product Team</header>
 
 <!--Row1-->
@@ -136,12 +139,12 @@ third_nav_title: Meet the Team 2
 <div style="display:flex;width:80vh;">
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
-		<img src="/images/vijey-army.png">
+		<img src="/images/Meet%20the%20Team/vijey-swe-new.png">
 		<h4 style="margin-top:4px"><b>Vijey</b></h4>  
 		<div style="flex-flow">
 		<b>Software Engineer</b>
 		<hr style="border-top: 1px solid #000;margin:0px">
-		<small style="margin-top:4px">I love the army</small>
+		<small style="margin-top:4px">With a vision in mind, the tough days get easier.</small>
 			</div>
 	</div>  
 </div>
