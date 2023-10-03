@@ -18,9 +18,9 @@ description: ""
 | -------- | -------- | -------- | -------- |
 | Insert quote about DOTC here     | Insert quote about DOTC here     | Insert quote about DOTC here    | Insert quote about DOTC here    |
 
-| ![Software Engineer Christian Chow](/images/Meet%20the%20Team/christian-chow.png) Christian Chow|![Trena Lee UX/UI Designer](/images/Meet%20the%20Team/trena-lee-designer.png) Trena Lee  | ![](/images/empty-space.png) |
-| -------- | -------- | -------- |
-| Insert quote about DOTC here     | Insert quote about DOTC here     | Insert quote about DOTC here    |
+| ![Software Engineer Christian Chow](/images/Meet%20the%20Team/christian-chow.png) Christian Chow|![Trena Lee UX/UI Designer](/images/Meet%20the%20Team/trena-lee-designer.png) Trena Lee  | ![](/images/empty-space.png) | ![](/images/empty-space.png) |
+| -------- | -------- | -------- |-------- |
+| Insert quote about DOTC here     | Insert quote about DOTC here     |     |
 
 # Corporate Services
 
