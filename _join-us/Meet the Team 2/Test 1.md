@@ -166,5 +166,4 @@ third_nav_title: Meet the Team 2
 		<hr style="border-top: 1px solid #000;margin:0px">
 		<small style="margin-top:4px">I love money</small>
 	</div>  
-</div>
-</div>
+</div></div>
