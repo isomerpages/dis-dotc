@@ -18,6 +18,10 @@ description: ""
 | -------- | -------- | -------- |
 | Insert quote about DOTC here     | Insert quote about DOTC here     | Insert quote about DOTC here    |
 
+| ![Software Engineer Christian Chow](/images/Meet%20the%20Team/christian-chow.png) Christian Chow|![Software Engineer Keith Chew](/images/Meet%20the%20Team/keith-chew.png) Keith Chew | ![Trena Lee UX/UI Designer](/images/Meet%20the%20Team/trena-lee-designer.png) Trena Lee |
+| -------- | -------- | -------- |
+| Insert quote about DOTC here     | Insert quote about DOTC here     | Insert quote about DOTC here    |
+
 # Corporate Services
 
 | ![Zyayn Chia Corporate Services Branch](/images/Meet%20the%20Team/zyayn-chia.png)Zyayn Chia | Column 2 
@@ -26,4 +30,4 @@ description: ""
 
 | ![Priscillia Seah Corporate Services Branch](/images/Meet%20the%20Team/pris-seah-corporate.png)Priscillia Seah | ![Sharmaine Chan Corporate Services Branch](/images/Meet%20the%20Team/sharmaine-chan.png)Sharmaine Chan 
 | -------- | -------- 
-| Text     | Text     
+| Text     | Text
