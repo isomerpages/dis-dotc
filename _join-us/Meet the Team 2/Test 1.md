@@ -11,10 +11,10 @@ third_nav_title: Meet the Team 2
 			<b style="margin-left:60px;margin-right:60px;margin-top:15px">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</b>
 		</div>
 	</div>
-	</div>
-	<div>
-		<hr style="width:92vh;border-top: 1px solid #000;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
-	</div>
+</div>
+<div>
+	<hr style="width:92vh;border-top: 1px solid #000;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
+</div>
 	
 <header style="font-size:50px;margin:16px;color:Dodgerblue">Product Team</header>
 
