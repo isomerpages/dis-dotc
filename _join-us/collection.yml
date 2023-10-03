@@ -2,6 +2,7 @@ collections:
   join-us:
     output: true
     order:
+      - Meet the Team 2/.keep
       - Test 1.md
       - Why Join Us?.md
       - Meet the Team.md
