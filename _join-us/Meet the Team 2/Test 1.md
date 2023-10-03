@@ -6,7 +6,7 @@ third_nav_title: Meet the Team 2
 ---
 <div style="display:flex;flex-direction:column">
 <div style="display:flex;">
-	<img src="images/david-kok.png">
+	<img src="/images/david-kok.png">
 	<b style="margin:60px">DOTC is the engaging place to learn... - Hd DOTC, David Kok</b>
 	</div>
 	<div>
