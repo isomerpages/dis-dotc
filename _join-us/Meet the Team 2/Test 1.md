@@ -160,7 +160,7 @@ third_nav_title: Meet the Team 2
 		<div style="flex-flow">
 		<b>Hd CSB</b>
 		<hr style="border-top: 1px solid #000;margin:0px">
-		<small style="margin-top:4px">Happy Birthday</small>
+		<small style="margin-top:4px">Never try, never know.</small>
 			</div>
 	</div>  
 </div>
@@ -177,7 +177,7 @@ third_nav_title: Meet the Team 2
 </div>
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
-		<img src="/images/Meet%20the%20Team/sharmaine-chan.png">
+		<img src="/images/Meet%20the%20Team/sharmain-chan.png">
 		<h4 style="margin-top:4px"><b>Sharmain Chan</b></h4>  
 		<b>Finance Officer</b>
 		<hr style="border-top: 1px solid #000;margin:0px">
