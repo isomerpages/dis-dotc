@@ -24,10 +24,6 @@ description: ""
 
 # Corporate Services
 
-| ![Zyayn Chia Corporate Services Branch](/images/Meet%20the%20Team/zyayn-chia.png)Zyayn Chia | ![Zyayn Chia Corporate Services Branch](/images/Meet%20the%20Team/zyayn-chia.png)Zyayn Chia
-| -------- | -------- 
-| Text     | Text     
-
-| ![Priscillia Seah Corporate Services Branch](/images/Meet%20the%20Team/pris-seah-corporate.png)Priscillia Seah | ![Sharmaine Chan Corporate Services Branch](/images/Meet%20the%20Team/sharmaine-chan.png)Sharmaine Chan 
-| -------- | -------- 
-| Text     | Text
+| ![Zyayn Chia Corporate Services Branch](/images/Meet%20the%20Team/zyayn-chia.png)Zyayn Chia | ![Zyayn Chia Corporate Services Branch](/images/Meet%20the%20Team/zyayn-chia.png)Zyayn Chia| ![Priscillia Seah Corporate Services Branch](/images/Meet%20the%20Team/pris-seah-corporate.png)Priscillia Seah | ![Sharmaine Chan Corporate Services Branch](/images/Meet%20the%20Team/sharmaine-chan.png)Sharmaine Chan |
+| -------- | -------- | -------- | -------- |
+| Insert quote about DOTC here     | Insert quote about DOTC here     | Insert quote about DOTC here    | Insert quote about DOTC here    |
