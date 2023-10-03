@@ -10,7 +10,7 @@ third_nav_title: Meet the Team 2
 	<b style="margin:60px">DOTC is the engaging place to learn... - Hd DOTC, David Kok</b>
 	</div>
 	<div>
-		<hr style="width:80vh;border-top: 1px solid #000;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
+		<hr style="width:92vh;border-top: 1px solid #000;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
 	</div>
 	</div>
 <header style="font-size:50px;margin:16px;color:Dodgerblue">Product Team</header>
