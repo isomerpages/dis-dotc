@@ -13,7 +13,7 @@ description: ""
 
 | ![Software Engineer Team Lead Jean Tan](/images/Meet%20the%20Team/jean-tan-swe.png)Jean Tan|![Software Engineer Benjamin Loh](/images/Meet%20the%20Team/benjamin-loh.png) Benjamin Loh | ![Software Engineer Chi Fa Foo](/images/Meet%20the%20Team/chi-fa-updated.png) Chi Fa Foo| ![Software Engineer Christian Chow](/images/Meet%20the%20Team/christian-chow.png) Christian Chow
 | -------- | -------- | -------- | -------- |
-| "Turning coffee into code, one line at a time. ☕💻" | "They said, 'Write your own destiny.' So I coded it." | "From 'Hello, World!' to 'Hello, Future!'" |"Crushing bugs and breaking boundaries." |
+| "Turning coffee into code, one line at a time. ☕💻" | "They said, 'Write your own destiny.' So I coded it." | "From 'Hello, World!' to 'Hello, Future!' " |"Crushing bugs and breaking boundaries." |
 
 
 
