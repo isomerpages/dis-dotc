@@ -6,7 +6,7 @@ agency_name: the Digital Ops-Tech Centre
 locations:
   - address:
       - 2 Bukit Merah Central
-      - Spring Singapore
+      - ""
       - Singapore 159835
     operating_hours:
       - days: Mon - Fri
