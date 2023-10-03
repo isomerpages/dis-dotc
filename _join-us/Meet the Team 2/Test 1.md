@@ -6,7 +6,7 @@ third_nav_title: Meet the Team 2
 ---
 <div style="display:flex;flex-direction:column">
 <div style="display:flex;">
-	<img src="images/Meet%20the%20Team/david-kok.png">
+	<img src="images/david-kok.png">
 	<b style="margin:60px">DOTC is the engaging place to learn... - Hd DOTC, David Kok</b>
 	</div>
 	<div>
@@ -14,8 +14,8 @@ third_nav_title: Meet the Team 2
 	</div>
 	</div>
 	<div>
-		<header style="font-size:50px;margin:16px;color:Dodgerblue">Product Team</header>
-	</div>
+<!--Header -->
+<header style="font-size:50px;margin:16px;color:Dodgerblue">Product Team</header>
 	<!--Row 1 -->
 <div style="display:flex;width:80vh;">
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
@@ -167,4 +167,4 @@ third_nav_title: Meet the Team 2
 		<small style="margin-top:4px">I love money</small>
 	</div>  
 </div>
-</div>
+</div></div>
