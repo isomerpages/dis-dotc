@@ -24,7 +24,7 @@ description: ""
 
 # Corporate Services
 
-| ![Zyayn Chia Corporate Services Branch](/images/Meet%20the%20Team/zyayn-chia.png)Zyayn Chia | Column 2 
+| ![Zyayn Chia Corporate Services Branch](/images/Meet%20the%20Team/zyayn-chia.png)Zyayn Chia | ![Zyayn Chia Corporate Services Branch](/images/Meet%20the%20Team/zyayn-chia.png)Zyayn Chia
 | -------- | -------- 
 | Text     | Text     
 
