@@ -13,10 +13,10 @@ third_nav_title: Meet the Team 2
 		<hr style="width:80vh;border-top: 1px solid #000;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
 	</div>
 	</div>
-	<div>
-<!--Header -->
 <header style="font-size:50px;margin:16px;color:Dodgerblue">Product Team</header>
-	<!--Row 1 -->
+
+<!--Row1-->
+
 <div style="display:flex;width:80vh;">
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
@@ -167,4 +167,4 @@ third_nav_title: Meet the Team 2
 		<small style="margin-top:4px">I love money</small>
 	</div>  
 </div>
-</div></div>
+</div>
