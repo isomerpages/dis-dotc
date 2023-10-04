@@ -30,4 +30,4 @@ description: ""
 
 | ![Zyayn Chia Corporate Services Branch](/images/Meet%20the%20Team/zyayn-chia-corporate.png)Zyayn Chia | ![Aaron Teow Corporate Services Branch](/images/Meet%20the%20Team/moon-member.png)Aaron Teow| ![Priscillia Seah Corporate Services Branch](/images/Meet%20the%20Team/priscillia-seah-corporate.png)Priscillia Seah | ![Sharmain Chan Corporate Services Branch](/images/Meet%20the%20Team/sharmain-corporate.png)Sharmain Chan |
 | -------- | -------- | -------- | -------- |
-| "Never try, never know."     | Insert quote about DOTC here     | Insert quote about DOTC here    | Insert quote about DOTC here    | 
+| "Never try, never know."     | Insert quote about DOTC here     | Insert quote about DOTC here    | Insert quote about DOTC here    |
