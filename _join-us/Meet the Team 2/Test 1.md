@@ -7,7 +7,7 @@ third_nav_title: Meet the Team 2
 <div style="display:flex;">
 	<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);margin:16px;width:80vh">
 		<div style="display:flex;width:80vh;align-items:flex-start">
-	<img src="/images/david-kok.png" style="margin:16px;width:250px;height:225px;">
+	<img src="/images/Meet%20the%20Team/david-kok.png" style="margin:16px;width:250px;height:225px;">
 			<b style="margin-left:60px;margin-right:60px;margin-top:15px">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</b>
 		</div>
 	</div>
@@ -20,7 +20,7 @@ third_nav_title: Meet the Team 2
 
 <!--Row1-->
 
-<div style="display:flex;width:92vh;">
+<div style="display:flex;width:80vh;">
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
 		<img src="/images/Meet%20the%20Team/jean-tan-swe.png">
@@ -34,7 +34,7 @@ third_nav_title: Meet the Team 2
 </div>
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px;position:relative">
-		<img src="/images/Meet%20the%20Team/chi-fa-updated.png">
+		<img src="/images/Meet%20the%20Team/foo-chi-fa-swe.png">
 		<h4 style="margin-top:4px"><b>Chi Fa Foo</b></h4>  
 		<div>
 			<b>Software Engineer</b>
@@ -45,33 +45,21 @@ third_nav_title: Meet the Team 2
 </div>
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
-		<img src="/images/Meet%20the%20Team/christian-chow.png">
+		<img src="/images/Meet%20the%20Team/christian-chow-swe.png">
 		<h4 style="margin-top:4px"><b>Christian Chow</b></h4>  
 		<b>Software Engineer</b>
 		<hr style="border-top: 1px solid #000;margin:0px">
 		<small style="margin-top:4px">Crushing bugs and breaking boundaries.</small>
 	</div>  
 </div>
-	<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
-	<div style="margin:16px;position:relative">
-		<img src="/images/Meet%20the%20Team/chi-fa-updated.png">
-		<h4 style="margin-top:4px"><b>Chi Fa Foo</b></h4>  
-		<div>
-			<b>Software Engineer</b>
-		<hr style="border-top: 1px solid #000;margin:0px">
-			<small style="margin-top:4px">From 'Hello, World!' to 'Hello, Future!'</small>
-			</div>
-	</div>  
 </div>
-</div>
-
 
 
 <!--Row 2-->
 <div style="display:flex;width:80vh;">
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
-		<img src="/images/Meet%20the%20Team/keith-chew.png">
+		<img src="/images/Meet%20the%20Team/keith-chew-swe.png">
 		<h4 style="margin-top:4px"><b>Keith Chew</b></h4>  
 		<div>
 		<b>Software Engineer</b>
@@ -82,7 +70,7 @@ third_nav_title: Meet the Team 2
 </div>
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px;position:relative">
-		<img src="/images/Meet%20the%20Team/wei-xiang-ong.png">
+		<img src="/images/Meet%20the%20Team/ong-wei-xiang-swe.png">
 		<h4 style="margin-top:4px"><b>Ong Wei Xiang</b></h4>  
 		<div>
 			<b>Software Engineer</b>
@@ -93,7 +81,7 @@ third_nav_title: Meet the Team 2
 </div>
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
-		<img src="/images/Meet%20the%20Team/benjamin-loh.png">
+		<img src="/images/Meet%20the%20Team/benjamin-loh-swe.png">
 		<h4 style="margin-top:4px"><b>Benjamin Loh</b></h4>  
 		<b>Software Engineer</b>
 		<hr style="border-top: 1px solid #000;margin:0px">
@@ -127,7 +115,7 @@ third_nav_title: Meet the Team 2
 </div>
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
-		<img src="">
+		<img src="/images/Meet%20the%20Team/moon-member.png">
 		<h4 style="margin-top:4px"><b>Ravi</b></h4>  
 		<b>Software Engineer</b>
 		<hr style="border-top: 1px solid #000;margin:0px">
@@ -139,7 +127,7 @@ third_nav_title: Meet the Team 2
 <div style="display:flex;width:80vh;">
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
-		<img src="/images/Meet%20the%20Team/vijey-swe-new.png">
+		<img src="/images/Meet%20the%20Team/vijey-swe.png">
 		<h4 style="margin-top:4px"><b>Vijey</b></h4>  
 		<div style="flex-flow">
 		<b>Software Engineer</b>
@@ -155,7 +143,7 @@ third_nav_title: Meet the Team 2
 <div style="display:flex;width:80vh;">
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
-		<img src="/images/Meet%20the%20Team/zyayn-chia.png">
+		<img src="/images/Meet%20the%20Team/zyayn-chia-corporate.png">
 		<h4 style="margin-top:4px"><b>Zyayn Chia</b></h4>  
 		<div style="flex-flow">
 		<b>Hd CSB</b>
@@ -166,7 +154,7 @@ third_nav_title: Meet the Team 2
 </div>
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px;position:relative">
-		<img src="/images/Meet%20the%20Team/pris-seah-corporate.png">
+		<img src="/images/Meet%20the%20Team/priscillia-seah-corporate.png">
 		<h4 style="margin-top:4px"><b>Priscillia Seah</b></h4>  
 		<div style="height:30px">
 			<b>Manpower Officer</b>
@@ -177,7 +165,7 @@ third_nav_title: Meet the Team 2
 </div>
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
-		<img src="/images/Meet%20the%20Team/sharmain-chan.png">
+		<img src="/images/Meet%20the%20Team/sharmain-corporate.png">
 		<h4 style="margin-top:4px"><b>Sharmain Chan</b></h4>  
 		<b>Finance Officer</b>
 		<hr style="border-top: 1px solid #000;margin:0px">
