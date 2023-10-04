@@ -11,13 +11,13 @@ description: ""
 
 # Product Team
 
-| ![Software Engineer Team Lead Jean Tan](/images/Meet%20the%20Team/jean-tan-swe.png)Jean Tan|![Software Engineer Benjamin Loh](/images/Meet%20the%20Team/benjamin-loh.png) Benjamin Loh | ![Software Engineer Chi Fa Foo](/images/Meet%20the%20Team/chi-fa-updated.png) Chi Fa Foo| ![Software Engineer Christian Chow](/images/Meet%20the%20Team/christian-chow.png) Christian Chow
+| ![Software Engineer Team Lead Jean Tan](/images/Meet%20the%20Team/jean-tan-swe.png)Jean Tan|![Software Engineer Benjamin Loh](/images/Meet%20the%20Team/benjamin-loh-swe.png) Benjamin Loh | ![Software Engineer Chi Fa Foo](/images/Meet%20the%20Team/foo-chi-fa-swe.png) Chi Fa Foo| ![Software Engineer Christian Chow](/images/Meet%20the%20Team/christian-chow-swe.png) Christian Chow
 | -------- | -------- | -------- | -------- |
 | "Turning coffee into code, one line at a time. ☕💻" | "They said, 'Write your own destiny.' So I coded it." | "From 'Hello, World!' to 'Hello, Future!' " |"Crushing bugs and breaking boundaries." |
 
 
 
-|![Software Engineer Keith Chew](/images/Meet%20the%20Team/keith-chew.png) Keith Chew | ![Software Engineer Ong Wei Xiang](/images/Meet%20the%20Team/wei-xiang-ong.png) Ong Wei Xiang | ![Software Engineer Christian Chow](/images/Meet%20the%20Team/christian-chow.png) Christian Chow| ![Software Engineer Christian Chow](/images/Meet%20the%20Team/christian-chow.png) Christian Chow|
+|![Software Engineer Keith Chew](/images/Meet%20the%20Team/keith-chew-swe.png) Keith Chew | ![Software Engineer Ong Wei Xiang](/images/Meet%20the%20Team/ong-wei-xiang-swe.png) Ong Wei Xiang | ![Software Engineer Vijey](/images/Meet%20the%20Team/vijey-swe.png) Vijey| ![Software Engineer Christian Chow](/images/Meet%20the%20Team/christian-chow.png) Christian Chow|
 | -------- | -------- | -------- | -------- |
 | "Software engineer by day, code ninja by night." | "Automate and cruise, with nothing to lose. Let Terraform peruse, while I snooze." | "Making the digital world a better place, byte by byte." |"Coding my way to the stars, one algorithm at a time." |
 
@@ -28,6 +28,6 @@ description: ""
 
 # Corporate Services
 
-| ![Zyayn Chia Corporate Services Branch](/images/Meet%20the%20Team/zyayn-chia.png)Zyayn Chia | ![Aaron Teow Corporate Services Branch](/images/Meet%20the%20Team/aaron-teow.png)Aaron Teow| ![Priscillia Seah Corporate Services Branch](/images/Meet%20the%20Team/pris-seah-corporate.png)Priscillia Seah | ![Sharmain Chan Corporate Services Branch](/images/Meet%20the%20Team/sharmain-chan.png)Sharmain Chan |
+| ![Zyayn Chia Corporate Services Branch](/images/Meet%20the%20Team/zyayn-chia-corporate.png)Zyayn Chia | ![Aaron Teow Corporate Services Branch](/images/Meet%20the%20Team/aaron-teow.png)Aaron Teow| ![Priscillia Seah Corporate Services Branch](/images/Meet%20the%20Team/priscillia-seah-corporate.png)Priscillia Seah | ![Sharmain Chan Corporate Services Branch](/images/Meet%20the%20Team/sharmain-swe.png)Sharmain Chan |
 | -------- | -------- | -------- | -------- |
 | "Never try, never know."     | Insert quote about DOTC here     | Insert quote about DOTC here    | Insert quote about DOTC here    |
