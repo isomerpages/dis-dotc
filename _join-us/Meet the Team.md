@@ -22,12 +22,12 @@ description: ""
 | "Software engineer by day, code ninja by night." | "Automate and cruise, with nothing to lose. Let Terraform peruse, while I snooze." | "Making the digital world a better place, byte by byte." |"Coding my way to the stars, one algorithm at a time." |
 
 
-| ![Software Engineer Ravi](/images/Meet%20the%20Team/moon.png) Ravi|![Trena Lee UX/UI Designer](/images/Meet%20the%20Team/trena-lee-designer.png) Trena Lee  | ![](/images/empty-space.png) | ![](/images/empty-space.png) |
+| ![Software Engineer Ravi](/images/Meet%20the%20Team/moon-member.png) Ravi|![Trena Lee UX/UI Designer](/images/Meet%20the%20Team/trena-lee-designer.png) Trena Lee  | ![](/images/empty-space.png) | ![](/images/empty-space.png) |
 | -------- | -------- | -------- |-------- |
 | "Life is a function, and I'm here to optimise it."     | "At DOTC, we design experiences that leave a mark, one click at a time. 🖱️✨"    |     |
 
 # Corporate Services
 
-| ![Zyayn Chia Corporate Services Branch](/images/Meet%20the%20Team/zyayn-chia-corporate.png)Zyayn Chia | ![Aaron Teow Corporate Services Branch](/images/Meet%20the%20Team/moon.png)Aaron Teow| ![Priscillia Seah Corporate Services Branch](/images/Meet%20the%20Team/priscillia-seah-corporate.png)Priscillia Seah | ![Sharmain Chan Corporate Services Branch](/images/Meet%20the%20Team/sharmain-corporate.png)Sharmain Chan |
+| ![Zyayn Chia Corporate Services Branch](/images/Meet%20the%20Team/zyayn-chia-corporate.png)Zyayn Chia | ![Aaron Teow Corporate Services Branch](/images/Meet%20the%20Team/moon-member.png)Aaron Teow| ![Priscillia Seah Corporate Services Branch](/images/Meet%20the%20Team/priscillia-seah-corporate.png)Priscillia Seah | ![Sharmain Chan Corporate Services Branch](/images/Meet%20the%20Team/sharmain-corporate.png)Sharmain Chan |
 | -------- | -------- | -------- | -------- |
-| "Never try, never know."     | Insert quote about DOTC here     | Insert quote about DOTC here    | Insert quote about DOTC here    |
+| "Never try, never know."     | Insert quote about DOTC here     | Insert quote about DOTC here    | Insert quote about DOTC here    | 
