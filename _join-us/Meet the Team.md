@@ -138,8 +138,9 @@ description: ""
 </div>
 <!--Header -->
 <header style="font-size:50px;margin:16px;color:Dodgerblue">Corporate Services</header>
+
 <!--Row 1 -->
-<div style="display:flex;width:80vh;">
+<div style="display:flex;width:104vh;">
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
 		<img src="/images/Meet%20the%20Team/zyayn-chia-corporate-full.jpg">
@@ -153,10 +154,10 @@ description: ""
 </div>
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px;position:relative">
-		<img src="/images/Meet%20the%20Team/priscillia-seah-corporate-full.png">
-		<h4 style="margin-top:4px"><b>Priscillia Seah</b></h4>  
+		<img src="/images/Meet%20the%20Team/aaron-teow-corporate-full.jpg">
+		<h4 style="margin-top:4px"><b>Aaron Teow</b></h4>  
 		<div style="height:30px">
-			<b>Manpower Officer</b>
+			<b>AD (Biz Dev)</b>
 		<hr style="border-top: 1px solid #000;margin:0px">
 			<small style="margin-top:4px">I love people</small>
 			</div>
@@ -164,24 +165,20 @@ description: ""
 </div>
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
+		<img src="/images/Meet%20the%20Team/priscillia-seah-corporate-full.png">
+		<h4 style="margin-top:4px"><b>Priscillia Seah</b></h4>  
+		<b>Manpower Officer</b>
+		<hr style="border-top: 1px solid #000;margin:0px">
+			<small style="margin-top:4px">I love people</small>
+	</div>  
+</div>
+	<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
+	<div style="margin:16px">
 		<img src="/images/Meet%20the%20Team/sharmain-corporate-full.png">
 		<h4 style="margin-top:4px"><b>Sharmain Chan</b></h4>  
 		<b>Finance Officer</b>
 		<hr style="border-top: 1px solid #000;margin:0px">
 		<small style="margin-top:4px">I love money</small>
 	</div>  
-</div></div>
-
-<!--Row 2 -->
-<div style="display:flex;width:80vh;">
-<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
-	<div style="margin:16px">
-		<img src="/images/Meet%20the%20Team/zyayn-chia-corporate-full.jpg">
-		<h4 style="margin-top:4px"><b>Zyayn Chia</b></h4>  
-		<div style="flex-flow">
-		<b>Hd CSB</b>
-		<hr style="border-top: 1px solid #000;margin:0px">
-		<small style="margin-top:4px">Never try, never know.</small>
-			</div>
-	</div>  
-</div></div>
+</div>
+</div>
