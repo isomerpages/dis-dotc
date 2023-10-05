@@ -4,8 +4,8 @@ permalink: /join-us/meet-the-team/
 description: ""
 ---
 <div style="display:flex;">
-	<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);margin:16px;width:80vh">
-		<div style="display:flex;width:80vh;align-items:flex-start">
+	<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);margin:16px;width:100vh">
+		<div style="display:flex;width:100vh;align-items:flex-start">
 	<img src="/images/Meet%20the%20Team/david-kok.png" style="margin:16px;width:250px;height:225px;">
 			<b style="margin-left:60px;margin-right:60px;margin-top:15px"><br>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."<br><br><i>- David Kok, Hd DOTC</i></b>
 		</div>
@@ -19,7 +19,7 @@ description: ""
 
 <!--Row1-->
 
-<div style="display:flex;width:80vh;">
+<div style="display:flex;width:100vh;">
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
 		<img src="/images/Meet%20the%20Team/jean-tan-swe-full.png">
@@ -49,6 +49,17 @@ description: ""
 		<b>Software Engineer</b>
 		<hr style="border-top: 1px solid #000;margin:0px">
 		<small style="margin-top:4px">Crushing bugs and breaking boundaries.</small>
+	</div>  
+</div>
+	<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
+	<div style="margin:16px">
+		<img src="/images/Meet%20the%20Team/keith-chew-swe-full.png">
+		<h4 style="margin-top:4px"><b>Keith Chew</b></h4> 
+		<div>
+		<b>Software Engineer</b>
+		<hr style="border-top: 1px solid #000;margin:0px">
+		<small style="margin-top:4px">Software engineer by day, code ninja by night.</small>
+			</div>
 	</div>  
 </div>
 </div>
