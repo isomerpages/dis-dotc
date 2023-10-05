@@ -154,7 +154,7 @@ description: ""
 </div>
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px;position:relative">
-		<img src="/images/Meet%20the%20Team/aaron-teow-corporate-full.jpg">
+		<img src="/images/Meet%20the%20Team/aaron-teow-corporate-full.png">
 		<h4 style="margin-top:4px"><b>Aaron Teow</b></h4>  
 		<div style="height:30px">
 			<b>AD (Biz Dev)</b>
