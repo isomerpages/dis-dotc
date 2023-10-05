@@ -65,19 +65,10 @@ description: ""
 </div>
 
 
+
 <!--Row 2-->
-<div style="display:flex;width:80vh;">
-<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
-	<div style="margin:16px">
-		<img src="/images/Meet%20the%20Team/keith-chew-swe-full.png">
-		<h4 style="margin-top:4px"><b>Keith Chew</b></h4>  
-		<div>
-		<b>Software Engineer</b>
-		<hr style="border-top: 1px solid #000;margin:0px">
-		<small style="margin-top:4px">Software engineer by day, code ninja by night.</small>
-			</div>
-	</div>  
-</div>
+<div style="display:flex;width:104vh;">
+
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px;position:relative">
 		<img src="/images/Meet%20the%20Team/ong-wei-xiang-swe-full.jpeg">
@@ -98,10 +89,7 @@ description: ""
 		<small style="margin-top:4px">Hello World</small>
 	</div>  
 </div>
-</div>
-<!--Row 3 -->
-<div style="display:flex;width:80vh;">
-<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
+	<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
 		<img src="/images/Meet%20the%20Team/trena-lee-designer-full.jpeg">
 		<h4 style="margin-top:4px"><b>Trena Lee</b></h4>  
@@ -123,6 +111,10 @@ description: ""
 			</div>
 	</div>  
 </div>
+</div>
+
+<!--Row 3 -->
+<div style="display:flex;width:71vh;">
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
 		<img src="/images/Meet%20the%20Team/moon-member-full.jpg">
@@ -132,9 +124,6 @@ description: ""
 		<small style="margin-top:4px">I shy</small>
 	</div>  
 </div>
-</div>
-<!--Row 4 -->
-<div style="display:flex;width:80vh;">
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
 		<img src="/images/Meet%20the%20Team/vijey-swe-full.png">
