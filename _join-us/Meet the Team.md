@@ -7,7 +7,7 @@ description: ""
 	<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);margin:16px;width:100vh">
 		<div style="display:flex;width:100vh;align-items:flex-start">
 	<img src="/images/Meet%20the%20Team/david-kok.png" style="margin:16px;width:250px;height:225px;">
-			<b style="margin-left:60px;margin-right:60px;margin-top:15px"><br>"At DOTC, we are the architects of innovation and champions of progress. With one line of code at a time, we push the boundaries of what is possible and make tech that improve our military operations."<br><br><i>- David Kok, Hd DOTC</i></b>
+			<b style="margin-left:60px;margin-right:60px;margin-top:15px"><br>"People solve problems. Good people solve problems well. Problems train people. Good problems train people well. <br><br>At DOTC, we believe that if necessity is the mother of invention, the space to experiment without fear is the father."<br><br><i>- David Kok, Hd DOTC</i></b>
 		</div>
 	</div>
 </div>
