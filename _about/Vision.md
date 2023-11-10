@@ -20,4 +20,4 @@ DOTC stands out as a unique entity within the Singapore Armed Forces (SAF), havi
 We recognize that different backgrounds, experiences, and perspectives fuel creativity and innovation. Everyone at DOTC is valued and respected, contributing to a supportive and inclusive environment where ideas flourish.
     
 # Continuous Learning and Growth
-We believe in continuous learning and personal growth. In a rapidly evolving digital landscape, we encourage our team members to stay curious, seek knowledge, and embrace new technologies and methodologies. We provide opportunities for professional development, training, and mentorship, enabling our people to expand their skills and reach their full potential.
+In a rapidly evolving digital landscape, we encourage our team members to stay curious, seek knowledge, and embrace new technologies and methodologies. We provide opportunities for professional development, training, and mentorship, enabling our people to expand their skills and reach their full potential.
