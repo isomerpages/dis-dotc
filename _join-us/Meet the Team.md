@@ -2,6 +2,7 @@
 title: Meet the Team
 permalink: /join-us/meet-the-team/
 description: ""
+variant: markdown
 ---
 <div style="display:flex;">
 	<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);margin:16px;width:100vh">
@@ -169,7 +170,7 @@ description: ""
 		<h4 style="margin-top:4px"><b>Priscillia Seah</b></h4>  
 		<b>Manpower Officer</b>
 		<hr style="border-top: 1px solid #000;margin:0px">
-			<small style="margin-top:4px">Nuturing talent, fostering growth, and building the team that powers our innovation.</small>
+			<small style="margin-top:4px">Nurturing talent, fostering growth, and building the team that powers our innovation.</small>
 	</div>  
 </div>
 	<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
