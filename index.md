@@ -9,9 +9,15 @@ sections:
   - hero:
       title: Digital Ops-Tech Centre
       subtitle: Forging the Digital Frontier
-      background: /images/pexels-ricardo-ortiz-9752173.jpg
+      background: /images/1675948047825.jpeg
       button: Learn More
       url: /about/mission
+      variant: center
+      size: md
+      key_highlights:
+        - title: We are hiring!
+          description: Sign up today by clicking here
+          url: https://go.gov.sg/contact-dotc
   - resources:
       title: What's up in DOTC?
       subtitle: IN THE NEWS
