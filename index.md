@@ -36,10 +36,10 @@ sections:
       title: Tackling pain points faced by multiple public agencies
       subtitle: Hack for Public Good 2023
       description: Our DIS personnel participated in this year’s HFPG with OGP
-        developers to tackle pain points that are common across multiple public
-        agencies.
+        developers to tackle common pain points across multiple public agencies,
+        creating Pinpoint!
       button: LEARN MORE
-      url: https://www.linkedin.com/posts/digital-and-intelligence-service_today-is-open-government-products-ogps-activity-7029435607982477312-0zMx?utm_source=share&utm_medium=member_desktop
+      url: https://hack.gov.sg/2023-prototypes/pinpoint/
       image: /images/1675948047825.jpeg
       alt: DOTC and OGP personnel pose
   - infopic:
