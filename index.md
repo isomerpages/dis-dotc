@@ -23,7 +23,7 @@ sections:
       description: Learn more about Chi Fa's tech odyssey during his year at OGP in
         2023 and the inspiration behind his leap into DOTC! 🌐✨
       button: Learn More
-      url: /placeholder
+      url: https://www.linkedin.com/posts/opengovsg_safday-humansofogp-techforpublicgood-activity-7080669358812758016-IsnB?utm_source=share&utm_medium=member_desktop
       image: /images/1688163122255.jpg
       alt: Image of Chi Fa
   - infopic:
