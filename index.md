@@ -16,7 +16,7 @@ sections:
       size: md
       key_highlights:
         - title: We are hiring!
-          description: Sign up today by clicking here
+          description: Register your interest here
           url: https://go.gov.sg/contact-dotc
   - resources:
       title: What's up in DOTC?
