@@ -23,8 +23,8 @@ sections:
       subtitle: IN THE NEWS
       button: MORE NEWS
   - infopic:
-      title: Chi Fa Foo 👋
-      subtitle: Meet Our DOTC-IAN
+      title: Chi Fa 👋
+      subtitle: Meet Our Team
       id: infopic
       description: Learn more about Chi Fa's tech odyssey during his year at OGP in
         2023 and the inspiration behind his leap into DOTC! 🌐✨
