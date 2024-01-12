@@ -17,6 +17,16 @@ sections:
       subtitle: IN THE NEWS
       button: MORE NEWS
   - infopic:
+      title: Chi Fa Foo 👋
+      subtitle: Meet Our DOTC-IAN
+      id: infopic
+      description: Learn more about Chi Fa's tech odyssey during his year at OGP in
+        2023 and the inspiration behind his leap into DOTC! 🌐✨
+      button: Learn More
+      url: /placeholder
+      image: /images/1688163122255.jpg
+      alt: Image of Chi Fa
+  - infopic:
       title: Tackling pain points faced by multiple public agencies
       subtitle: Hack for Public Good 2023
       description: Our DIS personnel participated in this year’s HFPG with OGP
