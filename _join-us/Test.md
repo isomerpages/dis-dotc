@@ -62,7 +62,7 @@ description: ""
 	
 .card-list .card-item-horizontal {
     background: #fff;
-    padding: 26px;
+    padding: 8px;
     border-radius: 8px;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.04);
     list-style: none;
@@ -74,11 +74,30 @@ description: ""
 .card-list-horizontal span {
     display: inline-block;
     background: #F7DF34;
-    margin-top: 0px;
+    margin-top: 16px;
     padding: 8px 15px;
     font-size: 0.75rem;
     border-radius: 50px;
     font-weight: 600;
+}
+
+.card-list-horizontal .hddotc {
+    background-color: #FBDAB9;
+    color: #593616;
+}	
+	
+.card-item-horizontal h3 {
+    color: #000;
+    font-size: 1.438rem;
+    margin-top: 8px;
+    font-weight: 600;
+}
+
+.card-item-horizontal h6 {
+    color: #000;
+    font-size: 1.138rem;
+    margin-top: 8px;
+    font-weight: 300;
 }
 	
 .card-list .lead {
@@ -131,12 +150,12 @@ description: ""
 <div>
 <div class="card-list-horizontal">
         <div class="card-item-horizontal">
-            <img src="/images/Meet%20the%20Team/jean-tan-swe-full.png">
+            <img src="/images/Meet%20the%20Team/david-kok.png">
         </div>
 	<div class="card-item-horizontal">
-          <span class="lead">SWE Team Lead</span>
-		      <h3>Jean Tan</h3>
-					<h6>Turning coffee into code, one line at a time. ☕💻</h6>
+          <span class="hddotc">Head DOTC</span>
+		      <h3>David Kok</h3>
+					<h6>"People solve problems. Good people solve problems well. Problems train people. Good problems train people well. <br><br>At DOTC, we believe that if necessity is the mother of invention, the space to experiment without fear is the father."</h6>
 	</div>
 	</div>
 <div>
