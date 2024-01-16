@@ -54,7 +54,7 @@ description: ""
 
 .card-list-horizontal {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     max-width: 1250px;
     padding: 20px;
     gap: 20px;
@@ -159,7 +159,7 @@ description: ""
 	</div>
 	</div>
 <div>
-	<hr style="width:100vw;border-top: 1px solid #000;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
+	<hr style="width:80%;border-top: 1px solid #000;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
 </div>
 
 <header style="font-size:50px;margin:16px;color:Dodgerblue">Product Team</header>
