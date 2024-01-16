@@ -101,12 +101,12 @@ body {
 	</style>
 	
 <div class="card-list">
-        <a class="card-item" href="#">
+        <div class="card-item">
             <img src="/images/Meet%20the%20Team/jean-tan-swe-full.png">
             <span class="developer">Developer</span>
             <h3>Jean Tan</h3>
 					<h6>Turning coffee into code, one line at a time. ☕💻</h6>
-        </a>
+        </div>
         <a class="card-item" href="#">
             <img alt="Card Image" src="images/designer.jpg">
             <span class="designer">Designer</span>
