@@ -128,6 +128,11 @@ description: ""
     color: #205c20;
 }
 
+.card-list .prodops {
+    background-color: #CAF2EC; 
+    color: #207184;
+}	
+	
 .card-list .corpserv {
     background-color: #E7E4F2; 
     color: #754CAC;
@@ -259,7 +264,7 @@ description: ""
 	<hr style="width:100%;border-top: 1px solid #EBAA3C;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
 </div>
 
-<header style="font-size:50px;margin:16px;color:#3C6DE8">Product Managers</header>
+<header style="font-size:50px;margin:16px;color:#3C6DE8">Product Managers/Operations</header>
 
 <div class="card-list">
         <div class="card-item">
@@ -273,6 +278,12 @@ description: ""
             <span class="prodmanager">Junior Product Manager</span>
             <h3>Eunice Lee</h3>
 					<h6>Transforming ideas into market-ready solutions with strategic finesse.</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
+            <span class="prodops">Product Operations</span>
+            <h3>Ryan Gan</h3>
+					<h6>The invisible hand harmonizing strategy with execution, ensuring seamless efficiency in every product heartbeat.</h6>
         </div>
 	</div>
 	
