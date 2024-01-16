@@ -117,11 +117,13 @@ body {
 	
 	
 
+
     <div class="card-list">
         <a class="card-item" href="#">
-            <img alt="Card Image" src="images/developer.jpg">
+            <img src="/images/Meet%20the%20Team/david-kok.png">
             <span class="developer">Developer</span>
-            <h3>A "developer" codes software and websites.</h3>
+            <h3>Jean Tan</h3>
+					<h6>A "developer" codes software and websites.</h6>
             <div class="arrow">
                 <i class="fas fa-arrow-right card-icon"></i>
             </div>
