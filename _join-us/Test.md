@@ -79,8 +79,15 @@ body {
 .card-item h3 {
     color: #000;
     font-size: 1.438rem;
-    margin-top: 28px;
+    margin-top: 8px;
     font-weight: 600;
+}
+
+.card-item h6 {
+    color: #000;
+    font-size: 1.438rem;
+    margin-top: 8px;
+    font-weight: 300;
 }
 
 .card-item .arrow {
@@ -93,7 +100,7 @@ body {
     color: #000;
     border: 1px solid #000;
     border-radius: 50%;
-    margin-top: 40px;
+    margin-top: 8px;
     transition: 0.2s ease;
 }
 
@@ -121,7 +128,7 @@ body {
             <img src="/images/Meet%20the%20Team/jean-tan-swe-full.png">
             <span class="developer">Developer</span>
             <h3>Jean Tan</h3>
-					<h6>A "developer" codes software and websites.</h6>
+					<h6>Turning coffee into code, one line at a time. ☕💻</h6>
             <div class="arrow">
                 <i class="fas fa-arrow-right card-icon"></i>
             </div>
