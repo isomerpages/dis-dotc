@@ -234,7 +234,8 @@ description: ""
 </div>
 
 <header style="font-size:50px;margin:16px;color:#3C6DE8">UX Designers</header>
-	<div class="card-list">
+
+<div class="card-list">
         <div class="card-item">
             <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
             <span class="designer">Senior UX Designer</span>
