@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 ---
 <style>
-
 * {
     margin: 0;
     padding: 0;
@@ -120,7 +119,6 @@ main.cards section.card.about {
     }
 
 }
-
 </style>
 
 <main class="cards">
