@@ -181,10 +181,10 @@ description: ""
 					<h6>Turning coffee into code, one line at a time. ☕💻</h6>
         </div>
 				<div class="card-item">
-            <img src="/images/Meet%20the%20Team/jean-tan-swe-full.png">
-            <span class="swe">Developer</span>
-            <h3>Jean Tan</h3>
-					<h6>Turning coffee into code, one line at a time. ☕💻</h6>
+            <img src="/images/Meet%20the%20Team/foo-chi-fa-swe-full.png">
+            <span class="swe">Software Engineer</span>
+            <h3>Foo Chi Fa</h3>
+					<h6>From 'Hello, World!' to 'Hello, Future!'</h6>
         </div>
         <a class="card-item" href="#">
             <img alt="Card Image" src="images/designer.jpg">
