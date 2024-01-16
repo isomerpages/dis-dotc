@@ -95,7 +95,7 @@ description: ""
 }	
 	
 .card-item-horizontal h3 {
-    color: #000;
+    color: #3C6DE8;
     font-size: 1.438rem;
     margin-top: 8px;
     font-weight: 600;
@@ -129,7 +129,7 @@ description: ""
 }
 
 .card-item h3 {
-    color: #000;
+    color: #3C6DE8;
     font-size: 1.438rem;
     margin-top: 8px;
     font-weight: 600;
