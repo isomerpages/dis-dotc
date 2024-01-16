@@ -43,7 +43,7 @@ body {
 .card-list .card-item img {
     width: 100%;
 		height: 100%
-    aspect-ratio: 16/9;
+    aspect-ratio: 1/1;
     border-radius: 8px;
     object-fit: cover;
 }
