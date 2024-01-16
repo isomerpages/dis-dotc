@@ -123,8 +123,7 @@ main.cards section.card.about {
 
 </style>
 
-
-    <main class="cards">
+<main class="cards">
         <section class="card contact">
             <div class="icon">
                 <img alt="Contact us." src="assets/Chat.png">
@@ -150,4 +149,3 @@ main.cards section.card.about {
             <button>Learn More</button>
         </section>
     </main>
-
