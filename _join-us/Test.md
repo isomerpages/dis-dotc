@@ -259,10 +259,6 @@ description: ""
 					<h6>At DOTC, we design experiences that leave a mark, one click at a time. 🖱️✨</h6>
         </div>
 	</div>
-	
-<div>
-	<hr style="width:100%;border-top: 1px solid #EBAA3C;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
-</div>
 
 <header style="font-size:50px;margin:16px;color:#3C6DE8">Product Managers/Operations</header>
 
