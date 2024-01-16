@@ -120,7 +120,7 @@ body {
 
     <div class="card-list">
         <a class="card-item" href="#">
-            <img src="/images/Meet%20the%20Team/david-kok.png">
+            <img src="/images/Meet%20the%20Team/jean-tan-swe-full.png">
             <span class="developer">Developer</span>
             <h3>Jean Tan</h3>
 					<h6>A "developer" codes software and websites.</h6>
