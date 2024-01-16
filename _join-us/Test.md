@@ -239,9 +239,6 @@ description: ""
 					<h6>With a vision in mind, the tough days get easier.</h6>
         </div>
 	</div>
-<div>
-	<hr style="width:100%;border-top: 1px solid #EBAA3C;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
-</div>
 
 <header style="font-size:50px;margin:16px;color:#3C6DE8">UX Designers</header>
 
