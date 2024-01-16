@@ -15,10 +15,6 @@ description: ""
     font-family: 'Open Sans', sans-serif;
 }
 
-body {
-    background: #ecececdb;
-}
-
 .card-list {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
