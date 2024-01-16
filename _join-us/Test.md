@@ -116,9 +116,7 @@ body {
 	</style>
 	
 	
-
-
-    <div class="card-list">
+<div class="card-list">
         <a class="card-item" href="#">
             <img src="/images/Meet%20the%20Team/jean-tan-swe-full.png">
             <span class="developer">Developer</span>
@@ -145,4 +143,3 @@ body {
             </div>
         </a>
     </div>
-
