@@ -316,7 +316,7 @@ description: ""
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
-            <span class="corpserv">Secretary to<br>Hd DOTC</span>
+            <span class="corpserv">Secretary to Hd DOTC</span>
             <h3>Stephanie Lee</h3>
 					<h6>Connecting vision to opportunity, one partnership at a time.</h6>
         </div>
