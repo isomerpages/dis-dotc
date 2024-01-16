@@ -71,6 +71,14 @@ description: ""
     transition: border 0.5s ease;
 }
 	
+.card-list-horizontal .card-item-horizontal img {
+    width: 80%;
+		height: 80%
+    aspect-ratio: 1/1;
+    border-radius: 8px;
+    object-fit: cover;
+}
+	
 .card-list-horizontal span {
     display: inline-block;
     background: #F7DF34;
@@ -159,7 +167,7 @@ description: ""
 	</div>
 	</div>
 <div>
-	<hr style="width:80%;border-top: 1px solid #000;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
+	<hr style="width:100%;border-top: 1px solid #000;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
 </div>
 
 <header style="font-size:50px;margin:16px;color:Dodgerblue">Product Team</header>
