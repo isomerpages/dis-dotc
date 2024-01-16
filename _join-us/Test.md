@@ -228,8 +228,8 @@ description: ""
             <h3>Vijey</h3>
 					<h6>With a vision in mind, the tough days get easier.</h6>
         </div>
-	<hr style="width:100%;border-top: 1px solid #9BA7BC;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
-	<div class="card-item">
+	<header style="font-size:50px;margin:16px;color:#3C6DE8">Software Engineers</header>
+					<div class="card-item">
             <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
             <span class="designer">Senior UX Designer</span>
             <h3>Joel Tai</h3>
