@@ -24,7 +24,7 @@ description: ""
 }
 
 .card-list .card-item {
-    background: #;
+    background: #FBF9F9;
     padding: 26px;
     border-radius: 8px;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.04);
