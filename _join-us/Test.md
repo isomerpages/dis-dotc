@@ -5,145 +5,186 @@ variant: markdown
 description: ""
 ---
 <style>
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
+	/* Font */
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,700');
+
+/* Design */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #ecf9ff;
 }
 
 body {
-    background: #F6F9FF;
-    height: 100vh;
-    width: 100%;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-    color: #434343;
-
-    font-size: 16px;
+  color: #272727;
+  font-family: 'Quicksand', serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+  padding: 1rem;
 }
 
-main.cards {
-    display: flex;
-    padding: 32px;
+.main{
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
-main.cards section.card {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+h1 {
+    font-size: 24px;
+    font-weight: 400;
     text-align: center;
-    background: white;
-    padding: 1rem 1.5rem;
-    border-radius: 8px;
-    max-height: 468px;
-    margin-left: 32px;
 }
 
-main.cards section.card:first-child {
-    margin-left: 0;
+img {
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
 }
 
-main.cards section.card .icon {
-    width: 64px;
-    height: 64px;
+.btn {
+  color: #ffffff;
+  padding: 0.8rem;
+  font-size: 14px;
+  text-transform: uppercase;
+  border-radius: 4px;
+  font-weight: 400;
+  display: block;
+  width: 100%;
+  cursor: pointer;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: transparent;
 }
 
-main.cards section.card img {
-    width: 100%;
+.btn:hover {
+  background-color: rgba(255, 255, 255, 0.12);
 }
 
-main.cards section.card h3 {
-    font-size: 100%;
-    margin: 16px 0;
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-main.cards section.card span {
-    font-weight: 300;
-    max-width: 240px;
-    font-size: 80%;
-    margin-bottom: 16px;
+.cards_item {
+  display: flex;
+  padding: 1rem;
 }
 
-main.cards section.card button {
-    padding: 0.5rem 1rem;
-    text-transform: uppercase;
-    border-radius: 32px;
-    border: 0;
-    cursor: pointer;
-    font-size: 80%;
-    font-weight: 500;
-    color: #fff;
-    margin-bottom: 16px 0;
+@media (min-width: 40rem) {
+  .cards_item {
+    width: 50%;
+  }
 }
 
-main.cards section.card.contact button {
-    background: linear-gradient(to right, #9F66FF, #DFCBFF);
-}
-main.cards section.card.shop button {
-    background: linear-gradient(to right, #3E8AFF, #BBDEFF);
-}
-main.cards section.card.about button {
-    background: linear-gradient(to right, #FE5F8F, #FFC7D9);
+@media (min-width: 56rem) {
+  .cards_item {
+    width: 33.3333%;
+  }
 }
 
-main.cards section.card.contact {
-    box-shadow: 20px 20px 50px -30px #DBC4FF;
+.card {
+  background-color: white;
+  border-radius: 0.25rem;
+  box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
 }
-main.cards section.card.shop {
-    box-shadow: 20px 20px 50px -30px #AFD6FF;
+
+.card_content {
+  padding: 1rem;
+  background: linear-gradient(to bottom left, #EF8D9C 40%, #FFC39E 100%);
 }
-main.cards section.card.about {
-    box-shadow: 20px 20px 50px -30px #FFC1D5;
+
+.card_title {
+  color: #ffffff;
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+  margin: 0px;
 }
 
-@media screen and (max-width: 720px) {
-    main.cards {
-        flex-direction: column;
-    }
-
-    main.cards section.card {
-        margin-left: 0;
-        margin-bottom: 32px;
-    }
-
-    main.cards section.card:last-child {
-        margin-bottom: 0;
-    }
-
-    main.cards section.card button {
-        font-size: 70%;
-    }
-
+.card_text {
+  color: #ffffff;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  margin-bottom: 1.25rem;    
+  font-weight: 400;
 }
-</style>
-
-<main class="cards">
-        <section class="card contact">
-            <div class="icon">
-                <img alt="Contact us." src="assets/Chat.png">
-            </div>
-            <h3>Contact us.</h3>
-            <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
-            <button>Learn More</button>
-        </section>
-        <section class="card shop">
-            <div class="icon">
-                <img alt="Shop here." src="assets/Bag.png">
-            </div>
-            <h3>Shop here.</h3>
-            <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
-            <button>Learn More</button>
-        </section>
-        <section class="card about">
-            <div class="icon">
-                <img alt="About us." src="assets/Play.png">
-            </div>
-            <h3>About us.</h3>
-            <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
-            <button>Learn More</button>
-        </section>
-    </main>
+.made_by{
+  font-weight: 400;
+  font-size: 13px;
+  margin-top: 35px;
+  text-align: center;
+}
+	</style>
+	
+  <ul class="cards">
+    <li class="cards_item">
+      <div class="card">
+        <div class="card_image"><img src="https://picsum.photos/500/300/?image=10"></div>
+        <div class="card_content">
+          <h2 class="card_title">Card Grid Layout</h2>
+          <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout</p>
+          <button class="btn card_btn">Read More</button>
+        </div>
+      </div>
+    </li>
+    <li class="cards_item">
+      <div class="card">
+        <div class="card_image"><img src="https://picsum.photos/500/300/?image=5"></div>
+        <div class="card_content">
+          <h2 class="card_title">Card Grid Layout</h2>
+          <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout</p>
+          <button class="btn card_btn">Read More</button>
+        </div>
+      </div>
+    </li>
+    <li class="cards_item">
+      <div class="card">
+        <div class="card_image"><img src="https://picsum.photos/500/300/?image=11"></div>
+        <div class="card_content">
+          <h2 class="card_title">Card Grid Layout</h2>
+          <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout</p>
+          <button class="btn card_btn">Read More</button>
+        </div>
+      </div>
+    </li>
+    <li class="cards_item">
+      <div class="card">
+        <div class="card_image"><img src="https://picsum.photos/500/300/?image=14"></div>
+        <div class="card_content">
+          <h2 class="card_title">Card Grid Layout</h2>
+          <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout</p>
+          <button class="btn card_btn">Read More</button>
+        </div>
+      </div>
+    </li>
+    <li class="cards_item">
+      <div class="card">
+        <div class="card_image"><img src="https://picsum.photos/500/300/?image=17"></div>
+        <div class="card_content">
+          <h2 class="card_title">Card Grid Layout</h2>
+          <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout</p>
+          <button class="btn card_btn">Read More</button>
+        </div>
+      </div>
+    </li>
+    <li class="cards_item">
+      <div class="card">
+        <div class="card_image"><img src="https://picsum.photos/500/300/?image=2"></div>
+        <div class="card_content">
+          <h2 class="card_title">Card Grid Layout</h2>
+          <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout</p>
+          <button class="btn card_btn">Read More</button>
+        </div>
+      </div>
+    </li>
+  </ul>
