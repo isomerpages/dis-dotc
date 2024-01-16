@@ -128,6 +128,11 @@ description: ""
     color: #205c20;
 }
 
+.card-list .corpserv {
+    background-color: #E7E4F2; 
+    color: #754CAC;
+}
+
 .card-item h3 {
     color: #3C6DE8;
     font-size: 1.438rem;
@@ -268,5 +273,40 @@ description: ""
             <span class="prodmanager">Junior Product Manager</span>
             <h3>Eunice Lee</h3>
 					<h6>Transforming ideas into market-ready solutions with strategic finesse.</h6>
+        </div>
+	</div>
+	
+<header style="font-size:50px;margin:16px;color:#3C6DE8">Corporate Services</header>
+
+<div class="card-list">
+        <div class="card-item">
+            <img src="/images/Meet%20the%20Team/zyayn-chia-corporate-full.jpg">
+            <span class="corpserv">Head CSB </span>
+            <h3>Zyayn Chia</h3>
+					<h6>Never try, never know.</h6>
+        </div>
+				<div class="card-item">
+            <img src="/images/Meet%20the%20Team/aaron-teow-corporate-full.png">
+            <span class="corpserv">AD (Biz Dev)</span>
+            <h3>Aaron Teow</h3>
+					<h6>Connecting vision to opportunity, one partnership at a time.</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/priscillia-seah-corporate-full.png">
+            <span class="corpserv">Manpower Officer</span>
+            <h3>Priscillia Seah</h3>
+					<h6>Nurturing talent, fostering growth, and building the team that powers our innovation.</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/aaron-teow-corporate-full.png">
+            <span class="corpserv">AD (Biz Dev)</span>
+            <h3>Aaron Teow</h3>
+					<h6>Connecting vision to opportunity, one partnership at a time.</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/sharmain-corporate-full.png">
+            <span class="corpserv">AD (Biz Dev)</span>
+            <h3>Sharmain Chan</h3>
+					<h6>Balancing the books and charting our course to success.</h6>
         </div>
 	</div>
