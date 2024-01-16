@@ -276,7 +276,7 @@ description: ""
             <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
             <span class="prodops">Product Operations</span>
             <h3>Ryan Gan</h3>
-					<h6>The invisible hand harmonizing strategy with execution, ensuring seamless efficiency in every product heartbeat.</h6>
+					<h6>Harmonizing strategy with execution, ensuring seamless efficiency in every product heartbeat.</h6>
         </div>
 	</div>
 	
