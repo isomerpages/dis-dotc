@@ -40,12 +40,9 @@ body {
     transition: border 0.5s ease;
 }
 
-.card-list .card-item:hover {
-    border: 2px solid #000;
-}
-
 .card-list .card-item img {
     width: 100%;
+		height: 100%
     aspect-ratio: 16/9;
     border-radius: 8px;
     object-fit: cover;
@@ -85,28 +82,9 @@ body {
 
 .card-item h6 {
     color: #000;
-    font-size: 1.438rem;
+    font-size: 1.138rem;
     margin-top: 8px;
     font-weight: 300;
-}
-
-.card-item .arrow {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transform: rotate(-35deg);
-    height: 40px;
-    width: 40px;
-    color: #000;
-    border: 1px solid #000;
-    border-radius: 50%;
-    margin-top: 8px;
-    transition: 0.2s ease;
-}
-
-.card-list .card-item:hover .arrow  {
-    background: #000;
-    color: #fff; 
 }
 
 @media (max-width: 1200px) {
@@ -122,16 +100,12 @@ body {
 }
 	</style>
 	
-	
 <div class="card-list">
         <a class="card-item" href="#">
             <img src="/images/Meet%20the%20Team/jean-tan-swe-full.png">
             <span class="developer">Developer</span>
             <h3>Jean Tan</h3>
 					<h6>Turning coffee into code, one line at a time. ☕💻</h6>
-            <div class="arrow">
-                <i class="fas fa-arrow-right card-icon"></i>
-            </div>
         </a>
         <a class="card-item" href="#">
             <img alt="Card Image" src="images/designer.jpg">
