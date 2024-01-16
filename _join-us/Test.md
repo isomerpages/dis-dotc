@@ -167,10 +167,10 @@ description: ""
 	</div>
 	</div>
 <div>
-	<hr style="width:100%;border-top: 1px solid #000;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
+	<hr style="width:100%;border-top: 1px solid #9BA7BC;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
 </div>
 
-<header style="font-size:50px;margin:16px;color:#3C6DE8">Product Team</header>
+<header style="font-size:50px;margin:16px;color:#3C6DE8">Software Engineers</header>
 </div>
 	
 <div class="card-list">
@@ -192,6 +192,52 @@ description: ""
             <h3>Christian Chow</h3>
 					<h6>Crushing bugs and breaking boundaries.</h6>
         </div>
+	      <div class="card-item">
+            <img src="/images/Meet%20the%20Team/keith-chew-swe-full.png">
+            <span class="swe">Software Engineer</span>
+            <h3>Keith Chew</h3>
+					<h6>Software engineer by day, code ninja by night.</h6>
+        </div>
+	      <div class="card-item">
+            <img src="/images/Meet%20the%20Team/ong-wei-xiang-swe-full.jpeg">
+            <span class="swe">Software Engineer</span>
+            <h3>Ong Wei Xiang</h3>
+					<h6>Automate and cruise, with nothing to lose. Let Terraform peruse, while I snooze.</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/benjamin-loh-swe-full.png">
+            <span class="swe">Software Engineer</span>
+            <h3>Benjamin Loh</h3>
+					<h6>Hello World</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/ang-ding-jie-swe-full.jpeg">
+            <span class="swe">Software Engineer</span>
+            <h3>Ang Ding Jie</h3>
+					<h6>I love cats.</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
+            <span class="swe">Software Engineer</span>
+            <h3>Ravi</h3>
+					<h6>I shy.</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/vijey-swe-full.png">
+            <span class="swe">Software Engineer</span>
+            <h3>Vijey</h3>
+					<h6>With a vision in mind, the tough days get easier.</h6>
+        </div>
+	<br><div>
+	<hr style="width:100%;border-top: 1px solid #9BA7BC;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
+		</div><br>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
+            <span class="designer">Senior UX Designer</span>
+            <h3>Joel Tai</h3>
+					<h6>With a vision in mind, the tough days get easier.</h6>
+        </div>
+	<br><div>
         <a class="card-item" href="#">
             <img alt="Card Image" src="images/designer.jpg">
             <span class="designer">Designer</span>
@@ -209,3 +255,4 @@ description: ""
             </div>
         </a>
     </div>
+</div>
