@@ -235,7 +235,7 @@ description: ""
             <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
             <span class="designer">Senior UX Designer</span>
             <h3>Joel Tai</h3>
-					<h6>With a vision in mind, the tough days get easier.</h6>
+					<h6>Turning user insights into elegant experiences, one pixel at a time.</h6>
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/trena-lee-designer-full.jpeg">
@@ -248,8 +248,16 @@ description: ""
 	<div class="card-list">
 					<div class="card-item">
             <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
-            <span class="prodmanager">Senior UX Designer</span>
-            <h3>Joel Tai</h3>
-					<h6>With a vision in mind, the tough days get easier.</h6>
+            <span class="prodmanager">Senior Product Manager</span>
+            <h3>Joe Quak</h3>
+					<h6>Sculpting visions into reality, one roadmap at a time.</h6>
+        </div>
+	<div class="card-list">
+					<div class="card-item">
+            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
+            <span class="prodmanager">Junior Product Manager</span>
+            <h3>Eunice Lee</h3>
+					<h6>Transforming ideas into market-ready solutions with strategic finesse.</h6>
         </div>
     </div>
+</div>
