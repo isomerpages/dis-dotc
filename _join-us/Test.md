@@ -23,7 +23,6 @@ body {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     max-width: 1250px;
-    margin: 150px auto;
     padding: 20px;
     gap: 20px;
 }
@@ -99,6 +98,21 @@ body {
     }
 }
 	</style>
+	
+<div style="display:flex;">
+	<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 0px 0px 0 rgba(0,0,0,0);margin:16px;width:100vh">
+		<div style="display:flex;width:100vh;align-items:flex-start">
+	<img src="/images/Meet%20the%20Team/david-kok.png" style="margin:16px;width:250px;height:225px;">
+			<b style="margin-left:60px;margin-right:60px;margin-top:15px"><br>"People solve problems. Good people solve problems well. Problems train people. Good problems train people well. <br><br>At DOTC, we believe that if necessity is the mother of invention, the space to experiment without fear is the father."<br><br><i>- David Kok, Hd DOTC</i></b>
+		</div>
+	</div>
+</div>
+<div>
+	<hr style="width:100vh;border-top: 1px solid #000;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
+</div>
+	
+<header style="font-size:50px;margin:16px;color:Dodgerblue">Product Team</header>
+
 	
 <div class="card-list">
         <div class="card-item">
