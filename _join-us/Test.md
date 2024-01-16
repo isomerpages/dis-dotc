@@ -249,42 +249,23 @@ description: ""
 					<h6>At DOTC, we design experiences that leave a mark, one click at a time. 🖱️✨</h6>
         </div>
 	</div>
-	
+	<div>
+	<hr style="width:100%;border-top: 1px solid #9BA7BC;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
+</div>
 
 <header style="font-size:50px;margin:16px;color:#3C6DE8">Product Managers</header>
 
 	<div class="card-list">
-					<div class="card-item">
+        <div class="card-item">
             <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
             <span class="prodmanager">Senior Product Manager</span>
             <h3>Joe Quak</h3>
 					<h6>Sculpting visions into reality, one roadmap at a time.</h6>
         </div>
-	<div class="card-list">
-					<div class="card-item">
+				<div class="card-item">
             <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
             <span class="prodmanager">Junior Product Manager</span>
             <h3>Eunice Lee</h3>
 					<h6>Transforming ideas into market-ready solutions with strategic finesse.</h6>
-        </div>
-    </div></div>
-<div>
-	<hr style="width:100%;border-top: 1px solid #9BA7BC;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
-</div>
-
-<header style="font-size:50px;margin:16px;color:#3C6DE8">Software Engineers</header>
-
-	<div class="card-list">
-					<div class="card-item">
-            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
-            <span class="designer">Senior UX Designer</span>
-            <h3>Joel Tai</h3>
-					<h6>Turning user insights into elegant experiences, one pixel at a time.</h6>
-        </div>
-	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/trena-lee-designer-full.jpeg">
-            <span class="designer">UX Designer</span>
-            <h3>Trena Lee</h3>
-					<h6>At DOTC, we design experiences that leave a mark, one click at a time. 🖱️✨</h6>
         </div>
 	</div>
