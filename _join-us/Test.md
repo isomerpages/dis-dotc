@@ -24,7 +24,7 @@ description: ""
 }
 
 .card-list .card-item {
-    background: #fff;
+    background: #;
     padding: 26px;
     border-radius: 8px;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.04);
@@ -234,7 +234,6 @@ description: ""
 </div>
 
 <header style="font-size:50px;margin:16px;color:#3C6DE8">UX Designers</header>
-
 	<div class="card-list">
         <div class="card-item">
             <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
