@@ -96,9 +96,9 @@ description: ""
 	</style>
 	
 <div style="display:flex;">
-	<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 0px 0px 0 rgba(0,0,0,0);margin:16px;width:100vh">
-		<div style="display:flex;width:100vh;align-items:flex-start">
-	<img src="/images/Meet%20the%20Team/david-kok.png" style="margin:16px;width:250px;height:225px;">
+	<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 0px 0px 0 rgba(0,0,0,0);margin:16px;width:100vw">
+		<div style="display:flex;width:100vw;align-items:flex-start">
+	<img src="/images/Meet%20the%20Team/david-kok.png" style="margin:16px;width:250px;height:250px;">
 			<b style="margin-left:60px;margin-right:60px;margin-top:15px"><br>"People solve problems. Good people solve problems well. Problems train people. Good problems train people well. <br><br>At DOTC, we believe that if necessity is the mother of invention, the space to experiment without fear is the father."<br><br><i>- David Kok, Hd DOTC</i></b>
 		</div>
 	</div>
