@@ -158,7 +158,7 @@ description: ""
 <div>
 <div class="card-list-horizontal">
         <div class="card-item-horizontal">
-            <img src="/images/Meet%20the%20Team/david-kok.png">
+            <img src="/images/Meet%20the%20Team/david-kok-full.jpg">
         </div>
 	<div class="card-item-horizontal">
           <span class="hddotc">Head DOTC</span>
@@ -170,7 +170,7 @@ description: ""
 	<hr style="width:100%;border-top: 1px solid #000;margin-top:20px;margin-bottom:20px;margin-left:16px;margin-right:16px">
 </div>
 
-<header style="font-size:50px;margin:16px;color:Dodgerblue">Product Team</header>
+<header style="font-size:50px;margin:16px;color:#3C6DE8">Product Team</header>
 </div>
 	
 <div class="card-list">
@@ -185,6 +185,12 @@ description: ""
             <span class="swe">Software Engineer</span>
             <h3>Foo Chi Fa</h3>
 					<h6>From 'Hello, World!' to 'Hello, Future!'</h6>
+        </div>
+	       <div class="card-item">
+            <img src="/images/Meet%20the%20Team/christian-chow-swe-full.png">
+            <span class="swe">Software Engineer</span>
+            <h3>Christian Chow</h3>
+					<h6>Crushing bugs and breaking boundaries.</h6>
         </div>
         <a class="card-item" href="#">
             <img alt="Card Image" src="images/designer.jpg">
