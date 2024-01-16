@@ -298,15 +298,15 @@ description: ""
 					<h6>Nurturing talent, fostering growth, and building the team that powers our innovation.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/aaron-teow-corporate-full.png">
-            <span class="corpserv">AD (Biz Dev)</span>
-            <h3>Aaron Teow</h3>
-					<h6>Connecting vision to opportunity, one partnership at a time.</h6>
-        </div>
-	<div class="card-item">
             <img src="/images/Meet%20the%20Team/sharmain-corporate-full.png">
             <span class="corpserv">AD (Biz Dev)</span>
             <h3>Sharmain Chan</h3>
 					<h6>Balancing the books and charting our course to success.</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
+            <span class="corpserv">Secretary to<br>Hd DOTC</span>
+            <h3>Stephanie Lee</h3>
+					<h6>Connecting vision to opportunity, one partnership at a time.</h6>
         </div>
 	</div>
