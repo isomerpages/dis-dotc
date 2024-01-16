@@ -318,6 +318,6 @@ description: ""
             <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
             <span class="corpserv">Secretary to Hd DOTC</span>
             <h3>Stephanie Lee</h3>
-					<h6>Connecting vision to opportunity, one partnership at a time.</h6>
+					<h6>Orchestrating chaos into a symphony of productivity, one appointment at a time.</h6>
         </div>
 	</div>
