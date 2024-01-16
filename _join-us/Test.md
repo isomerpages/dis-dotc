@@ -123,7 +123,7 @@ description: ""
     color: #B22485;
 }
 
-.card-list .editor {
+.card-list .prodmanager {
     background-color: #d6f8d6; 
     color: #205c20;
 }
@@ -229,7 +229,7 @@ description: ""
 					<h6>With a vision in mind, the tough days get easier.</h6>
         </div>
 	</div>
-	<header style="font-size:50px;margin:16px;color:#3C6DE8">Software Engineers</header>
+	<header style="font-size:50px;margin:16px;color:#3C6DE8">UX Designers</header>
 	<div class="card-list">
 					<div class="card-item">
             <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
@@ -243,14 +243,13 @@ description: ""
             <h3>Trena Lee</h3>
 					<h6>At DOTC, we design experiences that leave a mark, one click at a time. 🖱️✨</h6>
         </div>
-	<br><div>
-        <a class="card-item" href="#">
-            <img alt="Card Image" src="images/editor.jpg">
-            <span class="editor">Editor</span>
-            <h3>An "editor" ensures content quality and accuracy.</h3>
-            <div class="arrow">
-                <i class="fas fa-arrow-right card-icon"></i>
-            </div>
-        </a>
+	</div>
+	<header style="font-size:50px;margin:16px;color:#3C6DE8">Product Managers</header>
+	<div class="card-list">
+					<div class="card-item">
+            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
+            <span class="prodmanager">Senior UX Designer</span>
+            <h3>Joel Tai</h3>
+					<h6>With a vision in mind, the tough days get easier.</h6>
+        </div>
     </div>
-</div>
