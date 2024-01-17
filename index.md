@@ -11,7 +11,7 @@ sections:
       subtitle: Forging the Digital Frontier
       background: /images/1675948047825.jpeg
       button: Learn More
-      url: /about/mission
+      url: https://www.facebook.com/thesingaporeDIS/posts/150070907854750?ref=embed_post
       variant: center
       size: md
       key_highlights:
