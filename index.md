@@ -9,9 +9,9 @@ sections:
   - hero:
       title: Digital Ops-Tech Centre
       subtitle: Forging the Digital Frontier
-      background: /images/1675948047825.jpeg
+      background: /images/chiffy_cropped.png
       button: Learn More
-      url: https://www.facebook.com/thesingaporeDIS/posts/150070907854750?ref=embed_post
+      url: /join-us/why-dotc/
       variant: center
       size: md
       key_highlights:
@@ -39,7 +39,7 @@ sections:
         developers to tackle common pain points across multiple public agencies,
         creating Pinpoint!
       button: LEARN MORE
-      url: https://hack.gov.sg/2023-prototypes/pinpoint/
+      url: https://www.facebook.com/thesingaporeDIS/posts/150070907854750?ref=embed_post
       image: /images/1675948047825.jpeg
       alt: DOTC and OGP personnel pose
   - infopic:
