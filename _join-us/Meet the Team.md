@@ -240,18 +240,18 @@ variant: markdown
         </div>
 	</div>
 
-<header style="font-size:50px;margin:16px;color:#3C6DE8">UX Designers</header>
+<header style="font-size:50px;margin:16px;color:#3C6DE8">Product Designers</header>
 
 <div class="card-list">
         <div class="card-item">
             <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
-            <span class="designer">Senior UX Designer</span>
+            <span class="designer">Senior Product Designer</span>
             <h3>Joel Tai</h3>
 					<h6>Turning user insights into elegant experiences, one pixel at a time.</h6>
         </div>
 				<div class="card-item">
             <img src="/images/Meet%20the%20Team/trena-lee-designer-full.jpeg">
-            <span class="designer">UX Designer</span>
+            <span class="designer">Product Designer</span>
             <h3>Trena Lee</h3>
 					<h6>At DOTC, we design experiences that leave a mark, one click at a time. 🖱️✨</h6>
         </div>
