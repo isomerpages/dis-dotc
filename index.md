@@ -9,22 +9,22 @@ sections:
   - hero:
       title: Digital Ops-Tech Centre
       subtitle: Forging the Digital Frontier
-      background: /images/1675948047825.jpeg
+      background: /images/chiffy_cropped.png
       button: Learn More
-      url: /about/mission
+      url: /join-us/why-dotc/
       variant: center
       size: md
       key_highlights:
         - title: We are hiring!
-          description: Sign up today by clicking here
+          description: Register your interest here
           url: https://go.gov.sg/contact-dotc
   - resources:
       title: What's up in DOTC?
       subtitle: IN THE NEWS
       button: MORE NEWS
   - infopic:
-      title: Chi Fa Foo 👋
-      subtitle: Meet Our DOTC-IAN
+      title: Chi Fa 👋
+      subtitle: Meet Our Team
       id: infopic
       description: Learn more about Chi Fa's tech odyssey during his year at OGP in
         2023 and the inspiration behind his leap into DOTC! 🌐✨
@@ -39,7 +39,7 @@ sections:
         developers to tackle common pain points across multiple public agencies,
         creating Pinpoint!
       button: LEARN MORE
-      url: https://hack.gov.sg/2023-prototypes/pinpoint/
+      url: https://www.facebook.com/thesingaporeDIS/posts/150070907854750?ref=embed_post
       image: /images/1675948047825.jpeg
       alt: DOTC and OGP personnel pose
   - infopic:

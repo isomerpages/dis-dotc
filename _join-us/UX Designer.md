@@ -1,7 +1,8 @@
 ---
-title: UIUX Designer
+title: UX Designer
 permalink: /join-us/designer/
 description: ""
+variant: tiptap
 ---
 As a UI/UX Designer at DOTC, you will be pivotal in shaping effective and efficient workflows for military operations by applying design thinking and user-centered approaches. 
 
