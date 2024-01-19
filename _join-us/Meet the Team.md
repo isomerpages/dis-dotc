@@ -303,7 +303,7 @@ variant: markdown
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/sharmain-corporate-full.png">
-            <span class="corpserv">AD (Biz Dev)</span>
+            <span class="corpserv">Finance Officer</span>
             <h3>Sharmain Chan</h3>
 					<h6>Balancing the books and charting our course to success.</h6>
         </div>
