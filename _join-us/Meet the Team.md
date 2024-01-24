@@ -244,7 +244,7 @@ variant: markdown
 
 <div class="card-list">
         <div class="card-item">
-            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
+            <img src="/images/Meet%20the%20Team/joel-tai-full.jpg">
             <span class="designer">Senior Product Designer</span>
             <h3>Joel Tai</h3>
 					<h6>Turning user insights into elegant experiences, one pixel at a time.</h6>
@@ -261,7 +261,7 @@ variant: markdown
 
 <div class="card-list">
         <div class="card-item">
-            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
+            <img src="/images/Meet%20the%20Team/joe-quak-full.jpg">
             <span class="prodmanager">Senior Product Manager</span>
             <h3>Joe Quak</h3>
 					<h6>Sculpting visions into reality, one roadmap at a time.</h6>
@@ -273,7 +273,7 @@ variant: markdown
 					<h6>Transforming ideas into market-ready solutions with strategic finesse.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
+            <img src="/images/Meet%20the%20Team/ryan-gan-full.jpg">
             <span class="prodops">Product Operations</span>
             <h3>Ryan Gan</h3>
 					<h6>Harmonizing strategy with execution, ensuring seamless efficiency in every product heartbeat.</h6>
