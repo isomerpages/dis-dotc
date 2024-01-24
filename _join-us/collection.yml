@@ -1,0 +1,9 @@
+collections:
+  join-us:
+    output: true
+    order:
+      - Why Join Us?.md
+      - Meet the Team.md
+      - Software Engineer.md
+      - Product Designer.md
+      - Product Manager.md
