@@ -245,7 +245,7 @@ variant: markdown
 					<h6>With a vision in mind, the tough days get easier.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/ambrose-boo-full.jpg">
+            <img src="/images/Meet%20the%20Team/ambrose-boo-full.png">
             <span class="swe">Junior Software Engineer</span>
             <h3>Ambrose Boo</h3>
 					<h6>Bridging passion and code to craft innovative solutions.</h6>
@@ -326,7 +326,7 @@ variant: markdown
 					<h6>Balancing the books and charting our course to success.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
+            <img src="/images/Meet%20the%20Team/stephanie-full.png">
             <span class="corpserv">Secretary to Hd DOTC</span>
             <h3>Stephanie Lee</h3>
 					<h6>Orchestrating chaos into a symphony of productivity, one appointment at a time.</h6>
