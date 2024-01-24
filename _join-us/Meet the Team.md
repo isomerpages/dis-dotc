@@ -190,6 +190,12 @@ variant: markdown
             <h3>Jean Tan</h3>
 					<h6>Turning coffee into code, one line at a time. ☕💻</h6>
         </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/bowen-full.png">
+            <span class="swe">Senior Software Engineer</span>
+            <h3>Bowen Low</h3>
+					<h6>Transforming complexity into elegant code solutions.</h6>
+        </div>
 				<div class="card-item">
             <img src="/images/Meet%20the%20Team/foo-chi-fa-swe-full.png">
             <span class="swe">Software Engineer</span>
