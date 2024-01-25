@@ -273,7 +273,7 @@ variant: markdown
 
 <div class="card-list">
         <div class="card-item">
-            <img src="/images/Meet%20the%20Team/joe-quak-full.png">
+            <img src="/images/Meet%20the%20Team/joe-quak-full-bg.jpg">
             <span class="prodmanager">Senior Product Manager</span>
             <h3>Joe Quak</h3>
 					<h6>Sculpting visions into reality, one roadmap at a time.</h6>
@@ -288,7 +288,7 @@ variant: markdown
             <img src="/images/Meet%20the%20Team/srinivas-full.jpg">
             <span class="prodmanager">Junior Product Manager</span>
             <h3>Srinivas Avichal</h3>
-					<h6>Crafting tomorrow's solutions with today's passion.</h6>
+					<h6>Juggling user feedback like a product magician in action.</h6>
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/ryan-gan-full.jpg">
@@ -302,7 +302,7 @@ variant: markdown
 
 <div class="card-list">
         <div class="card-item">
-            <img src="/images/Meet%20the%20Team/zyayn-chia-corporate-full.jpg">
+            <img src="/images/Meet%20the%20Team/zyayn-chia-corporate-full-bg.png">
             <span class="corpserv">Head CSB </span>
             <h3>Zyayn Chia</h3>
 					<h6>Never try, never know.</h6>
