@@ -185,7 +185,7 @@ variant: markdown
 	
 <div class="card-list">
         <div class="card-item">
-            <img src="/images/Meet%20the%20Team/jean-tan-swe-full.png">
+            <img src="/images/Meet%20the%20Team/jean-tan-swe-full-bg.png">
             <span class="lead">SWE Team Lead</span>
             <h3>Jean Tan</h3>
 					<h6>Turning coffee into code, one line at a time. ☕💻</h6>
@@ -203,31 +203,31 @@ variant: markdown
 					<h6>From 'Hello, World!' to 'Hello, Future!'</h6>
         </div>
 	       <div class="card-item">
-            <img src="/images/Meet%20the%20Team/christian-chow-swe-full.png">
+            <img src="/images/Meet%20the%20Team/christian-chow-swe-full-bg.png">
             <span class="swe">Software Engineer</span>
             <h3>Christian Chow</h3>
 					<h6>Crushing bugs and breaking boundaries.</h6>
         </div>
 	      <div class="card-item">
-            <img src="/images/Meet%20the%20Team/keith-chew-swe-full.png">
+            <img src="/images/Meet%20the%20Team/keith-chew-swe-full-bg.png">
             <span class="swe">Software Engineer</span>
             <h3>Keith Chew</h3>
 					<h6>Software engineer by day, code ninja by night.</h6>
         </div>
 	      <div class="card-item">
-            <img src="/images/Meet%20the%20Team/ong-wei-xiang-swe-full.jpeg">
+            <img src="/images/Meet%20the%20Team/ong-wei-xiang-swe-full-bg.png">
             <span class="swe">Software Engineer</span>
             <h3>Ong Wei Xiang</h3>
 					<h6>Spaghetti is best left on the plate, not in the code.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/benjamin-loh-swe-full.png">
+            <img src="/images/Meet%20the%20Team/benjamin-loh-swe-full-bg.png">
             <span class="swe">Software Engineer</span>
             <h3>Benjamin Loh</h3>
 					<h6>Hello World</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/ang-ding-jie-swe-full.jpeg">
+            <img src="/images/Meet%20the%20Team/ang-ding-jie-swe-full-bg.png">
             <span class="swe">Software Engineer</span>
             <h3>Ang Ding Jie</h3>
 					<h6>I love cats.</h6>
@@ -256,7 +256,7 @@ variant: markdown
 
 <div class="card-list">
         <div class="card-item">
-            <img src="/images/Meet%20the%20Team/joel-tai-full.png">
+            <img src="/images/Meet%20the%20Team/joel-tai-full-bg.png">
             <span class="designer">Senior Product Designer</span>
             <h3>Joel Tai</h3>
 					<h6>Turning user insights into elegant experiences, one pixel at a time.</h6>
