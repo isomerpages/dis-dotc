@@ -194,7 +194,7 @@ variant: markdown
             <img src="/images/Meet%20the%20Team/bowen-full.png">
             <span class="swe">Senior Software Engineer</span>
             <h3>Bowen Low</h3>
-					<h6>Transforming complexity into elegant code solutions.</h6>
+					<h6>Passionate about rapidly improving user experience at scale.</h6>
         </div>
 				<div class="card-item">
             <img src="/images/Meet%20the%20Team/foo-chi-fa-swe-full.png">
@@ -218,7 +218,7 @@ variant: markdown
             <img src="/images/Meet%20the%20Team/ong-wei-xiang-swe-full.jpeg">
             <span class="swe">Software Engineer</span>
             <h3>Ong Wei Xiang</h3>
-					<h6>Automate and cruise, with nothing to lose. Let Terraform peruse, while I snooze.</h6>
+					<h6>Spaghetti is best left on the plate, not in the code.</h6>
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/benjamin-loh-swe-full.png">
@@ -279,10 +279,10 @@ variant: markdown
 					<h6>Sculpting visions into reality, one roadmap at a time.</h6>
         </div>
 				<div class="card-item">
-            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
+            <img src="/images/Meet%20the%20Team/eunice-full.png">
             <span class="prodmanager">Junior Product Manager</span>
             <h3>Eunice Lee</h3>
-					<h6>Transforming ideas into market-ready solutions with strategic finesse.</h6>
+					<h6>Can we build it? Yes we can!</h6>
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/srinivas-full.jpg">
