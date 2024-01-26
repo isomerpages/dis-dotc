@@ -185,10 +185,16 @@ variant: markdown
 	
 <div class="card-list">
         <div class="card-item">
-            <img src="/images/Meet%20the%20Team/jean-tan-swe-full.png">
+            <img src="/images/Meet%20the%20Team/jean-tan-swe-full-bg.png">
             <span class="lead">SWE Team Lead</span>
             <h3>Jean Tan</h3>
 					<h6>Turning coffee into code, one line at a time. ☕💻</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/bowen-full.png">
+            <span class="swe">Senior Software Engineer</span>
+            <h3>Bowen Low</h3>
+					<h6>Passionate about rapidly improving user experience at scale.</h6>
         </div>
 				<div class="card-item">
             <img src="/images/Meet%20the%20Team/foo-chi-fa-swe-full.png">
@@ -197,31 +203,31 @@ variant: markdown
 					<h6>From 'Hello, World!' to 'Hello, Future!'</h6>
         </div>
 	       <div class="card-item">
-            <img src="/images/Meet%20the%20Team/christian-chow-swe-full.png">
+            <img src="/images/Meet%20the%20Team/christian-chow-swe-full-bg.png">
             <span class="swe">Software Engineer</span>
             <h3>Christian Chow</h3>
 					<h6>Crushing bugs and breaking boundaries.</h6>
         </div>
 	      <div class="card-item">
-            <img src="/images/Meet%20the%20Team/keith-chew-swe-full.png">
+            <img src="/images/Meet%20the%20Team/keith-chew-swe-full-bg.png">
             <span class="swe">Software Engineer</span>
             <h3>Keith Chew</h3>
 					<h6>Software engineer by day, code ninja by night.</h6>
         </div>
 	      <div class="card-item">
-            <img src="/images/Meet%20the%20Team/ong-wei-xiang-swe-full.jpeg">
+            <img src="/images/Meet%20the%20Team/ong-wei-xiang-swe-full-bg.png">
             <span class="swe">Software Engineer</span>
             <h3>Ong Wei Xiang</h3>
-					<h6>Automate and cruise, with nothing to lose. Let Terraform peruse, while I snooze.</h6>
+					<h6>Spaghetti is best left on the plate, not in the code.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/benjamin-loh-swe-full.png">
+            <img src="/images/Meet%20the%20Team/benjamin-loh-swe-full-bg.png">
             <span class="swe">Software Engineer</span>
             <h3>Benjamin Loh</h3>
 					<h6>Hello World</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/ang-ding-jie-swe-full.jpeg">
+            <img src="/images/Meet%20the%20Team/ang-ding-jie-swe-full-bg.png">
             <span class="swe">Software Engineer</span>
             <h3>Ang Ding Jie</h3>
 					<h6>I love cats.</h6>
@@ -238,20 +244,26 @@ variant: markdown
             <h3>Vijey</h3>
 					<h6>With a vision in mind, the tough days get easier.</h6>
         </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/ambrose-boo-full.png">
+            <span class="swe">Junior Software Engineer</span>
+            <h3>Ambrose Boo</h3>
+					<h6>Bridging passion and code to craft innovative solutions.</h6>
+        </div>
 	</div>
 
-<header style="font-size:50px;margin:16px;color:#3C6DE8">UX Designers</header>
+<header style="font-size:50px;margin:16px;color:#3C6DE8">Product Designers</header>
 
 <div class="card-list">
         <div class="card-item">
-            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
-            <span class="designer">Senior UX Designer</span>
+            <img src="/images/Meet%20the%20Team/joel-tai-full-bg.png">
+            <span class="designer">Senior Product Designer</span>
             <h3>Joel Tai</h3>
 					<h6>Turning user insights into elegant experiences, one pixel at a time.</h6>
         </div>
 				<div class="card-item">
             <img src="/images/Meet%20the%20Team/trena-lee-designer-full.jpeg">
-            <span class="designer">UX Designer</span>
+            <span class="designer">Product Designer</span>
             <h3>Trena Lee</h3>
 					<h6>At DOTC, we design experiences that leave a mark, one click at a time. 🖱️✨</h6>
         </div>
@@ -261,19 +273,25 @@ variant: markdown
 
 <div class="card-list">
         <div class="card-item">
-            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
+            <img src="/images/Meet%20the%20Team/joe-quak-full-bg.jpg">
             <span class="prodmanager">Senior Product Manager</span>
             <h3>Joe Quak</h3>
 					<h6>Sculpting visions into reality, one roadmap at a time.</h6>
         </div>
 				<div class="card-item">
-            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
+            <img src="/images/Meet%20the%20Team/eunice-full.png">
             <span class="prodmanager">Junior Product Manager</span>
             <h3>Eunice Lee</h3>
-					<h6>Transforming ideas into market-ready solutions with strategic finesse.</h6>
+					<h6>Can we build it? Yes we can!</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
+            <img src="/images/Meet%20the%20Team/srinivas-full.jpg">
+            <span class="prodmanager">Junior Product Manager</span>
+            <h3>Srinivas Avichal</h3>
+					<h6>Juggling user feedback like a product magician in action.</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/ryan-gan-full.jpg">
             <span class="prodops">Product Operations</span>
             <h3>Ryan Gan</h3>
 					<h6>Harmonizing strategy with execution, ensuring seamless efficiency in every product heartbeat.</h6>
@@ -284,7 +302,7 @@ variant: markdown
 
 <div class="card-list">
         <div class="card-item">
-            <img src="/images/Meet%20the%20Team/zyayn-chia-corporate-full.jpg">
+            <img src="/images/Meet%20the%20Team/zyayn-chia-corporate-full-bg.png">
             <span class="corpserv">Head CSB </span>
             <h3>Zyayn Chia</h3>
 					<h6>Never try, never know.</h6>
@@ -303,12 +321,12 @@ variant: markdown
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/sharmain-corporate-full.png">
-            <span class="corpserv">AD (Biz Dev)</span>
+            <span class="corpserv">Finance Officer</span>
             <h3>Sharmain Chan</h3>
 					<h6>Balancing the books and charting our course to success.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
+            <img src="/images/Meet%20the%20Team/stephanie-full.png">
             <span class="corpserv">Secretary to Hd DOTC</span>
             <h3>Stephanie Lee</h3>
 					<h6>Orchestrating chaos into a symphony of productivity, one appointment at a time.</h6>
