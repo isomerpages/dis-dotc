@@ -233,10 +233,10 @@ variant: markdown
 					<h6>I love cats.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/moon-member-full.jpg">
+            <img src="/images/Meet%20the%20Team/ravi-full.png">
             <span class="swe">Software Engineer</span>
             <h3>Ravi</h3>
-					<h6>I shy.</h6>
+					<h6>No code no go home.</h6>
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/vijey-swe-full.png">
@@ -262,7 +262,7 @@ variant: markdown
 					<h6>Turning user insights into elegant experiences, one pixel at a time.</h6>
         </div>
 				<div class="card-item">
-            <img src="/images/Meet%20the%20Team/trena-lee-designer-full.jpeg">
+            <img src="/images/Meet%20the%20Team/trena-full.png">
             <span class="designer">Product Designer</span>
             <h3>Trena Lee</h3>
 					<h6>At DOTC, we design experiences that leave a mark, one click at a time. 🖱️✨</h6>
