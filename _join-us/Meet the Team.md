@@ -262,7 +262,7 @@ variant: markdown
 					<h6>Turning user insights into elegant experiences, one pixel at a time.</h6>
         </div>
 				<div class="card-item">
-            <img src="/images/Meet%20the%20Team/trena-lee-designer-full.jpeg">
+            <img src="/images/Meet%20the%20Team/trena-full.png">
             <span class="designer">Product Designer</span>
             <h3>Trena Lee</h3>
 					<h6>At DOTC, we design experiences that leave a mark, one click at a time. 🖱️✨</h6>
