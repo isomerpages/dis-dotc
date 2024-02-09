@@ -301,15 +301,9 @@ variant: markdown
 <header style="font-size:50px;margin:16px;color:#3C6DE8">Corporate Services</header>
 
 <div class="card-list">
-        <div class="card-item">
-            <img src="/images/Meet%20the%20Team/zyayn-chia-corporate-full-bg.png">
-            <span class="corpserv">Head CSB </span>
-            <h3>Zyayn Chia</h3>
-					<h6>Never try, never know.</h6>
-        </div>
 				<div class="card-item">
             <img src="/images/Meet%20the%20Team/aaron-teow-corporate-full.png">
-            <span class="corpserv">AD (Biz Dev)</span>
+            <span class="corpserv">Hd CSB (Cvg)/ AD (Biz Dev)</span>
             <h3>Aaron Teow</h3>
 					<h6>Connecting vision to opportunity, one partnership at a time.</h6>
         </div>
