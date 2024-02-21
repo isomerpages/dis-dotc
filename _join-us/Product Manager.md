@@ -2,6 +2,7 @@
 title: Product Manager
 permalink: /join-us/product-manager/
 description: ""
+variant: markdown
 ---
 As a Product Manager at DOTC, you will drive the vision for software solutions that change how the military operates.
 
@@ -21,4 +22,4 @@ You should:
 *   Not leave broken things broken
 *   Have an entrepreneurial spirit and work towards how technology and design can be harnessed together to create great experiences
 
-[Apply now!](https://go.gov.sg/contact-dotc)
+[Apply now!](https://go.gov.sg/dotc-careers)
