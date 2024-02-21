@@ -2,6 +2,7 @@
 title: Software Engineer
 permalink: /join-us/software-engineer/
 description: ""
+variant: markdown
 ---
 As a Software Engineer at DOTC, you will have the incredible opportunity to directly impact Singapore's national defence. We are dedicated to adopting and adapting sensible practices, policies, and processes that will enable tech teams within the military to build quickly and securely. 
 
@@ -17,4 +18,4 @@ You should:
 - Not leave broken things broken
 - Have an entrepreneurial spirit and work towards how technology and design can be harnessed together to create great experiences
 
-[Apply now!](https://go.gov.sg/contact-dotc)
+[Apply now!](https://go.gov.sg/dotc-careers)
