@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: Digital Ops-Tech Centre
-description: An Isomer site of the Singapore Government
+description: Forging a new digital frontier with the Digital and Intelligence
+  Service, the fourth branch of the Singapore Armed Forces
 image: /images/dotc_final_favicon.png
 permalink: /
 notification: ""
