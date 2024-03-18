@@ -18,7 +18,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Check our job openings and appply <a
+      - other: Check our job openings and apply <a
           href="https://go.gov.sg/dotc-careers">here</a>!
     title: Careers
 feedback: https://go.gov.sg/contact-dotc
