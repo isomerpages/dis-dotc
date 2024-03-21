@@ -13,7 +13,7 @@ We provide our people with the resources, tools, and space they need to change h
 # Collaboration and Teamwork
 Working in close teams is at the heart of our success. We foster a culture of collaboration, where every team member's contribution is valued and respected. 
     
-# Different from the Rest of SAF
+# Driven to Innovate
 DOTC stands out as a unique entity within the Singapore Armed Forces (SAF), having been established to push boundaries and challenge conventional norms. We pioneer innovative approaches and drive transformative change within the military.
     
 # Embracing Diversity and Open Culture
