@@ -209,12 +209,6 @@ variant: markdown
 					<h6>Crushing bugs and breaking boundaries.</h6>
         </div>
 	      <div class="card-item">
-            <img src="/images/Meet%20the%20Team/keith-chew-swe-full-bg.png">
-            <span class="swe">Software Engineer</span>
-            <h3>Keith Chew</h3>
-					<h6>Software engineer by day, code ninja by night.</h6>
-        </div>
-	      <div class="card-item">
             <img src="/images/Meet%20the%20Team/ong-wei-xiang-swe-full-bg.png">
             <span class="swe">Software Engineer</span>
             <h3>Ong Wei Xiang</h3>
@@ -246,9 +240,15 @@ variant: markdown
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/ambrose-boo-full.png">
-            <span class="swe">Junior Software Engineer</span>
+            <span class="swe">Software Engineer</span>
             <h3>Ambrose Boo</h3>
 					<h6>Bridging passion and code to craft innovative solutions.</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/alex_chua_swe.jpg">
+            <span class="swe">Software Engineer</span>
+            <h3>Alex Chua</h3>
+					<h6>Software engineer by day, code ninja by night.</h6>
         </div>
 	</div>
 
@@ -280,13 +280,13 @@ variant: markdown
         </div>
 				<div class="card-item">
             <img src="/images/Meet%20the%20Team/eunice-full.png">
-            <span class="prodmanager">Junior Product Manager</span>
+            <span class="prodmanager">Product Manager</span>
             <h3>Eunice Lee</h3>
 					<h6>Can we build it? Yes we can!</h6>
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/srinivas-full.jpg">
-            <span class="prodmanager">Junior Product Manager</span>
+            <span class="prodmanager">Product Manager</span>
             <h3>Srinivas Avichal</h3>
 					<h6>Juggling user feedback like a product magician in action.</h6>
         </div>
@@ -301,11 +301,23 @@ variant: markdown
 <header style="font-size:50px;margin:16px;color:#3C6DE8">Corporate Services</header>
 
 <div class="card-list">
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/howard_hung.jpg">
+            <span class="corpserv">Hd CSB</span>
+            <h3>Howard Hung</h3>
+					<h6>Empowering excellence, cultivating synergy, and shaping the backbone of success.</h6>
+        </div>
 				<div class="card-item">
             <img src="/images/Meet%20the%20Team/aaron-teow-corporate-full.png">
-            <span class="corpserv">Hd CSB (Cvg)/ AD (Biz Dev)</span>
+            <span class="corpserv">AD (Biz Dev)</span>
             <h3>Aaron Teow</h3>
 					<h6>Connecting vision to opportunity, one partnership at a time.</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/divya_hdpeople.jpg">
+            <span class="corpserv">Hd (People)</span>
+            <h3>Divya Ginna</h3>
+					<h6>Connecting talent with opportunity, one innovative mind at a time.</h6>
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/priscillia-seah-corporate-full.png">
