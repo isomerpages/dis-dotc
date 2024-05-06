@@ -21,5 +21,12 @@ contacts:
       - other: Check our job openings and apply <a
           href="https://go.gov.sg/dotc-careers">here</a>!
     title: Careers
+  - content:
+      - phone: ""
+      - email: ""
+      - other: For further enquiries about careers with us, or other enquiries such as
+          collaborations and partnerships, please fill in the online form <a
+          href="https://go.gov.sg/contact-dotc">here</a>.
+    title: General Enquiries
 feedback: https://go.gov.sg/contact-dotc
 ---
