@@ -24,6 +24,17 @@ sections:
       subtitle: IN THE NEWS
       button: MORE NEWS
   - infopic:
+      title: GovTech Visit to DOTC
+      subtitle: Partnerships
+      id: infopic
+      description: During the visit, both agencies shared similar perspectives and
+        passion when it comes to building tech solutions for the betterment of
+        Singapore 🇸🇬
+      button: SEE MORE
+      url: https://twitter.com/thesingaporedis/status/1787286239311515748?s=52&t=yEOs1s3_SrBeLlv2SJF69A
+      image: /images/GM23WdJWwAAwvsZ.jpg
+      alt: Image alt text
+  - infopic:
       title: Chi Fa 👋
       subtitle: Meet Our Team
       id: infopic
