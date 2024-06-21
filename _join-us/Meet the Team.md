@@ -285,12 +285,6 @@ variant: markdown
 					<h6>Can we build it? Yes we can!</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/srinivas-full.jpg">
-            <span class="prodmanager">Product Manager</span>
-            <h3>Srinivas Avichal</h3>
-					<h6>Juggling user feedback like a product magician in action.</h6>
-        </div>
-	<div class="card-item">
             <img src="/images/Meet%20the%20Team/ryan-gan-full.jpg">
             <span class="prodops">Product Operations</span>
             <h3>Ryan Gan</h3>
