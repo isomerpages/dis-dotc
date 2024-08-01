@@ -140,7 +140,7 @@ variant: markdown
 
 .card-item h3 {
     color: #3C6DE8;
-    font-size: 1.438rem;
+    font-size: 1.25rem;
     margin-top: 8px;
     font-weight: 600;
 }
@@ -227,12 +227,6 @@ variant: markdown
 					<h6>I love cats.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/ravi-full.png">
-            <span class="swe">Software Engineer</span>
-            <h3>Ravi</h3>
-					<h6>No code no go home.</h6>
-        </div>
-	<div class="card-item">
             <img src="/images/Meet%20the%20Team/vijey-swe-full.png">
             <span class="swe">Software Engineer</span>
             <h3>Vijey</h3>
@@ -288,6 +282,12 @@ variant: markdown
             <img src="/images/Meet%20the%20Team/eunice-full.png">
             <span class="prodmanager">Product Manager</span>
             <h3>Eunice Lee</h3>
+					<h6>Can we build it? Yes we can!</h6>
+        </div>
+		<div class="card-item">
+            <img src="/images/Meet%20the%20Team/eunice-full.png">
+            <span class="prodmanager">Product Manager</span>
+            <h3>Bryan Lian</h3>
 					<h6>Can we build it? Yes we can!</h6>
         </div>
 	<div class="card-item">
