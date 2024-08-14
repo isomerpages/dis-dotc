@@ -140,7 +140,7 @@ variant: markdown
 
 .card-item h3 {
     color: #3C6DE8;
-    font-size: 1.438rem;
+    font-size: 1.25rem;
     margin-top: 8px;
     font-weight: 600;
 }
@@ -227,12 +227,6 @@ variant: markdown
 					<h6>I love cats.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/ravi-full.png">
-            <span class="swe">Software Engineer</span>
-            <h3>Ravi</h3>
-					<h6>No code no go home.</h6>
-        </div>
-	<div class="card-item">
             <img src="/images/Meet%20the%20Team/vijey-swe-full.png">
             <span class="swe">Software Engineer</span>
             <h3>Vijey</h3>
@@ -249,6 +243,12 @@ variant: markdown
             <span class="swe">Software Engineer</span>
             <h3>Alex Chua</h3>
 					<h6>Software engineer by day, code ninja by night.</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/t_daranidarran_swe.jpg">
+            <span class="swe">Software Engineer</span>
+            <h3>T Daranidarran</h3>
+					<h6>Part time degen, full time programmer.</h6>
         </div>
 	</div>
 
@@ -284,11 +284,11 @@ variant: markdown
             <h3>Eunice Lee</h3>
 					<h6>Can we build it? Yes we can!</h6>
         </div>
-	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/srinivas-full.jpg">
+		<div class="card-item">
+            <img src="/images/Meet%20the%20Team/bryan_lian_pm.png">
             <span class="prodmanager">Product Manager</span>
-            <h3>Srinivas Avichal</h3>
-					<h6>Juggling user feedback like a product magician in action.</h6>
+            <h3>Bryan Lian</h3>
+					<h6>Turning challenges into opportunities.</h6>
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/ryan-gan-full.jpg">
