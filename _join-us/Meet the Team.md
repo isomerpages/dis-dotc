@@ -285,10 +285,10 @@ variant: markdown
 					<h6>Can we build it? Yes we can!</h6>
         </div>
 		<div class="card-item">
-            <img src="/images/Meet%20the%20Team/eunice-full.png">
+            <img src="/images/Meet%20the%20Team/bryan_lian_pm.png">
             <span class="prodmanager">Product Manager</span>
             <h3>Bryan Lian</h3>
-					<h6>Can we build it? Yes we can!</h6>
+					<h6>Turning challenges into opportunities.</h6>
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/ryan-gan-full.jpg">
