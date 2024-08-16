@@ -196,6 +196,12 @@ variant: markdown
             <h3>Bowen Low</h3>
 					<h6>Passionate about rapidly improving user experience at scale.</h6>
         </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/aaron-teow-corporate-full.png">
+            <span class="swe">Software Engineer</span>
+            <h3>Aaron Teow</h3>
+					<h6>Trust me, I'm an engineer.</h6>
+        </div>
 				<div class="card-item">
             <img src="/images/Meet%20the%20Team/foo-chi-fa-swe-full.png">
             <span class="swe">Software Engineer</span>
@@ -306,12 +312,6 @@ variant: markdown
             <span class="corpserv">Hd CSB</span>
             <h3>Howard Hung</h3>
 					<h6>Empowering excellence, cultivating synergy, and shaping the backbone of success.</h6>
-        </div>
-				<div class="card-item">
-            <img src="/images/Meet%20the%20Team/aaron-teow-corporate-full.png">
-            <span class="corpserv">AD (Biz Dev)</span>
-            <h3>Aaron Teow</h3>
-					<h6>Connecting vision to opportunity, one partnership at a time.</h6>
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/divya_hdpeople.jpg">
