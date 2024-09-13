@@ -191,12 +191,6 @@ variant: markdown
 					<h6>Turning coffee into code, one line at a time. ☕💻</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/bowen-full.png">
-            <span class="swe">Senior Software Engineer</span>
-            <h3>Bowen Low</h3>
-					<h6>Passionate about rapidly improving user experience at scale.</h6>
-        </div>
-	<div class="card-item">
             <img src="/images/Meet%20the%20Team/aaron-teow-corporate-full.png">
             <span class="swe">Software Engineer</span>
             <h3>Aaron Teow</h3>
@@ -237,12 +231,6 @@ variant: markdown
             <span class="swe">Software Engineer</span>
             <h3>Vijey</h3>
 					<h6>With a vision in mind, the tough days get easier.</h6>
-        </div>
-	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/ambrose-boo-full.png">
-            <span class="swe">Software Engineer</span>
-            <h3>Ambrose Boo</h3>
-					<h6>Bridging passion and code to craft innovative solutions.</h6>
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/alex_chua_swe.jpg">
