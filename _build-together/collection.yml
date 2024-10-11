@@ -1,4 +1,5 @@
 collections:
   build-together:
     output: true
-    order: []
+    order:
+      - Build Together.md
