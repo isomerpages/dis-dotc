@@ -1,5 +1,0 @@
-collections:
-  build-together:
-    output: true
-    order:
-      - Build Together.md
