@@ -325,6 +325,9 @@ variant: markdown
             <h3>Stephanie Lee</h3>
 					<h6>Orchestrating chaos into a symphony of productivity, one appointment at a time.</h6>
         </div>
-	</div>
-	
-	
+<div class="card-item">
+            <img src="/images/Meet%20the%20Team/pravin_gunalan.jpg">
+            <span class="corpserv">Content Manager</span>
+            <h3>Pravin Gunalan</h3>
+					<h6>“Content builds relationships. Relationships are built on trust."</h6>
+        </div></div>
