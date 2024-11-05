@@ -285,10 +285,10 @@ variant: markdown
 					<h6>Turning challenges into opportunities.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/ryan-gan-full.jpg">
+            <img src="/images/Meet%20the%20Team/xin_yang_po.png">
             <span class="prodops">Product Operations</span>
-            <h3>Ryan Gan</h3>
-					<h6>Harmonizing strategy with execution, ensuring seamless efficiency in every product heartbeat.</h6>
+            <h3>Xin Yang</h3>
+					<h6>Rome wasn't built in a day but I don't want to wait 200 years.</h6>
         </div>
 	</div>
 	
@@ -325,4 +325,9 @@ variant: markdown
             <h3>Stephanie Lee</h3>
 					<h6>Orchestrating chaos into a symphony of productivity, one appointment at a time.</h6>
         </div>
-	</div>
+<div class="card-item">
+            <img src="/images/Meet%20the%20Team/pravin_gunalan.jpg">
+            <span class="corpserv">Content Manager</span>
+            <h3>Pravin Gunalan</h3>
+					<h6>Content builds relationships. Relationships are built on trust.</h6>
+        </div></div>
