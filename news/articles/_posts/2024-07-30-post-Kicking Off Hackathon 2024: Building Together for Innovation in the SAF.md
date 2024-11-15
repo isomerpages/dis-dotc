@@ -11,42 +11,42 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_IMG20240730102304.jpg">
 </div>
-<p>The inaugural Hackathon 2024 was officially launched, bringing together
-users and developers from across the Singapore Armed Forces (SAF). This
-collaborative event aimed to discuss pressing problem areas and explore
-innovative solutions. Over the coming weeks, developers and users will
-work closely to prototype answers to significant challenges, united by
-a common objective: "For the SAF, by the SAF."</p>
-<p>With 40 developers, 9 identified problem spaces, 4 distinct services,
-and 1 shared purpose, the focus is clear: to create technology that serves
-the greater good of the SAF community.</p>
-<p>The launch reinforced a growing belief that the quality of software is
-intrinsically linked to the quality of interactions. This includes interactions
-between developers, between users and developers, and among developers
-and stakeholders. The diverse backgrounds of the participants - ranging
-from active personnel and dedicated NSmen who are experienced software
-engineers to interns and NSFs from the RSAF's RAiD - demonstrated the strength
-of collaboration. Even international personnel, currently pursuing their
-studies abroad, joined in despite challenging time zone differences, showcasing
-their commitment to making a meaningful impact.</p>
-<p>What stood out during the event was the earnestness with which SAFE users
-shared their challenges. This sincerity resonated with developers, motivating
-them to step up and offer assistance. Trust is a crucial currency in public
-service, and this earnestness lays the foundation for building that trust.
-Sincerity and passion are key drivers in cultivating lasting relationships
-and effective collaboration.</p>
-<p>Hackathons have the potential to achieve numerous benefits, from discovering
-practical solutions to enhancing skills and fostering a spirit of innovation.
-However, beyond the tangible solutions produced, the relationships forged
-by bringing people and ideas together can yield a positive impact that
-often exceeds expectations.</p>
-<p>As the Hackathon progresses over the next few weeks, there is excitement
-about what will unfold. Stay tuned for updates on this collaborative journey!
-Additionally, if you’re interested in learning more about DOTC or wish
-to join us for future events, connect at <a href="http://www.dotc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.dotc.gov.sg</a>.</p>
-<p>Together, let’s build a brighter future for the SAF!</p>
-<p>#buildtogether #forthesafbythesaf #dotc #SAFhackathon2024</p>
-<p></p>
+<p>DOTC Showcases Innovative Solutions at Army Innovation Day 2024</p>
+<p>On the 2nd of November, the Department of Technology and Communications
+(DOTC) participated in the Army Innovation Day 2024 (AID 24), organized
+by the Combat Service Support Command (CSSCOM) at Kranji Camp III. This
+year's theme, “Innovation for Scale,” highlighted the importance of deploying
+innovations as operational capabilities within the Army and encouraged
+personnel to scale innovation as we collectively “Reimagine our Everyday.”</p>
+<p>During AID 24, DOTC showcased two innovative products: Pinpoint and Pressify.</p>
+<p>Pinpoint (available at<a href="https://app.pinpoint.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>app.pinpoint.gov.sg</u></a>) is
+a secure AI-assisted media sharing and collaboration platform designed
+for government users. We demonstrated how Pinpoint enhances operational
+efficiency by enabling Army personnel to quickly locate, share, and collaborate
+on critical media in real time, fostering effective communication and coordination
+among units.</p>
+<p>Pressify (available at<a href="https://app.pressify.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> </a><a href="https://app.pinpoint.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>app.pressify.gov.sg</u></a>) is
+a digital publishing tool that empowers users to create visually appealing
+documents and presentations effortlessly. At the event, we showcased how
+Pressify streamlines the creation of reports and briefs, allowing Army
+personnel to present their ideas clearly and professionally. This tool
+saves valuable time while enhancing overall output quality, ensuring vital
+information is communicated effectively.</p>
+<p>AID 24 featured over 30 innovative projects focused on improving operations,
+training, and administrative functions. The event also included the Game
+Changers Pitch Challenge, where nine teams pitched ideas with significant
+potential impacts on</p>
+<p>Army operations. Five pre-selected teams competed for funding support
+from the Chief of Army (COA) to scale their projects. Major-General (MG)
+David Neo recognized the creativity and ingenuity of individuals and teams
+who contributed to the Army over the past year, emphasising the commitment
+to innovation and adaptability.</p>
+<p>The team at DOTC is proud to contribute valuable tools that empower Army
+personnel to work more efficiently and effectively. We remain committed
+to supporting the Army's mission through continuous improvement and the
+adoption of technological advancements.</p>
+<p>Together, let us embrace the future of innovation as we transform challenges
+into opportunities and shape the capabilities of our Army!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6660.jpg">
 </div>
