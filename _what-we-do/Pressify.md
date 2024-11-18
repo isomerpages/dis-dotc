@@ -52,49 +52,32 @@ you to bookmark relevant articles into a shared collection for everyone
 in your team. This ensures that all team members stay aligned, facilitating
 better discussions and knowledge-sharing.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/feature_collab_35af93b3_2.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/feature_collab_35af93b3_2.png">
 </div>
-<p></p>
-<p><strong>3. <u>Secured, up to RESTRICTED</u></strong>
+<p><strong>3. <u>Publish Content with Ease</u></strong>
 </p>
-<p>Engineered for security, Pinpoint allows the upload and access of media
-up to RESTRICTED/Sensitive Normal classification levels, ensuring that
-sensitive information is protected. Built in-house by SAF, it meets stringent
-security protocols tailored for government use.</p>
+<p>Publishing content is effortless with Pressify. Choose the automated upload
+feature for quick uploads or the manual option for greater control. The
+built-in editor lets you refine your articles, offering easy formatting,
+image insertion, and linking to ensure polished, professional content.
+With Pressify, you have all the necessary tools to publish high-quality
+content quickly and share your insights with ease.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_15_at_11_04_25_AM.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/get_started_home_21f6c348_2.png">
 </div>
-<p><strong>4. <u>Advanced Multi-Criteria Search</u></strong>
+<p></p>
+<p>Pressify is a vital digital publishing tool that makes creating high-quality
+documents simple and efficient. With its user-friendly interface and strong
+collaboration features, it's perfect for both newcomers and seasoned professionals.
+Getting started is easy - just visit the <a href="https://app.pressify.gov.sg/" rel="noopener nofollow" target="_blank">Pressify Website </a>to create an account
+and begin exploring its capabilities. Whether you're crafting reports or
+presentations, Pressify enhances productivity and helps you deliver impactful
+content. Embrace Pressify and take your document creation to the next level!</p>
+<p>
+<br>
 </p>
-<p>Finding specific media assets can be daunting, especially with large data
-volumes. Pinpoint’s multi-criteria search capabilities allow users to quickly
-locate files through an array of filter options and unique tag combinations,
-significantly enhancing workflow efficiency.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/pptagfiltergif.gif">
-</div>
-<p></p>
-<p><strong>5. <u>AI-Powered Tagging</u></strong>
-</p>
-<p>Pinpoint employs AI tagging to automate media asset organisation, enhancing
-retrieval accuracy and time efficiency. The platform can recognize notable
-figures, simplifying the categorization of relevant media assets and streamlining
-the management process.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/pptageditinggif.gif">
-</div>
-<p>By adopting Pinpoint, whether you are new to digital media management
-or a seasoned professional, you can enhance your effectiveness in modern
-public service. Explore how Pinpoint can transform and elevate your work.
-Sign up for an account at (<a href="https://app.pinpoint.gov.sg" rel="noopener nofollow" target="_blank">Pinpoint</a>)
-to access a suite of powerful features designed to improve productivity
-and collaboration in your organisation.</p>
-<p></p>
 <p>
 <br>
 </p>
