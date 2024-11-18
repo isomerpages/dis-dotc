@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Products.md
-      - Trackr/.keep
       - Pinpoint.md
       - Partnerships.md
