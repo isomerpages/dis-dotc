@@ -2,5 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
+      - Products2.md
       - Products.md
       - Partnerships.md
