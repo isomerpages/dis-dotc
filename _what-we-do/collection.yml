@@ -2,8 +2,8 @@ collections:
   what-we-do:
     output: true
     order:
-      - Pressify.md
-      - Trackr.md
       - Products.md
       - Pinpoint.md
+      - Trackr.md
+      - Pressify.md
       - Partnerships.md
