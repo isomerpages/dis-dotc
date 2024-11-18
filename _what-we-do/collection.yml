@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Products.md
-      - Test.md
+      - Pinpoint.md
       - Partnerships.md
