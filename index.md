@@ -54,13 +54,4 @@ sections:
       url: https://www.facebook.com/thesingaporeDIS/posts/150070907854750?ref=embed_post
       image: /images/1675948047825.jpeg
       alt: DOTC and OGP personnel pose
-  - infopic:
-      title: Establishment of the Digital and Intelligence Service
-      subtitle: Inauguration of the DIS
-      description: The establishment of the DIS marks a key milestone in the
-        transformation of the Next Generation SAF.
-      button: Learn more
-      url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/October/28oct22_nr2
-      image: /images/28oct22_nr2-photo1.jpg
-      alt: DIS Inauguration Parade
 ---
