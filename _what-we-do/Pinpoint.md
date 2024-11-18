@@ -4,3 +4,4 @@ permalink: /pinpoint/
 variant: tiptap
 description: ""
 ---
+<p></p>
