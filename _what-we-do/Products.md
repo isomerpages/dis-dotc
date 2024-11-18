@@ -10,6 +10,4 @@ Our products help to enable:
 
 - Easier ways to organize and find relevant media, powered with image recognition capabilities
 - Simpler processes to derive insights from textual data
-- Efficient tracking of training and qualifications of military personnel 
-
-
+- Efficient tracking of training and qualifications of military personnel
