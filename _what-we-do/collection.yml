@@ -2,5 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
+      - Pinpoint.md
       - Products.md
       - Partnerships.md
