@@ -42,7 +42,7 @@ turnaround of media&nbsp; after events and operations. Grant access to
 your team to collaborate with them.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ppwsgif.gif">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ppwsgif.gif">
 </div>
 <p></p>
 <p><strong>3. <u>Secured, up to RESTRICTED</u></strong>
