@@ -31,7 +31,7 @@ sections:
         passion when it comes to building tech solutions for the betterment of
         Singapore 🇸🇬
       button: SEE MORE
-      url: https://twitter.com/thesingaporedis/status/1787286239311515748?s=52&t=yEOs1s3_SrBeLlv2SJF69A
+      url: https://www.dotc.gov.sg/strengthening-collaborations-in-technology-a-recap-of-govtech-s-visit-to-dotc/
       image: /images/GM23WdJWwAAwvsZ.jpg
       alt: Image alt text
   - infopic:
