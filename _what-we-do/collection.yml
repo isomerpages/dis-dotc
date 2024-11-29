@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - Products/Pressify.md
       - Products/Trackr.md
       - Products/Pinpoint.md
       - Products/.keep
