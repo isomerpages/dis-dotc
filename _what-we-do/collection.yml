@@ -2,9 +2,9 @@ collections:
   what-we-do:
     output: true
     order:
+      - Products.md
       - Products/.keep
       - Products/Pinpoint.md
       - Products/Trackr.md
       - Products/Pressify.md
-      - Products.md
       - Partnerships.md
