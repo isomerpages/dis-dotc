@@ -4,7 +4,6 @@ collections:
     order:
       - Products/.keep
       - Products.md
-      - Pinpoint.md
       - Trackr.md
       - Pressify.md
       - Partnerships.md
