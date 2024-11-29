@@ -2,4 +2,5 @@ collections:
   products:
     output: true
     order:
+      - Trackr.md
       - Pinpoint.md
