@@ -1,24 +1,22 @@
 logo: /images/dotc-logo-v2.png
 links:
-  - title: About
+  - title: About Us
     url: /about/mission
     sublinks:
       - title: Mission
         url: /about/mission
       - title: Vision
         url: /about/vision
-  - title: What We Do
+  - title: Our Products
     url: /what-we-do/products
     sublinks:
-      - title: Products
+      - title: Overview
         url: /what-we-do/products
+      - title: Products
+        url: /permalink
       - title: Partnerships
         url: /what-we-do/partnerships
-      - title: Events
-        url: /news/events/
-      - title: Life at DOTC
-        url: /news/life-at-dotc/
-  - title: Join DOTC
+  - title: Careers
     url: /join-us/why-dotc
     sublinks:
       - title: Why Join Us
@@ -27,5 +25,14 @@ links:
         url: /join-us/meet-the-team
       - title: Job Openings
         url: https://go.gov.sg/dotc-careers
-  - title: Contact Us
+  - title: Media
+    url: /news/
+    sublinks:
+      - title: Articles
+        url: /news/articles/
+      - title: Events
+        url: /news/events/
+      - title: Life at DOTC
+        url: /news/life-at-dotc/
+  - title: Contact
     url: /contact-us
