@@ -4,5 +4,4 @@ collections:
     order:
       - Products.md
       - Products/.keep
-      - Products/Pressify.md
       - Partnerships.md
