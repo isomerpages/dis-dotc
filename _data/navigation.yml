@@ -8,14 +8,14 @@ links:
       - title: Vision
         url: /about/vision
   - title: Our Products
-    url: /what-we-do/products
+    url: /our-products/overview/
     sublinks:
       - title: Overview
-        url: /what-we-do/products
+        url: /our-products/overview/
       - title: Products
-        url: /permalink
+        url: /our-products/pinpoint/
       - title: Partnerships
-        url: /what-we-do/partnerships
+        url: /our-products/partnerships
   - title: Careers
     url: /join-us/why-dotc
     sublinks:
