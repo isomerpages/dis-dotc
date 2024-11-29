@@ -10,9 +10,9 @@ sections:
   - hero:
       title: Digital Ops-Tech Centre
       subtitle: Forging the Digital Frontier
-      background: /images/chiffy_cropped.png
+      background: /images/S112_1_low_min.jpg
       button: Learn More
-      url: /join-us/why-dotc/
+      url: /careers/why-join-us/
       variant: center
       size: md
       key_highlights:
@@ -23,6 +23,13 @@ sections:
       title: What's up in DOTC?
       subtitle: IN THE NEWS
       button: MORE NEWS
+  - infopic:
+      title: Building Together for Innovation and Growth
+      subtitle: DOTC Hackathon 2024
+      description: Insert demo day text here
+      button: LEARN MORE
+      url: "#"
+      image: /images/1732784811364.jpg
   - infopic:
       title: GovTech Visit to DOTC
       subtitle: Partnerships
@@ -44,14 +51,4 @@ sections:
       url: https://www.linkedin.com/posts/opengovsg_safday-humansofogp-techforpublicgood-activity-7080669358812758016-IsnB?utm_source=share&utm_medium=member_desktop
       image: /images/1688163122255.jpg
       alt: Image of Chi Fa
-  - infopic:
-      title: Tackling pain points faced by multiple public agencies
-      subtitle: Hack for Public Good 2023
-      description: Our DIS personnel participated in this year’s HFPG with OGP
-        developers to tackle common pain points across multiple public agencies,
-        creating Pinpoint!
-      button: LEARN MORE
-      url: https://www.facebook.com/thesingaporeDIS/posts/150070907854750?ref=embed_post
-      image: /images/1675948047825.jpeg
-      alt: DOTC and OGP personnel pose
 ---
