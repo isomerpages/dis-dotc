@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - Products/Pinpoint.md
       - Products/.keep
       - Products.md
       - Trackr.md
