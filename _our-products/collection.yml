@@ -1,5 +1,5 @@
 collections:
-  what-we-do:
+  our-products:
     output: true
     order:
       - Products.md
