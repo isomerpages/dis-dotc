@@ -2,5 +2,6 @@ collections:
   our-products:
     output: true
     order:
+      - Products/.keep
       - Overview.md
       - Partnerships.md
