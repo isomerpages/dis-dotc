@@ -37,7 +37,7 @@ sections:
         endless resource.
       button: LEARN MORE
       url: https://staging-lite.d187yb5qyg9sul.amplifyapp.com/demo-day-highlights-collaborative-innovation-shines-at-dotc-s-inaugural-hackathon/
-      image: /images/1732784811364.jpg
+      image: /images/IMG_0300.jpg
   - infopic:
       title: Insights from the Product Design Talk
       subtitle: Events
