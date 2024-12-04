@@ -16,9 +16,9 @@ variant: tiptap
 <p>At DOTC (Digital Ops-Tech Centre), we believe that creativity is an endless
 resource—one that only grows stronger when we come together and put it
 into action. This philosophy was at the heart of our inaugural Hackathon
-2024, and it culminated in a vibrant Demo Day last Friday where teams showcased
-their functional prototypes to an audience of agencies and professionals
-from across the Ministry of Defence (MINDEF) and the Singapore Armed Forces
+2024, and it culminated in a vibrant Demo Day, where teams showcased their
+functional prototypes to an audience of agencies and professionals from
+across the Ministry of Defence (MINDEF) and the Singapore Armed Forces
 (SAF).</p>
 <p>The event was a remarkable display of collaboration, where innovative
 ideas sparked off one another and developers, users, and stakeholders united
