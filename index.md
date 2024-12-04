@@ -49,13 +49,14 @@ sections:
       image: /images/3_2537a822_49a0_4326_955a_16539fe723f0.jpg
       alt: Image alt text
   - infopic:
-      title: Chi Fa 👋
-      subtitle: Meet Our Team
+      title: "Team Bonding at DOTC: Embracing Diversity and Collaboration"
+      subtitle: Life at DOTC
       id: infopic
-      description: Learn more about Chi Fa's tech odyssey during his year at OGP in
-        2023 and the inspiration behind his leap into DOTC! 🌐✨
+      description: The Digital Ops-Tech Centre (DOTC) recently hosted a team bonding
+        activity that highlighted the unique talents and diverse perspectives of
+        our team.
       button: Learn More
-      url: https://www.linkedin.com/posts/opengovsg_safday-humansofogp-techforpublicgood-activity-7080669358812758016-IsnB?utm_source=share&utm_medium=member_desktop
-      image: /images/1688163122255.jpg
+      url: https://www.dotc.gov.sg/team-bonding-at-dotc-embracing-diversity-and-collaboration/
+      image: /images/1_20240903_113322.jpg
       alt: Image of Chi Fa
 ---
