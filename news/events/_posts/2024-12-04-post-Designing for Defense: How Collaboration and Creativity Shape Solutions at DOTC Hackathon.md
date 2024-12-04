@@ -193,5 +193,19 @@ of defense technology to drive progress and ensure Singapore remains resilient
 in an evolving landscape.</p>
 <p>
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7984.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7996.jpg">
+</div>
+<p>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_7992.jpg">
+</div>
+<p></p>
