@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Products
 ---
 <h4><strong><u>Optimise Your Digital Media Management with Pinpoint</u></strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Asset_50.png">
+</div>
 <p>In today's fast-paced digital landscape, effective collaboration is essential
 for success, particularly in the public sector. Pinpoint stands out as
 an innovative, AI-assisted media sharing and collaboration platform meticulously
