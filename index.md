@@ -31,22 +31,22 @@ sections:
       subtitle: IN THE NEWS
       button: MORE NEWS
   - infopic:
-      title: Building Together for Innovation and Growth
-      subtitle: DOTC Hackathon 2024
-      description: Insert demo day text here
+      title: Collaborative Innovation Shines at DOTC’s Hackathon
+      subtitle: Events
+      description: At DOTC (Digital Ops-Tech Centre), we believe that creativity is an
+        endless resource.
       button: LEARN MORE
-      url: "#"
+      url: https://staging-lite.d187yb5qyg9sul.amplifyapp.com/demo-day-highlights-collaborative-innovation-shines-at-dotc-s-inaugural-hackathon/
       image: /images/1732784811364.jpg
   - infopic:
-      title: GovTech Visit to DOTC
-      subtitle: Partnerships
+      title: Insights from the Product Design Talk
+      subtitle: Events
       id: infopic
-      description: During the visit, both agencies shared similar perspectives and
-        passion when it comes to building tech solutions for the betterment of
-        Singapore 🇸🇬
+      description: Effective software design is crucial for creating intuitive and
+        impactful products, especially as the stakes grow higher.
       button: SEE MORE
-      url: https://www.dotc.gov.sg/strengthening-collaborations-in-technology-a-recap-of-govtech-s-visit-to-dotc/
-      image: /images/GM23WdJWwAAwvsZ.jpg
+      url: https://www.dotc.gov.sg/celebrating-design-excellence-insights-from-the-first-product-design-talk/
+      image: /images/3_2537a822_49a0_4326_955a_16539fe723f0.jpg
       alt: Image alt text
   - infopic:
       title: Chi Fa 👋
