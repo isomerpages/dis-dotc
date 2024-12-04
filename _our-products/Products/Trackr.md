@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Products
 ---
 <h4><strong><u>Maximising Efficiency and Accountability with Trackr</u></strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Asset_52.png">
+</div>
 <p>In government operations, efficiency, accountability, and transparency
 in digital asset management are essential. Trackr is a robust cloud-based
 platform designed to streamline the tracking and management of physical
