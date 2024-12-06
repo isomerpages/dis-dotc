@@ -9,6 +9,9 @@ image: ""
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_IMG_0766.jpg">
+</div>
 <p>The month-long hackathon organized by the Digital Ops-Tech Centre (DOTC)
 brought together talents from diverse backgrounds, including product designers
 from the private sector, to tackle challenges in Singapore’s defense space.
@@ -43,10 +46,6 @@ lack efficiency and transparency."</p>
 </li>
 </ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/IMG_7872.jpg">
-</div>
-<p></p>
 <blockquote>
 <p><strong><u><sup>Collaboration and Teamwork</sup></u></strong>
 </p>
@@ -70,6 +69,12 @@ to design—brought unique perspectives. Evaluating ideas collectively improved
 the product creatively, practically, and for the end-users."</p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7860.jpg">
+</div>
+<p></p>
 <blockquote>
 <p><strong><u><sup>Innovative Approaches and Technologies</sup></u></strong>
 </p>
@@ -114,6 +119,12 @@ communication boosts accountability and can be applied across various SAF
 processes, not just HR."</p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7996.jpg">
+</div>
+<p></p>
 <blockquote>
 <p><strong><u><sup>Overcoming Challenges</sup></u></strong>
 </p>
@@ -159,6 +170,11 @@ open-minded, fail fast, and learn quickly."</p>
 focus on learning, experimenting, and stepping out of your comfort zone."</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7984.jpg">
+</div>
+<p></p>
 <blockquote>
 <p><strong><u><sup>The Role of Innovation in Government Operations</sup></u></strong>
 </p>
@@ -182,6 +198,11 @@ challenges. Integrating advancements like GenAI and cybersecurity solutions
 is critical for staying ahead and improving processes."</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7984.jpg">
+</div>
+<p></p>
 <p>The DOTC hackathon exemplified the power of collaboration and creativity
 in solving defense challenges. Geetha, Kenneth, and Elyn demonstrated how
 design thinking, teamwork, and feedback can lead to impactful solutions
