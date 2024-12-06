@@ -34,8 +34,8 @@ sections:
       title: "Hackathon Demo Day Highlights #BuildTogether"
       subtitle: Events
       id: infopic
-      description: Teams showcased their functional prototypes to an audience across
-        the MINDEF and the SAF.
+      description: Teams presented functional prototypes to an audience of agencies
+        and professionals from MINDEF and the SAF.
       button: LEARN MORE
       url: https://www.dotc.gov.sg/demo-day-highlights-collaborative-innovation-shines-at-dotc-s-inaugural-hackathon/
       image: /images/1732784811364.jpg
