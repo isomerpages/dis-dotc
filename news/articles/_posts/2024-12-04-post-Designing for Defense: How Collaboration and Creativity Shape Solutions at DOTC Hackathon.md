@@ -167,7 +167,7 @@ focus on learning, experimenting, and stepping out of your comfort zone."</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7984.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7991.jpg">
 </div>
 <p></p>
 <blockquote>
@@ -194,7 +194,7 @@ is critical for staying ahead and improving processes."</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7991.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7872.jpg">
 </div>
 <p></p>
 <p>The DOTC hackathon exemplified the power of collaboration and creativity
