@@ -37,7 +37,7 @@ sections:
       description: Teams presented functional prototypes to an audience of agencies
         and professionals from MINDEF and the SAF.
       button: LEARN MORE
-      url: https://www.dotc.gov.sg/demo-day-highlights-collaborative-innovation-shines-at-dotc-s-inaugural-hackathon/
+      url: /hackathon-demo-day-highlights/
       image: /images/1732784811364.jpg
       alt: Image alt text
   - infopic:
@@ -55,11 +55,10 @@ sections:
       title: "Team Bonding at DOTC: Embracing Diversity and Collaboration"
       subtitle: Life at DOTC
       id: infopic
-      description: The Digital Ops-Tech Centre (DOTC) recently hosted a team bonding
-        activity that highlighted the unique talents and diverse perspectives of
-        our team.
+      description: We recently held a team bonding activity that highlighted the
+        unique talents and diverse perspectives of our team.
       button: Learn More
-      url: https://www.dotc.gov.sg/team-bonding-at-dotc-embracing-diversity-and-collaboration/
+      url: /team-bonding-at-dotc-embracing-diversity-and-collaboration/
       image: /images/1_20240903_113322.jpg
-      alt: Image of Chi Fa
+      alt: Image alt text
 ---
