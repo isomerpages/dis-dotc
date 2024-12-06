@@ -43,9 +43,7 @@ However, beyond the tangible solutions produced, the relationships forged
 by bringing people and ideas together can yield a positive impact that
 often exceeds expectations.</p>
 <p>As the Hackathon progresses over the next few weeks, there is excitement
-about what will unfold. Stay tuned for updates on this collaborative journey!
-Additionally, if you’re interested in learning more about DOTC or wish
-to join us for future events, connect at <a href="http://www.dotc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.dotc.gov.sg</a>.</p>
+about what will unfold. Stay tuned for updates on this collaborative journey!</p>
 <p>Together, let’s build a brighter future for the SAF!</p>
 <p>#buildtogether #forthesafbythesaf #dotc #SAFhackathon2024</p>
 <p></p>
