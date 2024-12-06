@@ -13,16 +13,16 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_IMG_0766.jpg">
 </div>
 <p>The month-long hackathon organized by the Digital Ops-Tech Centre (DOTC)
-brought together talents from diverse backgrounds, including product designers
-from the private sector, to tackle challenges in Singapore’s defense space.
-Participants like Geetha, Kenneth, and Elyn harnessed creativity, collaboration,
+brought together talents from diverse backgrounds, inviting product designers
+from the private sector, who are interested in Singapore’s defense space.
+Designers like Geetha, Kenneth, and Elyn harnessed creativity, collaboration,
 and innovation to deliver solutions addressing critical operational needs.
-Their experiences underscore the value of design thinking and teamwork
+(Include interviewed them, along the lines of that) Find out more about
+their experiences underscoring the value of design thinking and teamwork
 in achieving impactful outcomes in defense technology.</p>
 <p></p>
 <blockquote>
-<p><strong><u><sup>Inspiration and Problem Solving</sup></u></strong>
-</p>
+<p>Inspiration and Problem Solving</p>
 </blockquote>
 <p><strong>What inspired you to participate in the Hackathon, and what problem were you aiming to solve?</strong>
 </p>
@@ -47,8 +47,7 @@ lack efficiency and transparency."</p>
 </ul>
 <p></p>
 <blockquote>
-<p><strong><u><sup>Collaboration and Teamwork</sup></u></strong>
-</p>
+<p>Collaboration and Teamwork</p>
 </blockquote>
 <p><strong>How did collaboration contribute to the development of your project?</strong>
 </p>
@@ -76,8 +75,7 @@ the product creatively, practically, and for the end-users."</p>
 </div>
 <p></p>
 <blockquote>
-<p><strong><u><sup>Innovative Approaches and Technologies</sup></u></strong>
-</p>
+<p>Innovative Approaches and Technologies</p>
 </blockquote>
 <p><strong>What innovative approaches or technologies did you integrate?</strong>
 </p>
@@ -99,8 +97,7 @@ for all users."</p>
 </li>
 </ul>
 <blockquote>
-<p><strong><u><sup>Impact on SAF and Innovation</sup></u></strong>
-</p>
+<p>Impact on SAF and Innovation</p>
 </blockquote>
 <p><strong>How do you envision your project benefiting SAF and contributing to innovation?</strong>
 </p>
@@ -126,8 +123,7 @@ processes, not just HR."</p>
 </div>
 <p></p>
 <blockquote>
-<p><strong><u><sup>Overcoming Challenges</sup></u></strong>
-</p>
+<p>Overcoming Challenges</p>
 </blockquote>
 <p><strong>What challenges did you face, and how did you overcome them?</strong>
 </p>
@@ -149,8 +145,7 @@ us to showcase the product’s full potential."</p>
 </li>
 </ul>
 <blockquote>
-<p><strong><u><sup>Key Learnings and Advice</sup></u></strong>
-</p>
+<p>Key Learnings and Advice</p>
 </blockquote>
 <p><strong>What did you learn, and what advice would you give to future hackathon participants?</strong>
 </p>
@@ -176,8 +171,7 @@ focus on learning, experimenting, and stepping out of your comfort zone."</p>
 </div>
 <p></p>
 <blockquote>
-<p><strong><u><sup>The Role of Innovation in Government Operations</sup></u></strong>
-</p>
+<p>The Role of Innovation in Government Operations</p>
 </blockquote>
 <p><strong>What role does innovation play in shaping government operations?</strong>
 </p>
