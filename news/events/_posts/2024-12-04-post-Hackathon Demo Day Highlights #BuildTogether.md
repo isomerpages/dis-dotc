@@ -43,6 +43,10 @@ innovative solutions.” This spirit of cooperation and open dialogue was
 the true essence of the Hackathon, reinforcing the value of real-world
 input in the development of cutting-edge tech.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0545.jpg">
+</div>
+<p></p>
 <blockquote>
 <p>A Day of Inspiration and Innovation</p>
 </blockquote>
@@ -58,6 +62,10 @@ minds came together to address meaningful issues within the SAF and MINDEF.
 From addressing operational efficiency to enhancing the well-being of SAF
 personnel, the solutions created during the Hackathon have the potential
 to transform how we operate and collaborate.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0484.jpg">
+</div>
 <p></p>
 <blockquote>
 <p>Forging Stronger Connections</p>
@@ -75,6 +83,11 @@ look forward to the next steps in our journey. The collaboration doesn’t
 stop with the Hackathon; it’s a continuous process of iteration and improvement.
 Together, we will ensure that these solutions truly meet the needs of our
 users and make a lasting impact on the SAF and the wider defense community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0593.jpg">
+</div>
+<p></p>
 <p></p>
 <blockquote>
 <p>Looking Forward</p>
