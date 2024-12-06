@@ -33,11 +33,13 @@ sections:
   - infopic:
       title: Collaborative Innovation Shines at DOTC’s Hackathon
       subtitle: Events
+      id: infopic
       description: At DOTC (Digital Ops-Tech Centre), we believe that creativity is an
         endless resource.
       button: LEARN MORE
       url: https://staging-lite.d187yb5qyg9sul.amplifyapp.com/demo-day-highlights-collaborative-innovation-shines-at-dotc-s-inaugural-hackathon/
-      image: /images/7_6163109c_54bd_4241_83f9_75947ca0b570.jpg
+      image: /images/1732784811364.jpg
+      alt: Image alt text
   - infopic:
       title: Insights from the Product Design Talk
       subtitle: Events
