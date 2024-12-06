@@ -21,8 +21,7 @@ of user requirements, which facilitates data-driven decisions throughout
 the development cycle.</p>
 <p>The recent Product Design talk gathered a vibrant group of design professionals
 eager to share insights and experiences. Joel Tai, Senior Product Designer
-at&nbsp;</p>
-<p>Digital Ops-Tech Centre (DOTC), offered valuable insights on adapting
+at&nbsp;Digital Ops-Tech Centre (DOTC), offered valuable insights on adapting
 commercial UX principles for military contexts, providing real-world examples
 that resonated with both seasoned designers and those new to the field.
 Trena Lee, a product designer at DOTC, led discussions on how traditional
