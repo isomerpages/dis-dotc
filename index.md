@@ -48,7 +48,7 @@ sections:
         intersection of UX and the military, led by our talented designers, Joel
         and Trena.
       button: LEARN MORE
-      url: https://www.dotc.gov.sg/celebrating-design-excellence-insights-from-the-first-product-design-talk/
+      url: /celebrating-design-excellence-insights-from-the-first-product-design-talk/
       image: /images/3_2537a822_49a0_4326_955a_16539fe723f0.jpg
       alt: Image alt text
   - infopic:
