@@ -7,9 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_2537a822_49a0_4326_955a_16539fe723f0.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_6163109c_54bd_4241_83f9_75947ca0b570.jpg">
 </div>
 <p>Effective software design is crucial for creating intuitive and impactful
 products, especially as the stakes grow higher. High-quality design not
@@ -43,11 +42,12 @@ Together, these conversations reinforced the fundamental role of effective
 design in enhancing military capabilities.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_6163109c_54bd_4241_83f9_75947ca0b570.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/40a9e35f_18b7_4065_8cfa_63be17f6a1f7.jpg">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8_73e3b3d2_112e_41fc_a9fe_af34a54bb780.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9d41e050_bed4_4ea6_a4fb_bfecf6c3669a__1_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
