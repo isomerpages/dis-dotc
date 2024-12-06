@@ -31,22 +31,23 @@ sections:
       subtitle: IN THE NEWS
       button: MORE NEWS
   - infopic:
-      title: Collaborative Innovation Shines at DOTC’s Hackathon
+      title: "Hackathon Demo Day Highlights #BuildTogether"
       subtitle: Events
       id: infopic
-      description: At DOTC (Digital Ops-Tech Centre), we believe that creativity is an
-        endless resource.
+      description: Teams showcased their functional prototypes to an audience across
+        the MINDEF and the SAF.
       button: LEARN MORE
-      url: https://staging-lite.d187yb5qyg9sul.amplifyapp.com/demo-day-highlights-collaborative-innovation-shines-at-dotc-s-inaugural-hackathon/
+      url: https://www.dotc.gov.sg/demo-day-highlights-collaborative-innovation-shines-at-dotc-s-inaugural-hackathon/
       image: /images/1732784811364.jpg
       alt: Image alt text
   - infopic:
-      title: Insights from the Product Design Talk
+      title: Product Design at DOTC
       subtitle: Events
       id: infopic
-      description: Effective software design is crucial for creating intuitive and
-        impactful products, especially as the stakes grow higher.
-      button: SEE MORE
+      description: An engaging evening with design professionals exploring the unique
+        intersection of UX and the military, led by our talented designers, Joel
+        and Trena.
+      button: LEARN MORE
       url: https://www.dotc.gov.sg/celebrating-design-excellence-insights-from-the-first-product-design-talk/
       image: /images/3_2537a822_49a0_4326_955a_16539fe723f0.jpg
       alt: Image alt text
