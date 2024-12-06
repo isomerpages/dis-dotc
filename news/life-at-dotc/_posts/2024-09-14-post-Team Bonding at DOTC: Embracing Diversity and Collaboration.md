@@ -11,11 +11,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_20240903_113322.jpg">
 </div>
-<p>The Digital Ops-Tech Centre (DOTC) recently hosted a team bonding activity
-that highlighted the unique talents and diverse perspectives of our team.
-During this engaging getaway, our team members participated in a creative
-session where they painted artistic tote bags, reinforcing our commitment
-to individuality and teamwork.</p>
+<p>We recently held a team bonding activity that highlighted the unique talents
+and diverse perspectives of our team. During this engaging getaway, our
+team members participated in a creative session where they painted artistic
+tote bags, reinforcing our commitment to individuality and teamwork.</p>
 <p>DOTC takes pride in fostering a collaborative environment where dedicated
 professionals come together. Each team has its own personality, shaped
 by its members and the specific challenges they address. We believe in
