@@ -7,9 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1729619335365.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1729619335399_2.jpg">
 </div>
 <p>The inaugural Hackathon 2024 was officially launched, bringing together
 users and developers from across the Singapore Armed Forces (SAF). This
@@ -47,16 +46,17 @@ about what will unfold. Stay tuned for updates on this collaborative journey!</p
 <p>Together, let’s build a brighter future for the SAF!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1729619335302.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20241022_132434.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1729619335399_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1729619335365.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1729619334563.jpg">
 </div>
+<p></p>
 <p>
 <br>
 </p>
