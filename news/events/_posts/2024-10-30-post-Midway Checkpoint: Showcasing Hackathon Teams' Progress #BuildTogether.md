@@ -38,7 +38,8 @@ more about it <a href="/hackathon-demo-day-highlights/" rel="noopener" target="_
 <p>Explore how the Digital Ops-Tech Centre (DOTC) is redefining public sector
 innovation as an in-house software engineering team, driving digital transformation
 to enhance Singapore's defense and public safety. Learn more about our
-unique approach and opportunities to join us on our <a href="https://www.dotc.gov.sg/join-us/why-dotc/" rel="noopener" target="_new">Join DOTC</a> page.</p>
+unique approach and opportunities to <a href="https://www.dotc.gov.sg/join-us/why-dotc/" rel="noopener" target="_new">join us.</a>
+</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
