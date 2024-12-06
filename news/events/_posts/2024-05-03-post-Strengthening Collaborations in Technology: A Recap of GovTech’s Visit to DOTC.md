@@ -33,8 +33,7 @@ and collaboration, agencies like DOTC and GovTech are paving the way for
 a future where technology can thrive and serve the public effectively.</p>
 <p>Stay tuned for more updates on our collaborative efforts in technology,
 and let’s continue to work together to build a better future for Singapore!</p>
-<p>Join the conversation with us using the hashtags: #DigitalOpsTech #GuardiansOfNewFrontier
-#TheSingaporeDIS.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1714960042791.jpg">
 </div>
