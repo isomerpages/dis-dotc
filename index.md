@@ -49,7 +49,7 @@ sections:
         and Trena.
       button: LEARN MORE
       url: /celebrating-design-excellence-insights-from-the-first-product-design-talk/
-      image: /images/3_2537a822_49a0_4326_955a_16539fe723f0.jpg
+      image: /images/7_6163109c_54bd_4241_83f9_75947ca0b570.jpg
       alt: Image alt text
   - infopic:
       title: "Team Bonding at DOTC: Embracing Diversity and Collaboration"
