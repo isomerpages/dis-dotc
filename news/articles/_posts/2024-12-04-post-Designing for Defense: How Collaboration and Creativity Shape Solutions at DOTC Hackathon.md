@@ -213,6 +213,6 @@ in an evolving landscape.</p>
 <p>Explore how the Digital Ops-Tech Centre (DOTC) is redefining public sector
 innovation as an in-house software engineering team, driving digital transformation
 to enhance Singapore's defence and public safety. Learn more about our
-unique approach and opportunities to <a href="https://www.dotc.gov.sg/careers/why-join-us/" rel="noopener" target="_new">join us.</a>
+unique approach and opportunities to <a href="/careers/why-join-us/" rel="noopener" target="_new">join us.</a>
 </p>
 <p></p>
