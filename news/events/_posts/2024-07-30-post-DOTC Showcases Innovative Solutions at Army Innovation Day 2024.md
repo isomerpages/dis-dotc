@@ -11,7 +11,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_IMG20240730102304.jpg">
 </div>
-<p>DOTC Showcases Innovative Solutions at Army Innovation Day 2024</p>
 <p>On the 2nd of November, the Department of Technology and Communications
 (DOTC) participated in the Army Innovation Day 2024 (AID 24), organized
 by the Combat Service Support Command (CSSCOM) at Kranji Camp III. This
