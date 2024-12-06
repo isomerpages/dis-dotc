@@ -34,7 +34,7 @@ the defence landscape, ensuring that solutions are both practical and user-centr
 <p>For a closer look at how collaboration fuels our work, check out the highlights
 from our Hackathon Demo Day. This exciting event showcased the creativity
 and expertise of our teams as they brought innovative ideas to life. Read
-more about it <a href="/hackathon-demo-day-highlights/" rel="noopener nofollow" target="_blank">here.</a>
+more about it <a href="https://dotc.gov.sg/hackathon-demo-day-highlights/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <p>Explore how the Digital Ops-Tech Centre (DOTC) is redefining public sector
 innovation as an in-house software engineering team, driving digital transformation
