@@ -15,9 +15,7 @@ from the private sector, to tackle challenges in Singapore’s defense space.
 Participants like Geetha, Kenneth, and Elyn harnessed creativity, collaboration,
 and innovation to deliver solutions addressing critical operational needs.
 Their experiences underscore the value of design thinking and teamwork
-in achieving impactful outcomes in defense technology.
-<br>
-</p>
+in achieving impactful outcomes in defense technology.</p>
 <p></p>
 <blockquote>
 <p><strong><u><sup>Inspiration and Problem Solving</sup></u></strong>
@@ -44,6 +42,11 @@ UI/UX design skills to solve issues with tracking HR workflows, which currently
 lack efficiency and transparency."</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/IMG_7872.jpg">
+</div>
+<p></p>
 <blockquote>
 <p><strong><u><sup>Collaboration and Teamwork</sup></u></strong>
 </p>
@@ -194,18 +197,9 @@ in an evolving landscape.</p>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7984.jpg">
-</div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7996.jpg">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_7992.jpg">
-</div>
 <p></p>
