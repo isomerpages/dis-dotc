@@ -44,7 +44,8 @@ often exceeds expectations.</p>
 <p>As Hackathon 2024 unfolds in the coming weeks, the anticipation builds
 for the innovative ideas and solutions that will emerge. Stay tuned for
 updates on this exciting journey of collaboration and growth, and explore
-more about how we’re fostering creativity and teamwork in our <a href="https://www.dotc.gov.sg/hackathon-2024-building-together-for-innovation-and-growth/" rel="noopener" target="_new">Hackathon 2024 feature</a>.</p>
+more about how we’re fostering creativity and teamwork in our Midway Checkpoint:
+Showcasing Hackathon Teams' Progress feature</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20241022_132434.jpg">
