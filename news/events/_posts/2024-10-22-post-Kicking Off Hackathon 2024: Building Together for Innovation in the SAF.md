@@ -45,7 +45,6 @@ often exceeds expectations.</p>
 <p>As the Hackathon progresses over the next few weeks, there is excitement
 about what will unfold. Stay tuned for updates on this collaborative journey!</p>
 <p>Together, let’s build a brighter future for the SAF!</p>
-<p>#buildtogether #forthesafbythesaf #dotc #SAFhackathon2024</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1729619335302.jpg">
