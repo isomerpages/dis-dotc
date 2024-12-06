@@ -16,11 +16,12 @@ variant: tiptap
 brought together talents from diverse backgrounds, inviting product designers
 from the private sector, who are interested in Singapore’s defense space.
 Designers like Geetha, Kenneth, and Elyn harnessed creativity, collaboration,
-and innovation to deliver solutions addressing critical operational needs.
-(Include interviewed them, along the lines of that) Find out more about
-their experiences underscoring the value of design thinking and teamwork
-in achieving impactful outcomes in defense technology.</p>
-<p></p>
+and innovation to deliver solutions addressing critical operational needs.</p>
+<p>We had an insightful conversation with them to find out more about their
+experiences which underscored the value of design thinking and teamwork
+in achieving impactful outcomes in defense technology.
+<br>
+</p>
 <blockquote>
 <p>Inspiration and Problem Solving</p>
 </blockquote>
