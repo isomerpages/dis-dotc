@@ -18,13 +18,13 @@ year's theme, “Innovation for Scale,” highlighted the importance of deployin
 innovations as operational capabilities within the Army and encouraged
 personnel to scale innovation as we collectively “Reimagine our Everyday.”</p>
 <p>During AID 24, DOTC showcased two innovative products: Pinpoint and Pressify.</p>
-<p>Pinpoint (available at<a href="https://app.pinpoint.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>app.pinpoint.gov.sg</u></a>) is
+<p><a href="https://app.pinpoint.gov.sg/" rel="noopener nofollow" target="_blank">Pinpoint</a> is
 a secure AI-assisted media sharing and collaboration platform designed
 for government users. We demonstrated how Pinpoint enhances operational
 efficiency by enabling Army personnel to quickly locate, share, and collaborate
 on critical media in real time, fostering effective communication and coordination
 among units.</p>
-<p>Pressify (available at<a href="https://app.pressify.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> </a><a href="https://app.pinpoint.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>app.pressify.gov.sg</u></a>) is
+<p><a href="https://app.pressify.gov.sg/" rel="noopener nofollow" target="_blank">Pressify</a> is
 a digital publishing tool that empowers users to create visually appealing
 documents and presentations effortlessly. At the event, we showcased how
 Pressify streamlines the creation of reports and briefs, allowing Army
