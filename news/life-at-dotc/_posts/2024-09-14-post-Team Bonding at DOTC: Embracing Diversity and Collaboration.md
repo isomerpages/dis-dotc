@@ -22,10 +22,10 @@ by its members and the specific challenges they address. We believe in
 upholding core values such as communication, collaboration, and initiative
 while empowering teams to adopt their own approaches to achieve our shared
 objective of delivering impactful solutions.</p>
-<p>We understand that agile development thrives on adaptability rather than
-rigid processes. Recognising that humans are not machines, we promote self-management,
-open communication, and continuous improvement - key elements for achieving
-success in our dynamic field.</p>
+<p>DOTC understands that agile development thrives on adaptability rather
+than rigid processes. Recognising that humans are not machines, we promote
+self-management, open communication, and continuous improvement - key elements
+for achieving success in our dynamic field.</p>
 <p>As the challenges we face become more complex, valuing diverse perspectives
 and talents is crucial for navigating our path forward. This recent team
 bonding experience not only strengthened our internal relationships but
