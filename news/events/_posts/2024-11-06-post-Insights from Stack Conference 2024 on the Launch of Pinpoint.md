@@ -39,7 +39,7 @@ strengthens connections among individuals and agencies, streamlining collaborati
 in today’s teamwork-centric environment where effective cooperation tools
 are paramount.</p>
 <p>Experience <a href="http://www.pinpoint.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pinpoint</a> firsthand
-- find the needle in the haystack!</p>
+- find the needle in your haystack!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_20241106_150929.jpg">
