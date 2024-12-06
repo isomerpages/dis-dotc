@@ -41,10 +41,10 @@ practical solutions to enhancing skills and fostering a spirit of innovation.
 However, beyond the tangible solutions produced, the relationships forged
 by bringing people and ideas together can yield a positive impact that
 often exceeds expectations.</p>
-<p>As Hackathon 2024 unfolds in the coming weeks, the anticipation builds
-for the innovative ideas and solutions that will emerge. Stay tuned for
-updates on this exciting journey of collaboration and growth, and explore
-our hackathon teams' progress in our <a href="https://dotc.gov.sg/showcasing-hackathon-teams-progress/" rel="noopener nofollow" target="_blank">Midway Checkpoint </a>feature.</p>
+<p>As Hackathon 2024 continues to unfold, anticipation grows for the innovative
+ideas and solutions taking shape. Stay tuned for updates on this exciting
+collaborative journey, and catch up on the progress of our hackathon teams
+in our Midway Checkpoint feature. <a href="https://dotc.gov.sg/showcasing-hackathon-teams-progress/" rel="noopener nofollow" target="_blank">Midway Checkpoint </a>feature.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20241022_132434.jpg">
