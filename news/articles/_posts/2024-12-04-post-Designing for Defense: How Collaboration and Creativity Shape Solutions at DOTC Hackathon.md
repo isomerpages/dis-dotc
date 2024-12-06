@@ -12,14 +12,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_IMG_0766.jpg">
 </div>
-<p>The month-long hackathon organized by the Digital Ops-Tech Centre (DOTC)
+<p>The month-long hackathon organised by the Digital Ops-Tech Centre (DOTC)
 brought together talents from diverse backgrounds, inviting product designers
-from the private sector, who are interested in Singapore’s defense space.
+from the private sector, who are interested in Singapore’s defence space.
 Designers like Geetha, Kenneth, and Elyn harnessed creativity, collaboration,
 and innovation to deliver solutions addressing critical operational needs.</p>
 <p>We had an insightful conversation with them to find out more about their
 experiences which underscored the value of design thinking and teamwork
-in achieving impactful outcomes in defense technology.
+in achieving impactful outcomes in defence technology.
 <br>
 </p>
 <blockquote>
@@ -29,7 +29,7 @@ in achieving impactful outcomes in defense technology.
 </p>
 <ul>
 <li>
-<p><strong>Kenneth:</strong> "I was drawn by my interest in defense tech and
+<p><strong>Kenneth:</strong> "I was drawn by my interest in defence tech and
 the chance to develop solutions for spectrum management. I wanted to help
 stakeholders build a dashboard and explore new opportunities within this
 space."</p>
@@ -41,7 +41,7 @@ process of frequency assignment and improve visibility for frequency allocations
 </li>
 <li>
 <p><strong>Elyn:</strong> "As someone outside the field, this was a rare opportunity
-to tackle problems in MINDEF's defense space. It also allowed me to apply
+to tackle problems in MINDEF's defence space. It also allowed me to apply
 UI/UX design skills to solve issues with tracking HR workflows, which currently
 lack efficiency and transparency."</p>
 </li>
@@ -54,7 +54,7 @@ lack efficiency and transparency."</p>
 </p>
 <ul>
 <li>
-<p><strong>Geetha:</strong> "Daily standups were essential for refining our
+<p><strong>Geetha:</strong> "Daily stand-ups were essential for refining our
 designs and moving forward. My team members brought extensive SAF domain
 knowledge, which was crucial during user discussions."</p>
 </li>
@@ -82,7 +82,7 @@ the product creatively, practically, and for the end-users."</p>
 </p>
 <ul>
 <li>
-<p><strong>Kenneth:</strong> "We visualized complex data through a spectrogram
+<p><strong>Kenneth:</strong> "We visualised complex data through a spectrogram
 and used workshops to gather user input. This iterative process ensured
 the dashboard met user needs."</p>
 </li>
@@ -108,7 +108,7 @@ for all users."</p>
 time, enabling them to focus on strategic tasks."</p>
 </li>
 <li>
-<p><strong>Kenneth:</strong> "Our dashboard enhances data visualization, empowering
+<p><strong>Kenneth:</strong> "Our dashboard enhances data visualisation, empowering
 SAF and other government agencies to make informed decisions efficiently."</p>
 </li>
 <li>
@@ -131,11 +131,11 @@ processes, not just HR."</p>
 <ul>
 <li>
 <p><strong>Geetha:</strong> "Understanding user requirements, especially for
-the auto-assignment logic, was challenging. Feedback loops and prioritizing
+the auto-assignment logic, was challenging. Feedback loops and prioritising
 simplicity helped us address these issues."</p>
 </li>
 <li>
-<p><strong>Kenneth:</strong> "Visualizing complex data and working with stakeholders
+<p><strong>Kenneth:</strong> "Visualising complex data and working with stakeholders
 without clear answers were tough. Close collaboration and iteration were
 key to overcoming these challenges."</p>
 </li>
@@ -178,8 +178,8 @@ focus on learning, experimenting, and stepping out of your comfort zone."</p>
 </p>
 <ul>
 <li>
-<p><strong>Geetha:</strong> "Innovation is essential for modernizing government
-operations, especially in defense. It’s about fostering a culture that
+<p><strong>Geetha:</strong> "Innovation is essential for modernising government
+operations, especially in defence. It’s about fostering a culture that
 encourages experimentation and problem-solving."</p>
 </li>
 <li>
@@ -188,7 +188,7 @@ remains ahead in addressing emerging challenges. Our solutions aim to pave
 the way for a more efficient and agile SAF."</p>
 </li>
 <li>
-<p><strong>Elyn:</strong> "Innovation in defense ensures readiness for future
+<p><strong>Elyn:</strong> "Innovation in defence ensures readiness for future
 challenges. Integrating advancements like GenAI and cybersecurity solutions
 is critical for staying ahead and improving processes."</p>
 </li>
@@ -199,19 +199,20 @@ is critical for staying ahead and improving processes."</p>
 </div>
 <p></p>
 <p>The DOTC hackathon exemplified the power of collaboration and creativity
-in solving defense challenges. Geetha, Kenneth, and Elyn demonstrated how
+in solving defence challenges. Geetha, Kenneth, and Elyn demonstrated how
 design thinking, teamwork, and feedback can lead to impactful solutions
 such as automated frequency management, spectrogram-based dashboards, and
 streamlined HR workflows.</p>
 <p>Despite facing challenges in user requirements, feasibility, and data
 presentation, the participants turned obstacles into growth opportunities.
-This hackathon emphasized innovation not just through technology but also
+This hackathon emphasised innovation not just through technology but also
 by fostering a culture of experimentation and collaboration.</p>
 <p>DOTC thanks all participants and mentors for showcasing the potential
-of defense technology to drive progress and ensure Singapore remains resilient
+of defence technology to drive progress and ensure Singapore remains resilient
 in an evolving landscape.</p>
 <p>Explore how the Digital Ops-Tech Centre (DOTC) is redefining public sector
 innovation as an in-house software engineering team, driving digital transformation
-to enhance Singapore's defense and public safety. Learn more about our
+to enhance Singapore's defence and public safety. Learn more about our
 unique approach and opportunities to <a href="https://www.dotc.gov.sg/join-us/why-dotc/" rel="noopener" target="_new">join us.</a>
 </p>
+<p></p>
