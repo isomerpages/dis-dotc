@@ -2,7 +2,14 @@
 layout: homepage
 title: Digital Ops-Tech Centre
 description: Forging a new digital frontier with the Digital and Intelligence
-  Service, the fourth branch of the Singapore Armed Forces
+  Service, the fourth branch of the Singapore Armed Forces. Digital Ops-Tech
+  Centre is a small and diverse team that believes in doing good, helping users,
+  and building a reputable and high-performing digital tech agency.   We believe
+  in agility, user-centricity, and a non-transactional approach to building
+  impactful products with SAF users. We bring together the best values and
+  cultures from the military and the tech world. Our military roots, combined
+  with our diverse experiences, help us foster valuable relationships with the
+  tech industry.  From the SAF, for the SAF.
 image: /images/dotc_final_favicon.png
 permalink: /
 notification: ""
@@ -10,9 +17,9 @@ sections:
   - hero:
       title: Digital Ops-Tech Centre
       subtitle: Forging the Digital Frontier
-      background: /images/chiffy_cropped.png
+      background: /images/S112_1_low_min.jpg
       button: Learn More
-      url: /join-us/why-dotc/
+      url: /careers/why-join-us/
       variant: center
       size: md
       key_highlights:
@@ -24,34 +31,34 @@ sections:
       subtitle: IN THE NEWS
       button: MORE NEWS
   - infopic:
-      title: GovTech Visit to DOTC
-      subtitle: Partnerships
+      title: "Hackathon Demo Day Highlights #BuildTogether"
+      subtitle: Events
       id: infopic
-      description: During the visit, both agencies shared similar perspectives and
-        passion when it comes to building tech solutions for the betterment of
-        Singapore 🇸🇬
-      button: SEE MORE
-      url: https://twitter.com/thesingaporedis/status/1787286239311515748?s=52&t=yEOs1s3_SrBeLlv2SJF69A
-      image: /images/GM23WdJWwAAwvsZ.jpg
+      description: Teams presented functional prototypes to an audience of agencies
+        and professionals from MINDEF and the SAF.
+      button: LEARN MORE
+      url: /hackathon-demo-day-highlights/
+      image: /images/1732784811364.jpg
       alt: Image alt text
   - infopic:
-      title: Chi Fa 👋
-      subtitle: Meet Our Team
+      title: Product Design at DOTC
+      subtitle: Events
       id: infopic
-      description: Learn more about Chi Fa's tech odyssey during his year at OGP in
-        2023 and the inspiration behind his leap into DOTC! 🌐✨
-      button: Learn More
-      url: https://www.linkedin.com/posts/opengovsg_safday-humansofogp-techforpublicgood-activity-7080669358812758016-IsnB?utm_source=share&utm_medium=member_desktop
-      image: /images/1688163122255.jpg
-      alt: Image of Chi Fa
-  - infopic:
-      title: Tackling pain points faced by multiple public agencies
-      subtitle: Hack for Public Good 2023
-      description: Our DIS personnel participated in this year’s HFPG with OGP
-        developers to tackle common pain points across multiple public agencies,
-        creating Pinpoint!
+      description: An engaging evening with design professionals exploring the unique
+        intersection of UX and the military, led by our talented designers, Joel
+        and Trena.
       button: LEARN MORE
-      url: https://www.facebook.com/thesingaporeDIS/posts/150070907854750?ref=embed_post
-      image: /images/1675948047825.jpeg
-      alt: DOTC and OGP personnel pose
+      url: /celebrating-design-excellence-insights-from-the-first-product-design-talk/
+      image: /images/7_6163109c_54bd_4241_83f9_75947ca0b570.jpg
+      alt: Image alt text
+  - infopic:
+      title: "Team Bonding at DOTC: Embracing Diversity and Collaboration"
+      subtitle: Life at DOTC
+      id: infopic
+      description: We recently held a team bonding activity that highlighted the
+        unique talents and diverse perspectives of our team.
+      button: Learn More
+      url: /team-bonding-at-dotc-embracing-diversity-and-collaboration/
+      image: /images/1_20240903_113322.jpg
+      alt: Image alt text
 ---

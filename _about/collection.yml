@@ -1,6 +1,0 @@
-collections:
-  about:
-    output: true
-    order:
-      - Mission.md
-      - Vision.md

@@ -1,0 +1,6 @@
+collections:
+  careers:
+    output: true
+    order:
+      - Why Join Us?.md
+      - Meet the Team.md
