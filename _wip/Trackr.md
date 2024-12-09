@@ -7,7 +7,7 @@ description: ""
 <h4><strong><u>Maximising Efficiency and Accountability with Trackr</u></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Asset_52.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Asset_52.png">
 </div>
 <p>In government operations, efficiency, accountability, and transparency
 in digital asset management are essential. Trackr is a robust cloud-based
@@ -21,9 +21,6 @@ overview of assets, facilitating efficient management and ensuring accountabilit
 By leveraging advanced technology, Trackr empowers public servants to make
 informed decisions and optimise resource utilisation.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/hero_a153465b_2.png">
-</div>
 <p>
 <br>
 </p>
@@ -38,10 +35,10 @@ automatically updates metrics based on these entries. This automation enhances
 accountability and enables precise monitoring of participation with minimal
 manual input.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/collect_data_68a6e44b_2.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Asset_4_3x.png">
+</div>
 <p><strong>2. <u>Automated Metrics</u></strong>
 </p>
 <p>Trackr features sophisticated algorithms that automatically compute real-time
@@ -52,7 +49,7 @@ informed decision-making and effective operational strategies.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/automated_computation_d57ffc29_2.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Asset_6_3x.png">
 </div>
 <p></p>
 <p><strong>3. <u>Readiness on the Go</u></strong>
@@ -66,7 +63,7 @@ of their performance.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/realtime_metrics_ff361943_2.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Asset_5_3x.png">
 </div>
 <p></p>
 <p><a href="https://stg.app.trackr.gov.sg" rel="noopener nofollow" target="_blank">Trackr</a> is
@@ -80,9 +77,4 @@ servants focus on what truly matters: delivering impactful results for
 their communities. Whether you’re a new user or a seasoned adopter, embracing
 Trackr will enhance your ability to navigate the complexities of asset
 management in modern government operations.</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
+<p></p>
