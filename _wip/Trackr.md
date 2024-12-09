@@ -20,7 +20,6 @@ from equipment and tools to vehicles and inventory. It provides a comprehensive
 overview of assets, facilitating efficient management and ensuring accountability.
 By leveraging advanced technology, Trackr empowers public servants to make
 informed decisions and optimise resource utilisation.</p>
-<p></p>
 <p>
 <br>
 </p>
