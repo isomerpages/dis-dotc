@@ -20,14 +20,11 @@ from equipment and tools to vehicles and inventory. It provides a comprehensive
 overview of assets, facilitating efficient management and ensuring accountability.
 By leveraging advanced technology, Trackr empowers public servants to make
 informed decisions and optimise resource utilisation.</p>
-<p>
-<br>
-</p>
+<h4>Key Technical Features of Trackr</h4>
+<p></p>
 <blockquote>
-<p>Key Technical Features of Trackr</p>
+<p>1. Activity and Attendance Tracking</p>
 </blockquote>
-<p><strong><u>1. Activity and Attendance Tracking</u></strong>
-</p>
 <p>Trackr is engineered for efficient management of activities and attendance.
 Users can easily log in with Singpass to add or edit records, and the platform
 automatically updates metrics based on these entries. This automation enhances
@@ -38,8 +35,9 @@ manual input.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Asset_4_3x.png">
 </div>
-<p><strong>2. <u>Automated Metrics</u></strong>
-</p>
+<blockquote>
+<p>2. Automated Metrics</p>
+</blockquote>
 <p>Trackr features sophisticated algorithms that automatically compute real-time
 metrics from recorded activities and attendance. This eliminates human
 error in manual calculations, providing timely and accurate insights while
@@ -51,8 +49,9 @@ informed decision-making and effective operational strategies.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Asset_6_3x.png">
 </div>
 <p></p>
-<p><strong>3. <u>Readiness on the Go</u></strong>
-</p>
+<blockquote>
+<p>3. Readiness on the Go</p>
+</blockquote>
 <p>Trackr’s architecture facilitates readiness monitoring at all levels.
 Commanders can oversee unit metrics, while troopers can track their individual
 metrics anytime, anywhere, through a responsive mobile interface. This
@@ -76,4 +75,22 @@ servants focus on what truly matters: delivering impactful results for
 their communities. Whether you’re a new user or a seasoned adopter, embracing
 Trackr will enhance your ability to navigate the complexities of asset
 management in modern government operations.</p>
+<p></p>
+<p>Trackr is available in mobile view, allowing users to access it via their
+mobile devices</p>
+<p></p>
+<p>Singpass login allows Trackr to be 100% accessible by everyone in the
+ground units</p>
+<p></p>
+<p>Users can create/edit activities that count towards specified tracking
+metrics</p>
+<p></p>
+<p>Users can add/edit/remove attendance records for activities applicable
+for them</p>
+<p></p>
+<p>Tracking metrics are automatically computed based on the activity and
+attendance records for all individuals</p>
+<p></p>
+<p>Users can easily view and monitor tracking metrics on various levels,
+i.e. individual and team</p>
 <p></p>
