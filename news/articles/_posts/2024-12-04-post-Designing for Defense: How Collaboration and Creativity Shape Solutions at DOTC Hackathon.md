@@ -121,8 +121,9 @@ processes, not just HR."</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_7999__1_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/IMG_7996__1_.jpg">
 </div>
+<p></p>
 <p></p>
 <blockquote>
 <p>Overcoming Challenges</p>
