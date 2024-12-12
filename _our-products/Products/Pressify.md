@@ -7,9 +7,11 @@ third_nav_title: Products
 ---
 <h4><strong><u>Enhancing Workflow Efficiency with Pressify: Your Guide to Smarter Publishing</u></strong></h4>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Asset_51.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PressifyBlack_Horizontal_4x.png">
 </div>
+<p></p>
 <p>In today’s digital landscape, effective communication and streamlined
 information management are essential. Enter Pressify, a secure AI-powered
 knowledge management platform that transforms how you create, organize,
@@ -51,10 +53,10 @@ Translation feature, converting articles into English in seconds. This
 functionality broadens your access to diverse content and enhances your
 ability to work with global materials.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/pressify_magnifying_glass_9b054adf.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/1.png">
+</div>
 <p></p>
 <blockquote>
 <p>2. Curate and Collaborate</p>
@@ -64,10 +66,10 @@ you to bookmark relevant articles into a shared collection for everyone
 in your team. This ensures that all team members stay aligned, facilitating
 better discussions and knowledge-sharing.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/feature_collab_35af93b3_2.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2.png">
+</div>
 <p></p>
 <blockquote>
 <p>3. Publish Content with Ease</p>
@@ -79,8 +81,9 @@ image insertion, and linking to ensure polished, professional content.
 With Pressify, you have all the necessary tools to publish high-quality
 content quickly and share your insights with ease.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/get_started_home_21f6c348_2.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/3.png">
 </div>
 <p></p>
 <p>Pressify is an essential tool for anyone looking to simplify and enhance
