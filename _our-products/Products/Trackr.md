@@ -20,7 +20,7 @@ compute tracking metrics automatically. Real-time monitoring views at individual
 and team levels support informed decision-making and resource optimisation.
 By simplifying workflows, automating processes, and fostering accountability,
 Trackr empowers public sector organisations to achieve operational excellence.</p>
-<h4>Key Technical Features of Trackr</h4>
+<h4>Key Features of Trackr</h4>
 <p></p>
 <blockquote>
 <p>1. Activity and Attendance Tracking</p>
