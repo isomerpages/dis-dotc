@@ -8,7 +8,7 @@ third_nav_title: Products
 <h4><strong><u>Maximising Efficiency and Accountability with Trackr</u></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Asset_52.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Asset_52.png">
 </div>
 <p>In government operations, readiness and efficiency depend on effective
 tracking and management of statuses, activities, and metrics. Trackr, a
