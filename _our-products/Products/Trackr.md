@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Products
 ---
-<h4><strong><u>Maximising Efficiency and Accountability with Trackr</u></strong></h4>
+<h4><strong>Maximising Efficiency and Accountability with Trackr</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Asset_52.png">
