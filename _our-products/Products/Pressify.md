@@ -34,22 +34,19 @@ engaging documents without the distraction of complex tasks.</p>
 <blockquote>
 <p>1. Find Faster, Read Smarter</p>
 </blockquote>
-<p><strong><u>Smart Filtering</u></strong>
-</p>
-<p>Having trouble finding something specific? Pressify’s Smart Filtering
+<p><strong>Smart Filtering</strong>
+<br>Having trouble finding something specific? Pressify’s Smart Filtering
 feature simplifies your search by suggesting relevant tags for your uploaded
 articles. By applying one or more of these tags, you can easily filter
 through search results to find exactly what you need without the hassle
 of sifting through numerous articles.</p>
-<p><strong><u>Summarisation</u></strong>
-</p>
-<p>Need to scan through multiple articles quickly? Pressify's Summarisation
+<p><strong>Summarisation</strong>
+<br>Need to scan through multiple articles quickly? Pressify's Summarisation
 feature generates concise summaries for each article, allowing you to grasp
 key points efficiently without reading every detail. This saves you time
 and helps you focus on the most important information.</p>
-<p><strong><u>Translation</u></strong>
-</p>
-<p>Working with foreign articles? Pressify makes it easy with its one-click
+<p><strong>Translation</strong>
+<br>Working with foreign articles? Pressify makes it easy with its one-click
 Translation feature, converting articles into English in seconds. This
 functionality broadens your access to diverse content and enhances your
 ability to work with global materials.</p>
