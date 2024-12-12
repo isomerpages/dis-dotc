@@ -9,17 +9,16 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Asset_52.png">
 </div>
-<p>In government operations, efficiency, accountability, and transparency
-in digital asset management are essential. Trackr is a robust cloud-based
-platform designed to streamline the tracking and management of physical
-assets within public sector organisations. This guide highlights Trackr's
-features, demonstrating how it enhances workflows and improves asset management
-practices.</p>
-<p>Trackr enables real-time monitoring and management of various assets,
-from equipment and tools to vehicles and inventory. It provides a comprehensive
-overview of assets, facilitating efficient management and ensuring accountability.
-By leveraging advanced technology, Trackr empowers public servants to make
-informed decisions and optimise resource utilisation.</p>
+<p>In government operations, readiness and efficiency depend on effective
+tracking and management of statuses, activities, and metrics. Trackr, a
+robust web-based platform, addresses the limitations of manual tracking
+systems by enhancing efficiency, accountability, and transparency.</p>
+<p>Accessible via mobile devices with a Singpass login, Trackr enables users
+to create, edit, and manage activities, update attendance records, and
+compute tracking metrics automatically. Real-time monitoring views at individual
+and team levels support informed decision-making and resource optimisation.
+By simplifying workflows, automating processes, and fostering accountability,
+Trackr empowers public sector organisations to achieve operational excellence.</p>
 <h4>Key Technical Features of Trackr</h4>
 <p></p>
 <blockquote>
@@ -64,33 +63,15 @@ of their performance.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Asset_5_3x.png">
 </div>
 <p></p>
-<p><a href="https://stg.app.trackr.gov.sg" rel="noopener nofollow" target="_blank">Trackr</a> is
-an essential tool that empowers government users to efficiently manage
-and track their physical assets. Its robust features—ranging from real-time
-tracking and comprehensive asset management to barcode integration and
-reporting—make it an invaluable resource for enhancing productivity in
-the public sector.</p>
-<p>By simplifying workflows and improving accountability, Trackr helps public
-servants focus on what truly matters: delivering impactful results for
-their communities. Whether you’re a new user or a seasoned adopter, embracing
-Trackr will enhance your ability to navigate the complexities of asset
-management in modern government operations.</p>
+<p>Trackr is an essential tool that equips government users to efficiently
+manage and track their operational metrics and resources. Its powerful
+features—ranging from real-time tracking and streamlined activity management
+to automated computations and intuitive monitoring views—make it a cornerstone
+for improving productivity and decision-making in the public sector.</p>
+<p>By reducing manual efforts and enhancing data accessibility, Trackr enables
+public servants to focus on delivering impactful results for their communities.
+Whether you are just beginning or an experienced user, adopting Trackr
+ensures you are well-prepared to navigate the complexities of modern government
+operations.</p>
 <p></p>
-<p>Trackr is available in mobile view, allowing users to access it via their
-mobile devices</p>
-<p></p>
-<p>Singpass login allows Trackr to be 100% accessible by everyone in the
-ground units</p>
-<p></p>
-<p>Users can create/edit activities that count towards specified tracking
-metrics</p>
-<p></p>
-<p>Users can add/edit/remove attendance records for activities applicable
-for them</p>
-<p></p>
-<p>Tracking metrics are automatically computed based on the activity and
-attendance records for all individuals</p>
-<p></p>
-<p>Users can easily view and monitor tracking metrics on various levels,
-i.e. individual and team</p>
 <p></p>
