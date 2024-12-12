@@ -7,11 +7,6 @@ third_nav_title: Products
 ---
 <h4><strong>Enhancing Workflow Efficiency with Pressify: Your Guide to Smarter Publishing</strong></h4>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PressifyBlack_Horizontal_4x.png">
-</div>
-<p></p>
 <p>In today’s digital landscape, effective communication and streamlined
 information management are essential. Enter Pressify, a secure AI-powered
 knowledge management platform that transforms how you create, organize,
@@ -25,6 +20,10 @@ With curated collections for focused work and collaboration tools for seamless
 sharing and role-based access, Pressify enhances productivity and accessibility.
 By simplifying workflows, it enables users to craft insightful, visually
 engaging documents without the distraction of complex tasks.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PressifyBlack_Horizontal_4x.png">
+</div>
 <p></p>
 <h4>Key Features of Pressify</h4>
 <p></p>
