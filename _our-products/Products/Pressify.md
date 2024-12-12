@@ -26,8 +26,10 @@ sharing and role-based access, Pressify enhances productivity and accessibility.
 By simplifying workflows, it enables users to craft insightful, visually
 engaging documents without the distraction of complex tasks.</p>
 <p></p>
+<h4>Key Features of Pressify</h4>
+<p></p>
+<p></p>
 <blockquote>
-<p>Key Features of Pressify</p>
 <p></p>
 </blockquote>
 <blockquote>
