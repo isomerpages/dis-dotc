@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Products
 ---
-<h4><strong><u>Enhancing Workflow Efficiency with Pressify: Your Guide to Smarter Publishing</u></strong></h4>
+<h4><strong>Enhancing Workflow Efficiency with Pressify: Your Guide to Smarter Publishing</strong></h4>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
