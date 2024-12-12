@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Products
 ---
-<h4><strong><u>Optimise Your Digital Media Management with Pinpoint</u></strong></h4>
+<h4><strong>Optimise Your Digital Media Management with Pinpoint</strong></h4>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -26,7 +26,7 @@ a user-friendly solution for managing digital media and facilitating collaborati
 work. By harnessing artificial intelligence, Pinpoint simplifies the organisation
 and sharing of media while significantly improving the collaboration experience.</p>
 <p></p>
-<h4>Key Technical Features of Pinpoint</h4>
+<h4>Key Features of Pinpoint</h4>
 <p></p>
 <p></p>
 <blockquote>
