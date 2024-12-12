@@ -22,9 +22,11 @@ without reliance on specific file names or complex structures. With its
 robust features, Pinpoint transforms how public officers manage digital
 media.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/PinpointBlack_Horizontal_4x.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/pinpoint_illustration_final.png">
 </div>
+<p></p>
 <h4>Key Features of Pinpoint</h4>
 <p></p>
 <p></p>
