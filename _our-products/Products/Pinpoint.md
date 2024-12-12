@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Products
 ---
 <h2>Optimise Your Digital Media Management with Pinpoint</h2>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PinpointBlack_Horizontal_4x.png">
+</div>
 <p>In today's fast-paced digital landscape, managing an ever-growing volume
 of images and videos has become increasingly challenging. Storage limits
 and disjointed systems lead to siloed repositories and scattered files,
@@ -21,11 +23,6 @@ it uses flexible tagging to help users label and find media efficiently,
 without reliance on specific file names or complex structures. With its
 robust features, Pinpoint transforms how public officers manage digital
 media.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/pinpoint_illustration_final.png">
-</div>
 <p></p>
 <h4>Key Features of Pinpoint</h4>
 <p></p>
