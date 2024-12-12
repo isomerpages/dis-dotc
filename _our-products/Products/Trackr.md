@@ -6,10 +6,6 @@ description: ""
 third_nav_title: Products
 ---
 <h4><strong>Maximising Efficiency and Accountability with Trackr</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Asset_52.png">
-</div>
 <p>In government operations, readiness and efficiency depend on effective
 tracking and management of statuses, activities, and metrics. Trackr, a
 robust web-based platform, addresses the limitations of manual tracking
@@ -20,6 +16,11 @@ compute tracking metrics automatically. Real-time monitoring views at individual
 and team levels support informed decision-making and resource optimisation.
 By simplifying workflows, automating processes, and fostering accountability,
 Trackr empowers public sector organisations to achieve operational excellence.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Asset_52.png">
+</div>
+<p></p>
 <h4>Key Features of Trackr</h4>
 <p></p>
 <blockquote>
