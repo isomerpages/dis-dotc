@@ -7,11 +7,6 @@ third_nav_title: Products
 ---
 <h4><strong>Optimise Your Digital Media Management with Pinpoint</strong></h4>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 38%;" height="auto" width="100%" alt="" src="/images/PinpointBlack_Horizontal_4x.png">
-</div>
-<p></p>
 <p>In today's fast-paced digital landscape, effective collaboration is essential
 for success, particularly in the public sector. Pinpoint stands out as
 an innovative, AI-assisted media sharing and collaboration platform meticulously
@@ -26,6 +21,9 @@ a user-friendly solution for managing digital media and facilitating collaborati
 work. By harnessing artificial intelligence, Pinpoint simplifies the organisation
 and sharing of media while significantly improving the collaboration experience.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 38%;" height="auto" width="100%" alt="" src="/images/PinpointBlack_Horizontal_4x.png">
+</div>
 <h4>Key Features of Pinpoint</h4>
 <p></p>
 <p></p>
