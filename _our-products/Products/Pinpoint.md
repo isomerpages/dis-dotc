@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Products
 ---
-<h4><strong>Optimise Your Digital Media Management with Pinpoint</strong></h4>
+<h2>Optimise Your Digital Media Management with Pinpoint</h2>
 <p></p>
 <p>In today's fast-paced digital landscape, effective collaboration is essential
 for success, particularly in the public sector. Pinpoint stands out as
@@ -22,7 +22,7 @@ work. By harnessing artificial intelligence, Pinpoint simplifies the organisatio
 and sharing of media while significantly improving the collaboration experience.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 38%;" height="auto" width="100%" alt="" src="/images/PinpointBlack_Horizontal_4x.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PinpointBlack_Horizontal_4x.png">
 </div>
 <h4>Key Features of Pinpoint</h4>
 <p></p>
@@ -90,9 +90,9 @@ the management process.</p>
 <p>By adopting Pinpoint, whether you are new to digital media management
 or a seasoned professional, you can enhance your effectiveness in modern
 public service. Explore how Pinpoint can transform and elevate your work.
-Sign up for an account at (<a href="https://app.pinpoint.gov.sg" rel="noopener nofollow" target="_blank">Pinpoint</a>)
-to access a suite of powerful features designed to improve productivity
-and collaboration in your organisation.</p>
+Sign up for an account at <a href="https://app.pinpoint.gov.sg" rel="noopener nofollow" target="_blank">Pinpoint</a> to
+access a suite of powerful features designed to improve productivity and
+collaboration in your organisation.</p>
 <p></p>
 <p>
 <br>
