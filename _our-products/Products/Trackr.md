@@ -7,11 +7,9 @@ third_nav_title: Products
 ---
 <h2>Maximising Efficiency and Accountability with Trackr</h2>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Black_Horizontal_4x.png">
 </div>
-<p></p>
 <p>In government operations, readiness and efficiency depend on effective
 tracking and management of statuses, activities, and metrics. Trackr, a
 robust web-based platform, addresses the limitations of manual tracking
