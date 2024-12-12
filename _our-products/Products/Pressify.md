@@ -26,23 +26,25 @@ engaging documents without the distraction of complex tasks.</p>
 <p></p>
 <blockquote>
 <p>Key Features of Pressify</p>
+<p></p>
 </blockquote>
-<p><strong><u>1. Find Faster, Read Smarter</u></strong>
-</p>
-<p><strong>Smart Filtering</strong>
+<blockquote>
+<p>1. Find Faster, Read Smarter</p>
+</blockquote>
+<p><strong><u>Smart Filtering</u></strong>
 </p>
 <p>Having trouble finding something specific? Pressify’s Smart Filtering
 feature simplifies your search by suggesting relevant tags for your uploaded
 articles. By applying one or more of these tags, you can easily filter
 through search results to find exactly what you need without the hassle
 of sifting through numerous articles.</p>
-<p><strong>Summarisation</strong>
+<p><strong><u>Summarisation</u></strong>
 </p>
 <p>Need to scan through multiple articles quickly? Pressify's Summarisation
 feature generates concise summaries for each article, allowing you to grasp
 key points efficiently without reading every detail. This saves you time
 and helps you focus on the most important information.</p>
-<p><strong>Translation</strong>
+<p><strong><u>Translation</u></strong>
 </p>
 <p>Working with foreign articles? Pressify makes it easy with its one-click
 Translation feature, converting articles into English in seconds. This
@@ -52,8 +54,11 @@ ability to work with global materials.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/pressify_magnifying_glass_9b054adf.png">
 </div>
-<p><strong>2. <u>Curate and Collaborate</u></strong>
-</p>
+<p></p>
+<p></p>
+<blockquote>
+<p>2. Curate and Collaborate</p>
+</blockquote>
 <p>Collaborating with a team? Pressify’s Curate and Collaborate feature allows
 you to bookmark relevant articles into a shared collection for everyone
 in your team. This ensures that all team members stay aligned, facilitating
@@ -62,8 +67,11 @@ better discussions and knowledge-sharing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/feature_collab_35af93b3_2.png">
 </div>
-<p><strong>3. <u>Publish Content with Ease</u></strong>
-</p>
+<p></p>
+<p></p>
+<blockquote>
+<p>3. Publish Content with Ease</p>
+</blockquote>
 <p>Publishing content is effortless with Pressify. Choose the automated upload
 feature for quick uploads or the manual option for greater control. The
 built-in editor lets you refine your articles, offering easy formatting,
