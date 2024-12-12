@@ -100,6 +100,4 @@ information and take your productivity to new heights!</p>
 <p>
 <br>
 </p>
-<p>
-<br>
-</p>
+<p></p>
