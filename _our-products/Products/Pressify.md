@@ -13,7 +13,7 @@ third_nav_title: Products
 information management are essential. Enter Pressify, a secure AI-powered
 knowledge management platform that transforms how you create, organize,
 and share reports and presentations.</p>
-<p><a href="app.pressify.gov.sg/" rel="noopener nofollow" target="_blank">Pressify</a> centralises
+<p><a href="https://app.pressify.gov.sg/" rel="noopener nofollow" target="_blank">Pressify</a> centralises
 document storage and retrieval, simplifying the process of gathering and
 referencing research sources. Advanced search capabilities—using queries,
 tag filters, and date ranges—eliminate the hassle of sifting through scattered
@@ -92,7 +92,7 @@ and robust collaboration tools make it ideal for both newcomers and seasoned
 professionals. By centralizing document management and streamlining workflows,
 Pressify helps you focus on creating impactful, visually engaging reports
 and presentations without the hassle of complex tasks. Getting started
-is simple - visit <a href="app.pressify.gov.sg/" rel="noopener nofollow" target="_blank">Pressify </a>to
+is simple - visit <a href="https://app.pressify.gov.sg/" rel="noopener nofollow" target="_blank">Pressify </a>to
 create an account and explore its full capabilities. Embrace Pressify to
 transform how you manage information and take your productivity to new
 heights!</p>
