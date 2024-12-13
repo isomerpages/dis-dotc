@@ -31,9 +31,9 @@ by simplifying workflows and boosting efficiency.</p>
 <p>Pinpoint provides free unlimited storage and daily backups to keep all
 your images and videos organised on one platform. Using customisable AI-powered
 tagging with facial recognition, it automates media organisation by identifying
-notable figures like Singapore ministers and public agency leaders. This
-list is continually updated to streamline media sorting, ensuring accurate
-and efficient retrieval thereafter.</p>
+notable figures like Singapore ministers and leaders in the public sector.
+This list is continually updated to streamline media sorting, ensuring
+accurate and efficient retrieval thereafter.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
