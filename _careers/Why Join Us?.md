@@ -15,29 +15,29 @@ of our team, you'll play a pivotal role in shaping the future of military
 operations. Contribute your skills and expertise to tackle real-world challenges
 faced in operational environments, developing and implementing solutions
 that enhance efficiency, effectiveness, and security.</p>
-<h2>Work in a Collaborative and Diverse Environment</h2>
+<h3>Work in a Collaborative and Diverse Environment</h3>
 <p>We value collaboration and diverse perspectives. Join a team of passionate
 individuals from various backgrounds. Engage in stimulating discussions,
 exchange knowledge, and learn from experts in their respective fields.
 Together, we foster a culture of collaboration, innovation, and continuous
 learning.</p>
-<h2>Grow and Develop Your Skills</h2>
+<h3>Grow and Develop Your Skills</h3>
 <p>We believe in investing in our team members' growth and development. We
 provide opportunities for professional advancement and access to specialised
 training programs. Expand your skills, stay updated with emerging trends,
 and unlock your full potential in a supportive and dynamic environment.</p>
-<h2>Make a Meaningful Impact</h2>
+<h3>Make a Meaningful Impact</h3>
 <p>Join us in making a meaningful impact on the military landscape. At DOTC,
 your work directly contributes to the betterment of military operations.
 Your innovative ideas and solutions will have a tangible effect on the
 lives of those who serve.</p>
-<h2>Join a Respected and Trusted Organisation</h2>
+<h3>Join a Respected and Trusted Organisation</h3>
 <p>DOTC is part of Singapore's Ministry of Defence. Joining our team means
 becoming a part of a respected and trusted organisation with a strong commitment
 to national security. Benefit from the stability and support of a government-backed
 institution while working on groundbreaking projects that drive digital
 transformation in the military.</p>
-<h2>Ready to Forge the Future with Us?</h2>
+<h3>Ready to Forge the Future with Us?</h3>
 <p>If you are passionate about digital technology, military operations, and
 making a real difference, we invite you to join the DOTC team. Together,
 let's push the boundaries of military technology, develop innovative solutions,
