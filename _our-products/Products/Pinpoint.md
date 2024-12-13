@@ -8,24 +8,24 @@ third_nav_title: Products
 <h2>Optimise Your Digital Media Management with Pinpoint</h2><a class="isomer-image-wrapper" href="https://app.pinpoint.gov.sg/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PinpointBlack_Horizontal_4x.png"></a>
 <p>In today's fast-paced digital landscape, managing an ever-growing volume
 of images and videos has become increasingly challenging. Storage limits
-and disjointed systems lead to siloed repositories and scattered files,
-complicating storage and retrieval. Locating specific files demands significant
-time, while unregulated sharing raises security and compliance risks. These
-challenges call for a solution that simplifies media organisation and enhances
-collaboration. Enter Pinpoint—an innovative, in-house solution tailored
-to meet these needs.</p>
-<p>Pinpoint streamlines the organisation, identification, and collaboration
-of digital assets among government users. Moving beyond traditional folders,
-it uses flexible tagging to help users label and find media efficiently,
-without reliance on specific file names or complex structures. With its
-robust features, Pinpoint transforms how public officers manage digital
-media.</p>
-<p></p>
+and the lack of a unified system result in siloed repositories and scattered
+files, making storage and retrieval complex. This fragmentation not only
+makes locating specific files time-consuming but also heightens security
+and compliance risks due to unregulated sharing. These challenges call
+for a solution that simplifies media organisation and enhances collaboration.
+Enter Pinpoint—an innovative, in-house solution tailored to meet these
+needs.</p>
+<p>Pinpoint is a one-stop platform for public officers to store, search,
+and share images and videos. Moving beyond traditional folder-based systems,
+it uses tagging to let users flexibly label and locate media, eliminating
+reliance on specific file names or rigid structures. With robust and customisable
+features, Pinpoint aims to revolutionise media management by simplifying
+workflows and boosting efficiency.</p>
 <h4>Key Features of Pinpoint</h4>
 <p></p>
 <p></p>
 <blockquote>
-<p>1. Comprehensive Media Organisation with AI-Powered Tagging</p>
+<p>1. Comprehensive media organisation with AI-powered tagging</p>
 </blockquote>
 <p>Pinpoint provides free unlimited storage and daily backups to keep all
 your images and videos organised on one platform. Using customisable AI-powered
@@ -52,7 +52,7 @@ to collaborate seamlessly and stay productive wherever you are.</p>
 </div>
 <p></p>
 <blockquote>
-<p>3. Built-in Security for Sensitive Media</p>
+<p>3. Built-in security for sensitive media</p>
 </blockquote>
 <p>Built in-house by the SAF for public officers, Pinpoint is IM8 compliant
 and hosted on the Government on Commercial Cloud (GCC), ensuring the secure
@@ -65,7 +65,7 @@ guarantees that sensitive information is well-protected.</p>
 </div>
 <p></p>
 <blockquote>
-<p>4. Advanced Multi-Criteria Search</p>
+<p>4. Advanced multi-criteria search</p>
 </blockquote>
 <p>Finding specific media assets can be daunting, especially with large data
 volumes. Pinpoint’s multi-criteria search capabilities allow users to locate
