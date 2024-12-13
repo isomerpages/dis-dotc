@@ -15,7 +15,7 @@ and compliance risks due to unregulated sharing. These challenges call
 for a solution that simplifies media organisation and enhances collaboration.
 Enter Pinpoint—an innovative, in-house solution tailored to meet these
 needs.</p>
-<p><a href="https://app.pinpoint.gov.sg/" rel="noopener nofollow" target="_blank">Pinpoint</a> is
+<p><a href="app.pinpoint.gov.sg/" rel="noopener nofollow" target="_blank">Pinpoint </a>is
 a one-stop platform for public officers and military personnel to store,
 search, and share images and videos. Moving beyond traditional folder-based
 systems, it uses tagging to let users flexibly label and locate media,
