@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Products
 ---
-<h2>Optimise Your Digital Media Management with Pinpoint</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PinpointBlack_Horizontal_4x.png">
-</div>
+<h2>Optimise Your Digital Media Management with Pinpoint</h2><a class="isomer-image-wrapper" href="https://app.pinpoint.gov.sg/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PinpointBlack_Horizontal_4x.png"></a>
 <p>In today's fast-paced digital landscape, managing an ever-growing volume
 of images and videos has become increasingly challenging. Storage limits
 and disjointed systems lead to siloed repositories and scattered files,
