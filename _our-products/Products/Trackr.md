@@ -60,10 +60,10 @@ of their performance.</p>
 </div>
 <p></p>
 <p>Trackr is an essential tool that equips government users to efficiently
-manage and track their operational metrics. Its powerful features—ranging
+manage and track their operational metrics. Its powerful features - ranging
 from real-time tracking and simplified activity management to automated
-computations and intuitive monitoring views—make it a cornerstone for improving
-productivity and decision-making in the public sector.</p>
+computations and intuitive monitoring views - make it a cornerstone for
+improving productivity and decision-making in the public sector.</p>
 <p>By reducing manual efforts and enhancing data accessibility, Trackr enables
 public servants to focus on delivering impactful results for their communities.
 Whether you are just beginning or an experienced user, adopting <a href="app.trackr.gov.sg/" rel="noopener nofollow" target="_blank">Trackr</a> ensures you
