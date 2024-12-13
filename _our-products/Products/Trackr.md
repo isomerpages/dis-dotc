@@ -10,10 +10,10 @@ third_nav_title: Products
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Black_Horizontal_4x.png">
 </div>
-<p>In government operations, readiness and efficiency depend on effective
-tracking and management of statuses, activities, and metrics. Trackr, a
-robust web-based platform, addresses the limitations of manual tracking
-systems by enhancing efficiency, accountability, and transparency.</p>
+<p>In government operations, readiness depends on effective tracking and
+management of statuses, activities, and metrics. Trackr, a robust web-based
+platform, addresses the limitations of manual tracking systems by enhancing
+efficiency and transparency.</p>
 <p>Accessible via mobile devices with a Singpass login, Trackr enables users
 to create, edit, and manage activities, update attendance records, and
 compute tracking metrics automatically. Real-time monitoring views at individual
@@ -27,9 +27,7 @@ Trackr empowers public sector organisations to achieve operational excellence.</
 </blockquote>
 <p>Trackr is engineered for efficient management of activities and attendance.
 Users can easily log in with Singpass to add or edit records, and the platform
-automatically updates metrics based on these entries. This automation enhances
-accountability and enables precise monitoring of participation with minimal
-manual input.</p>
+automatically updates metrics based on these entries.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -65,10 +63,10 @@ of their performance.</p>
 </div>
 <p></p>
 <p>Trackr is an essential tool that equips government users to efficiently
-manage and track their operational metrics and resources. Its powerful
-features—ranging from real-time tracking and streamlined activity management
-to automated computations and intuitive monitoring views—make it a cornerstone
-for improving productivity and decision-making in the public sector.</p>
+manage and track their operational metrics. Its powerful features—ranging
+from real-time tracking and simplified activity management to automated
+computations and intuitive monitoring views—make it a cornerstone for improving
+productivity and decision-making in the public sector.</p>
 <p>By reducing manual efforts and enhancing data accessibility, Trackr enables
 public servants to focus on delivering impactful results for their communities.
 Whether you are just beginning or an experienced user, adopting Trackr
