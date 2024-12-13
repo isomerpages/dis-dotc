@@ -15,7 +15,7 @@ and compliance risks due to unregulated sharing. These challenges call
 for a solution that simplifies media organisation and enhances collaboration.
 Enter Pinpoint - an innovative, in-house solution tailored to meet these
 needs.</p>
-<p><a href="app.pinpoint.gov.sg/" rel="noopener nofollow" target="_blank">Pinpoint </a>is
+<p><a href="https://app.pinpoint.gov.sg/" rel="noopener nofollow" target="_blank">Pinpoint </a>is
 a one-stop platform for public officers and military personnel to store,
 search, and share images and videos. Moving beyond traditional folder-based
 systems, it uses tagging to let users flexibly label and locate media,
@@ -79,7 +79,7 @@ feature simplifies media retrieval, saving valuable time and effort.</p>
 </div>
 <p></p>
 <p>Pinpoint is now live and free for all public officers and military personnel.
-Sign in to <a href="app.pinpoint.gov.sg/" rel="noopener nofollow" target="_blank">Pinpoint</a> today
+Sign in to <a href="https://app.pinpoint.gov.sg/" rel="noopener nofollow" target="_blank">Pinpoint</a> today
 to streamline your media asset management, boost productivity, and enhance
 collaboration across the Whole-of-Government and MINDEF/SAF. We are continuously
 improving the platform to better serve your needs, and look forward to
