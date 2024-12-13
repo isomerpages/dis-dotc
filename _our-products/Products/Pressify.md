@@ -52,8 +52,9 @@ functionality broadens your access to diverse content and enhances your
 ability to work with global materials.</p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_pressify_high_res_Untitled_design.png">
 </div>
 <p></p>
 <blockquote>
@@ -65,8 +66,9 @@ in your team. This ensures that all team members stay aligned, facilitating
 better discussions and knowledge-sharing.</p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_pressify_high_res_Untitled_design.png">
 </div>
 <p></p>
 <blockquote>
@@ -80,9 +82,11 @@ With Pressify, you have all the necessary tools to publish high-quality
 content quickly and share your insights with ease.</p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_pressify_high_res_Untitled_design.png">
 </div>
+<p></p>
 <p></p>
 <p>Pressify is an essential tool for anyone looking to simplify and enhance
 digital publishing. Its user-friendly interface, advanced AI features,
