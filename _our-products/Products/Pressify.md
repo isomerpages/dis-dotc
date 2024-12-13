@@ -7,10 +7,7 @@ third_nav_title: Products
 ---
 <h2>Enhancing Workflow Efficiency with Pressify: Your Guide to Smarter Publishing</h2>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PressifyBlack_Horizontal_4x.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://app.pressify.gov.sg/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PressifyBlack_Horizontal_4x.png"></a>
 <p></p>
 <p>In today’s digital landscape, effective communication and streamlined
 information management are essential. Enter Pressify, a secure AI-powered
