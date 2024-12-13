@@ -31,8 +31,8 @@ workflows and boosting efficiency.</p>
 your images and videos organised on one platform. Using customisable AI-powered
 tagging with facial recognition, it automates media organisation by identifying
 notable figures like Singapore ministers and public agency leaders. This
-continually updated list streamlines media sorting, ensuring accurate and
-efficient retrieval.</p>
+list is continually updated to streamline media sorting, ensuring accurate
+and efficient retrieval thereafter.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -52,13 +52,14 @@ to collaborate seamlessly and stay productive wherever you are.</p>
 </div>
 <p></p>
 <blockquote>
-<p>3. Built-in security for sensitive media</p>
+<p>3. Robust security for classified media</p>
 </blockquote>
-<p>Built in-house by the SAF for public officers, Pinpoint is IM8 compliant
-and hosted on the Government on Commercial Cloud (GCC), ensuring the secure
-storage of media up to RESTRICTED/Sensitive Normal classification levels.
-With stringent security protocols tailored for government use, Pinpoint
-guarantees that sensitive information is well-protected.</p>
+<p>Built for public officers, Pinpoint is <a href="https://www.developer.tech.gov.sg/guidelines/standards-and-best-practices/instruction-manual-for-ict-ss-management.html" rel="noopener nofollow" target="_blank">IM8</a> compliant
+and hosted on the <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" rel="noopener nofollow" target="_blank">Government on Commercial Cloud</a> (GCC),
+ensuring the secure storage of media up to RESTRICTED/Sensitive Normal
+classification level. With stringent security protocols tailored for government
+use, Pinpoint is aligned with the standardised approach to adopt cloud
+services and safeguard sensitive information.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__2_.svg">
@@ -76,11 +77,11 @@ feature simplifies media retrieval, saving valuable time and effort.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pptagfiltergif.gif">
 </div>
 <p></p>
-<p>Pinpoint is live and free of charge. Start using Pinpoint today to manage
-your media assets with increased productivity and collaboration in your
-organisation. Sign up for an account at <a href="https://go.gov.sg/pinpointapp" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/pinpointapp</a> to access
-a suite of powerful features designed to streamline your workflow and elevate
-your media management experience.</p>
+<p>Pinpoint is now live and free for all public officers. Sign in to <a href="https://go.gov.sg/pinpointapp" rel="noopener nofollow" target="_blank">Pinpoint</a> today
+to streamline your media asset management, boost productivity, and enhance
+collaboration across government agencies. We are continuously improving
+the platform to better serve your needs, and look forward to having you
+onboard</p>
 <p>
 <br>
 <br>
