@@ -8,9 +8,9 @@ third_nav_title: Products
 <h2>Instrument your readiness with Trackr</h2>
 <p></p><a class="isomer-image-wrapper" href="https://app.trackr.gov.sg/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Black_Horizontal_4x.png"></a>
 <p>In government operations, readiness depends on effective tracking and
-management of statuses, activities, and metrics. <a href="app.trackr.gov.sg/" rel="noopener nofollow" target="_blank">Trackr</a>, a robust web-based platform, addresses
-the limitations of manual tracking systems by enhancing efficiency and
-transparency.</p>
+management of statuses, activities, and metrics. <a href="https://app.trackr.gov.sg/" rel="noopener nofollow" target="_blank">Trackr</a>, a robust web-based platform,
+addresses the limitations of manual tracking systems by enhancing efficiency
+and transparency.</p>
 <p>Accessible via mobile devices with a Singpass login, Trackr enables users
 to create, edit, and manage activities, update attendance records, and
 compute tracking metrics automatically. Real-time monitoring views at individual
@@ -66,7 +66,8 @@ computations and intuitive monitoring views - make it a cornerstone for
 improving productivity and decision-making in the public sector.</p>
 <p>By reducing manual efforts and enhancing data accessibility, Trackr enables
 public servants to focus on delivering impactful results for their communities.
-Whether you are just beginning or an experienced user, adopting <a href="app.trackr.gov.sg/" rel="noopener nofollow" target="_blank">Trackr</a> ensures you
-are well-prepared to navigate the complexities of modern government operations.</p>
+Whether you are just beginning or an experienced user, adopting <a href="https://app.trackr.gov.sg/" rel="noopener nofollow" target="_blank">Trackr</a> ensures
+you are well-prepared to navigate the complexities of modern government
+operations.</p>
 <p></p>
 <p></p>
