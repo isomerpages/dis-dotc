@@ -5,11 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Products
 ---
-<h2>Maximising Efficiency and Accountability with Trackr</h2>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Black_Horizontal_4x.png">
-</div>
+<h2>Instrument your readiness with Trackr</h2>
+<p></p><a class="isomer-image-wrapper" href="https://app.trackr.gov.sg/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Black_Horizontal_4x.png"></a>
 <p>In government operations, readiness depends on effective tracking and
 management of statuses, activities, and metrics. Trackr, a robust web-based
 platform, addresses the limitations of manual tracking systems by enhancing
