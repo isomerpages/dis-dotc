@@ -79,7 +79,7 @@ feature simplifies media retrieval, saving valuable time and effort.</p>
 </div>
 <p></p>
 <p>Pinpoint is now live and free for all public officers and military personnel.
-Sign in to <a href="https://go.gov.sg/pinpointapp" rel="noopener nofollow" target="_blank">Pinpoint</a> today
+Sign in to <a href="app.pinpoint.gov.sg/" rel="noopener nofollow" target="_blank">Pinpoint</a> today
 to streamline your media asset management, boost productivity, and enhance
 collaboration across the Whole-of-Government and MINDEF/SAF. We are continuously
 improving the platform to better serve your needs, and look forward to
