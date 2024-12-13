@@ -13,7 +13,7 @@ files, making storage and retrieval complex. This fragmentation not only
 makes locating specific files time-consuming but also heightens security
 and compliance risks due to unregulated sharing. These challenges call
 for a solution that simplifies media organisation and enhances collaboration.
-Enter Pinpoint—an innovative, in-house solution tailored to meet these
+Enter Pinpoint - an innovative, in-house solution tailored to meet these
 needs.</p>
 <p><a href="app.pinpoint.gov.sg/" rel="noopener nofollow" target="_blank">Pinpoint </a>is
 a one-stop platform for public officers and military personnel to store,
