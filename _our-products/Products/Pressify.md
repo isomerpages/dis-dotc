@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Products
 ---
-<h2>Enhancing Workflow Efficiency with Pressify: Your Guide to Smarter Publishing</h2>
+<h2>Find what you need, fast, with Pressify</h2>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://app.pressify.gov.sg/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PressifyBlack_Horizontal_4x.png"></a>
 <p></p>
@@ -13,12 +13,13 @@ third_nav_title: Products
 information management are essential. Enter Pressify, a secure AI-powered
 knowledge management platform that transforms how you create, organize,
 and share reports and presentations.</p>
-<p>Pressify centralises document storage and retrieval, simplifying the process
-of gathering and referencing research sources. Advanced search capabilities—using
-queries, tag filters, and date ranges—eliminate the hassle of sifting through
-scattered information. AI-driven features like auto-tagging, summarization,
-and content translation empower users to extract and consume data efficiently.
-With curated collections for focused work and collaboration tools for seamless
+<p><a href="https://app.pressify.gov.sg/" rel="noopener nofollow" target="_blank">Pressify</a> centralises
+document storage and retrieval, simplifying the process of gathering and
+referencing research sources. Advanced search capabilities—using queries,
+tag filters, and date ranges—eliminate the hassle of sifting through scattered
+information. AI-driven features like auto-tagging, summarization, and content
+translation empower users to extract and consume data efficiently. With
+curated collections for focused work and collaboration tools for seamless
 sharing and role-based access, Pressify enhances productivity and accessibility.
 By simplifying workflows, it enables users to craft insightful, visually
 engaging documents without the distraction of complex tasks.</p>
