@@ -16,12 +16,12 @@ for a solution that simplifies media organisation and enhances collaboration.
 Enter Pinpoint—an innovative, in-house solution tailored to meet these
 needs.</p>
 <p><a href="https://app.pinpoint.gov.sg/" rel="noopener nofollow" target="_blank">Pinpoint</a> is
-a one-stop platform for public officers to store, search, and share images
-and videos. Moving beyond traditional folder-based systems, it uses tagging
-to let users flexibly label and locate media, eliminating reliance on specific
-file names or rigid structures. With robust and customisable features,
-Pinpoint aims to revolutionise media management by simplifying workflows
-and boosting efficiency.</p>
+a one-stop platform for public officers and military personnel to store,
+search, and share images and videos. Moving beyond traditional folder-based
+systems, it uses tagging to let users flexibly label and locate media,
+eliminating reliance on specific file names or rigid structures. With robust
+and customisable features, Pinpoint aims to revolutionise media management
+by simplifying workflows and boosting efficiency.</p>
 <h4>Key Features of Pinpoint</h4>
 <p></p>
 <p></p>
@@ -55,7 +55,7 @@ to collaborate seamlessly and stay productive wherever you are.</p>
 <blockquote>
 <p>3. Robust security for classified media</p>
 </blockquote>
-<p>Built for public officers, Pinpoint is <a href="https://www.developer.tech.gov.sg/guidelines/standards-and-best-practices/instruction-manual-for-ict-ss-management.html" rel="noopener nofollow" target="_blank">IM8</a> compliant
+<p>Built for public officers and military personnel, Pinpoint is <a href="https://www.developer.tech.gov.sg/guidelines/standards-and-best-practices/instruction-manual-for-ict-ss-management.html" rel="noopener nofollow" target="_blank">IM8</a> compliant
 and hosted on the <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" rel="noopener nofollow" target="_blank">Government on Commercial Cloud</a> (GCC),
 ensuring the secure storage of media up to RESTRICTED/Sensitive Normal
 classification level. With stringent security protocols tailored for government
@@ -78,11 +78,12 @@ feature simplifies media retrieval, saving valuable time and effort.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pptagfiltergif.gif">
 </div>
 <p></p>
-<p>Pinpoint is now live and free for all public officers. Sign in to <a href="https://go.gov.sg/pinpointapp" rel="noopener nofollow" target="_blank">Pinpoint</a> today
+<p>Pinpoint is now live and free for all public officers and military personnel.
+Sign in to <a href="https://go.gov.sg/pinpointapp" rel="noopener nofollow" target="_blank">Pinpoint</a> today
 to streamline your media asset management, boost productivity, and enhance
-collaboration across government agencies. We are continuously improving
-the platform to better serve your needs, and look forward to having you
-onboard.</p>
+collaboration across the Whole-of-Government and MINDEF/SAF. We are continuously
+improving the platform to better serve your needs, and look forward to
+having you onboard.</p>
 <p>
 <br>
 <br>
