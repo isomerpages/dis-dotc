@@ -21,7 +21,6 @@ capabilities</p>
 </li>
 </ul>
 <p></p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
