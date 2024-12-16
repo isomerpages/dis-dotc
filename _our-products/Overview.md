@@ -6,6 +6,22 @@ variant: tiptap
 ---
 <p>At DOTC, we identify opportunities and problems, and reach out to users
 to build solutions that address their issues.</p>
+<p></p>
+<p>Our products help to enable:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Easier ways to organize and find relevant media, powered with image recognition
+capabilities</p>
+</li>
+<li>
+<p>Simpler processes to derive insights from textual data</p>
+</li>
+<li>
+<p>Efficient tracking of training and qualifications of military personnel</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -26,18 +42,4 @@ to build solutions that address their issues.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>Our products help to enable:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Easier ways to organize and find relevant media, powered with image recognition
-capabilities</p>
-</li>
-<li>
-<p>Simpler processes to derive insights from textual data</p>
-</li>
-<li>
-<p>Efficient tracking of training and qualifications of military personnel</p>
-</li>
-</ul>
 <p></p>
