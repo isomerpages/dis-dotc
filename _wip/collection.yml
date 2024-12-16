@@ -1,7 +1,4 @@
 collections:
   wip:
     output: true
-    order:
-      - Pressify.md
-      - Trackr.md
-      - Pinpoint.md
+    order: []
