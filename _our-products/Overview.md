@@ -15,13 +15,13 @@ to build solutions that address their issues.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://app.pinpoint.gov.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/5PinpointBlack_Horizontal_4x.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://app.pinpoint.gov.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/7PinpointBlack_Horizontal_4x.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://app.pressify.gov.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/5PressifyBlack_Horizontal_4x.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://app.pressify.gov.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/7PressifyBlack_Horizontal_4x.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://app.trackr.gov.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/5TrackrBlack_Horizontal_4x.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://app.trackr.gov.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/7TrackrBlack_Horizontal_4x.png"></a>
 </th>
 </tr>
 </tbody>
