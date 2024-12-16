@@ -14,18 +14,17 @@ third_nav_title: Products
 <p></p>
 <p>In today’s digital landscape, effective communication and streamlined
 information management are essential. Enter Pressify, a secure AI-powered
-knowledge management platform that transforms how you create, organize,
-and share reports and presentations.</p>
-<p><a href="https://app.pressify.gov.sg/" rel="noopener nofollow" target="_blank">Pressify</a> centralises
-document storage and retrieval, simplifying the process of gathering and
-referencing research sources. Advanced search capabilities—using queries,
-tag filters, and date ranges—eliminate the hassle of sifting through scattered
-information. AI-driven features like auto-tagging, summarization, and content
-translation empower users to extract and consume data efficiently. With
-curated collections for focused work and collaboration tools for seamless
-sharing and role-based access, Pressify enhances productivity and accessibility.
-By simplifying workflows, it enables users to craft insightful, visually
-engaging documents without the distraction of complex tasks.</p>
+knowledge management platform that transforms how you organise and share
+information with your team.</p>
+<p><a href="https://app.pressify.gov.sg/" rel="noopener nofollow" target="_blank">Pressify</a> simplifies
+document management by centralising storage and retrieval, streamlining
+research and reference tasks. With advanced search tools, AI-powered features,
+and seamless collaboration capabilities, it enhances productivity and accessibility.
+From smart filtering and summarisation to content translation, curated
+collections, and role-based access, Pressify provides everything you need
+for efficient information management and team collaboration.
+<br>
+</p>
 <h4>Key Features of Pressify</h4>
 <p></p>
 <p></p>
@@ -51,7 +50,6 @@ and helps you focus on the most important information.</p>
 Translation feature, converting articles into English in seconds. This
 functionality broadens your access to diverse content and enhances your
 ability to work with global materials.</p>
-<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -90,13 +88,14 @@ content quickly and share your insights with ease.</p>
 <p></p>
 <p></p>
 <p>Pressify is an essential tool for anyone looking to simplify and enhance
-digital publishing. Its user-friendly interface, advanced AI features,
-and robust collaboration tools make it ideal for both newcomers and seasoned
-professionals. By centralizing document management and streamlining workflows,
-Pressify helps you focus on creating impactful, visually engaging reports
-and presentations without the hassle of complex tasks. Getting started
-is simple - visit <a href="https://app.pressify.gov.sg/" rel="noopener nofollow" target="_blank">Pressify </a>to
-create an account and explore its full capabilities. Embrace Pressify to
+organisation and sharing of information. Its user-friendly interface, advanced
+AI features, and robust collaboration tools make it ideal for both newcomers
+and seasoned professionals. By centralizing document management and streamlining
+workflows.</p>
+<p>Getting started is simple –&nbsp; exclusively available to MINDEF/SAF
+users with Defence or MINDEF email addresses, simply enter your email address
+to receive a one-time password (OTP). Use the OTP to log in - no account
+creation required. Embrace <a href="https://app.pressify.gov.sg/" rel="noopener nofollow" target="_blank">Pressify</a> to
 transform how you manage information and take your productivity to new
 heights!</p>
 <p>
