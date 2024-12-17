@@ -58,9 +58,9 @@ to collaborate seamlessly and stay productive wherever you are.</p>
 <blockquote>
 <p>3. Robust security for classified media</p>
 </blockquote>
-<p>Built for public officers and military personnel, Pinpoint is <a href="https://www.developer.tech.gov.sg/guidelines/standards-and-best-practices/instruction-manual-for-ict-ss-management.html" rel="noopener nofollow" target="_blank">IM8</a> compliant
-and hosted on the <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" rel="noopener nofollow" target="_blank">Government on Commercial Cloud</a> (GCC),
-ensuring the secure storage of media up to RESTRICTED/Sensitive Normal
+<p>Built for public officers and military personnel, Pinpoint follows IM8
+reform rules and is hosted on the Government on Commercial Cloud (GCC),
+ensuring secure storage of media up to the RESTRICTED/Sensitive Normal
 classification level. With stringent security protocols tailored for government
 use, Pinpoint is aligned with the standardised approach to adopt cloud
 services and safeguard sensitive information.</p>
