@@ -3,7 +3,8 @@ title: "Kicking Off Our Inaugural Hackathon 2024 #BuildTogether"
 permalink: /kicking-off-our-inaugural-hackathon-2024/
 date: 2024-10-22
 layout: post
-description: ""
+description: The inaugural Hackathon 2024 united SAF users and developers to
+  tackle challenges, foster collaboration, and prototype innovative solutions.
 image: ""
 variant: tiptap
 ---

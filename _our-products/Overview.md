@@ -1,7 +1,9 @@
 ---
 title: Overview
 permalink: /our-products/overview/
-description: ""
+description: At DOTC, we build user-focused solutions that simplify media
+  organization, extract insights from textual data, and streamline tracking of
+  military training and qualifications.
 variant: tiptap
 ---
 <p>At DOTC, we identify opportunities and problems, and reach out to users

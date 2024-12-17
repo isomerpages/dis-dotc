@@ -1,6 +1,11 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+variant: tiptap
+description: This Government of Singapore digital service ensures secure
+  handling of personal data, limited sharing with authorised entities, and uses
+  cookies to enhance user experience, while maintaining strict privacy
+  standards.
 ---
 ### **Government Agency Privacy Statement**
 

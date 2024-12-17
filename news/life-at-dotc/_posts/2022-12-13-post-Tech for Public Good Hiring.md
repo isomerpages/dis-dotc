@@ -3,7 +3,9 @@ title: Tech for Public Good Hiring
 permalink: /news/life-at-dotc/hiring-session/
 date: 2022-12-13
 layout: post
-description: ""
+description: We partnered with Open Government Products’ hiring sessions to
+  connect with tech enthusiasts eager to drive impactful innovation in the
+  public and military sectors.
 image: /images/1671600351754.jpeg
 variant: tiptap
 ---

@@ -1,6 +1,10 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: tiptap
+description: This website is governed by terms of service, disclaiming liability
+  for errors and external links, while protecting all content under intellectual
+  property laws.
 ---
 #### **General**
 

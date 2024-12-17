@@ -3,7 +3,9 @@ title: DOTC Hosts Inspiring TED Style Talks with The Product Loft
 permalink: /dotc-hosts-inspiring-ted-style-talks-with-the-product-loft/
 date: 2024-08-20
 layout: post
-description: ""
+description: DOTC hosted TED-style talks with The Product Loft, featuring
+  industry experts who shared insights on challenges, innovations, and solutions
+  across defence, ad-tech, logistics, and HR-tech sectors.
 image: ""
 variant: tiptap
 ---

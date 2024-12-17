@@ -3,7 +3,9 @@ title: "Celebrating Design Excellence: Product Design at DOTC"
 permalink: /celebrating-design-excellence-insights-from-the-first-product-design-talk/
 date: 2024-09-20
 layout: post
-description: ""
+description: DOTC’s Product Design talk showcased how UX principles are adapted
+  for military challenges, emphasising design’s critical role in enhancing
+  defence capabilities.
 image: ""
 variant: tiptap
 ---

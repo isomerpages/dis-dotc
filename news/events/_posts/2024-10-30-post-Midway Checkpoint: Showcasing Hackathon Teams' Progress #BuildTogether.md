@@ -3,7 +3,8 @@ title: "Midway Checkpoint: Showcasing Hackathon Teams' Progress #BuildTogether"
 permalink: /showcasing-hackathon-teams-progress/
 date: 2024-10-30
 layout: post
-description: ""
+description: Hackathon 2024 drives innovation and collaboration as teams develop
+  user-centric prototypes to advance SAF's digital transformation.
 image: ""
 variant: tiptap
 ---

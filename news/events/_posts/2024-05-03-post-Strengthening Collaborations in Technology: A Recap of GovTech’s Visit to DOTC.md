@@ -4,7 +4,9 @@ title: "Strengthening Collaborations in Technology: A Recap of GovTech’s Visit
 permalink: /strengthening-collaborations-in-technology-a-recap-of-govtech-s-visit-to-dotc/
 date: 2024-05-03
 layout: post
-description: ""
+description: The GDS visit to DOTC showcased shared innovation and
+  collaboration, fostering ideas to advance user-centric tech solutions and
+  strengthen Singapore’s thriving tech ecosystem.
 image: /images/1714960042985.jpg
 variant: tiptap
 ---

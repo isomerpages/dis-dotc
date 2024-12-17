@@ -1,7 +1,8 @@
 ---
 title: Meet the Team
 permalink: /careers/meet-the-team/
-description: ""
+description: Get to know our team and explore the vital roles they play in
+  driving innovation and advancing Singapore's defence capabilities.
 variant: markdown
 ---
 <style>

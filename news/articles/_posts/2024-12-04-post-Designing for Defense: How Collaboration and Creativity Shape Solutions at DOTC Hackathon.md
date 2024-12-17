@@ -4,7 +4,8 @@ title: "Designing for Defense: How Collaboration and Creativity Shape Solutions
 permalink: /designing-for-defense-how-collaboration-and-creativity-shape-solutions-at-dotc-hackathon/
 date: 2024-12-04
 layout: post
-description: ""
+description: The DOTC hackathon showcased innovation, collaboration, and design
+  thinking to create impactful solutions for Singapore's defence.
 image: ""
 variant: tiptap
 ---

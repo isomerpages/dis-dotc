@@ -1,7 +1,9 @@
 ---
 title: Vision
 permalink: /about/vision/
-description: ""
+description: DOTC champions a user-centric approach, empowering teams to solve
+  meaningful problems and drive innovation through collaboration, diversity, and
+  continuous learning, shaping a transformative future for the SAF.
 variant: tiptap
 ---
 <h2>User-Centric Approach</h2>

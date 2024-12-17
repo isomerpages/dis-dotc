@@ -3,7 +3,9 @@ title: "Team Bonding at DOTC: Embracing Diversity and Collaboration"
 permalink: /team-bonding-at-dotc-embracing-diversity-and-collaboration/
 date: 2024-09-14
 layout: post
-description: ""
+description: DOTC's team bonding activity celebrated creativity, individuality,
+  and collaboration, reinforcing our commitment to fostering diverse
+  perspectives and driving innovation together.
 image: ""
 variant: tiptap
 ---

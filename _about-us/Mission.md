@@ -1,7 +1,9 @@
 ---
 title: Mission
 permalink: /about/mission/
-description: ""
+description: The Digital Ops-Tech Centre (DOTC) empowers the SAF with bespoke
+  digital solutions, fostering innovation and a skilled software workforce to
+  enhance operational efficiency, effectiveness, and security.
 variant: markdown
 ---
 The mission of Ministry of Defence and the Singapore Armed Forces is to enhance Singapore's peace and security through deterrence and diplomacy, and should these fail, to secure a swift and decisive victory over the aggressor.

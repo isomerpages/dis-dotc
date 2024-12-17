@@ -3,7 +3,8 @@ title: "Hackathon Demo Day Highlights #BuildTogether"
 permalink: /hackathon-demo-day-highlights/
 date: 2024-12-04
 layout: post
-description: ""
+description: DOTC’s Hackathon 2024 highlighted collaborative prototypes that
+  tackle SAF challenges, enhance operations, and drive impactful innovation.
 image: ""
 variant: tiptap
 ---

@@ -1,7 +1,9 @@
 ---
 title: Partnerships
 permalink: /our-products/partnerships/
-description: ""
+description: Through our partnership with the Government Technology Agency, our
+  engineers gain hands-on experience with key government platforms, learning
+  best practices in product development and engineering.
 variant: tiptap
 ---
 Our partnership with the Government Technology Agency has enabled our engineers to join the Government Digital Services (GDS) and Open Government Products (OGP) for attachments that allow them to learn what good products and engineering look like on the ground.

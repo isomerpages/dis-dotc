@@ -3,7 +3,9 @@ title: DOTC Showcases Innovative Solutions at Army Innovation Day 2024
 permalink: /dotc-showcases-innovative-solutions-at-army-innovation-day-2024/
 date: 2024-07-30
 layout: post
-description: ""
+description: DOTC showcased Pinpoint and Pressify at Army Innovation Day 2024,
+  highlighting tools that enhance efficiency, communication, and support the
+  Army's innovation goals.
 image: /images/9_IMG20240730102304.jpg
 variant: tiptap
 ---

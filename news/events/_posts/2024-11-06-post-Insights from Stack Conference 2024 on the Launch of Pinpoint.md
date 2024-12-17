@@ -3,7 +3,9 @@ title: Insights from Stack Conference 2024 on the Launch of Pinpoint
 permalink: /insights-from-stack-conference-2024-on-the-launch-of-pinpoint/
 date: 2024-11-06
 layout: post
-description: ""
+description: "At GovTech #StackConference2024, DOTC showcased Pinpoint, a secure
+  media platform that streamlines collaboration through user-driven and
+  adaptable design."
 image: ""
 variant: tiptap
 ---

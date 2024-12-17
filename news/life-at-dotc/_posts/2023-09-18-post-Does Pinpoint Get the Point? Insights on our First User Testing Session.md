@@ -3,8 +3,11 @@ title: Does Pinpoint Get the Point? Insights on our First User Testing Session
 permalink: /news/life-at-dotc/pinpoint-ut/
 date: 2023-09-18
 layout: post
-description: pinpoint user testing dotc ogp
+description: Pinpoint, an AI-driven media gallery by DOTC and OGP, simplifies
+  media management for government users with intuitive tags and filters,
+  enabling seamless organisation and search.
 image: ""
+variant: tiptap
 ---
 > Are you tired of wrestling with disorganised media assets, clicking through many folders and searching for various permutations of the same thing before finally finding what you need? This is why we embarked on the journey to create Pinpoint.
 
