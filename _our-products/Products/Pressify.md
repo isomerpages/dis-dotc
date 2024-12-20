@@ -10,13 +10,13 @@ third_nav_title: Products
 ---
 <h2>Find what you need, fast, with Pressify</h2>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://app.pressify.gov.sg/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PressifyBlack_Horizontal_4x.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/dotc-pressify"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PressifyBlack_Horizontal_4x.png"></a>
 <p></p>
 <p>In today’s digital landscape, effective communication and streamlined
 information management are essential. Enter Pressify, a secure AI-powered
 knowledge management platform that transforms how you organise and share
 information with your team.</p>
-<p><a href="https://app.pressify.gov.sg/" rel="noopener nofollow" target="_blank">Pressify</a> simplifies
+<p><a href="https://go.gov.sg/dotc-pressify" rel="noopener nofollow" target="_blank">Pressify</a> simplifies
 document management by centralising storage and retrieval, streamlining
 research and reference tasks. With advanced search tools, AI-powered features,
 and seamless collaboration capabilities, it enhances productivity and accessibility.
@@ -95,7 +95,7 @@ workflows.</p>
 <p>Getting started is simple –&nbsp; exclusively available to MINDEF/SAF
 users with Defence or MINDEF email addresses, simply enter your email address
 to receive a one-time password (OTP). Use the OTP to log in - no account
-creation required. Embrace <a href="https://app.pressify.gov.sg/" rel="noopener nofollow" target="_blank">Pressify</a> to
+creation required. Embrace <a href="https://go.gov.sg/dotc-pressify" rel="noopener nofollow" target="_blank">Pressify</a> to
 transform how you manage information and take your productivity to new
 heights!</p>
 <p>
