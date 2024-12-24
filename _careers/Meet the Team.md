@@ -234,12 +234,6 @@ variant: markdown
 					<h6>With a vision in mind, the tough days get easier.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/alex_chua_swe.jpg">
-            <span class="swe">Software Engineer</span>
-            <h3>Alex Chua</h3>
-					<h6>Software engineer by day, code ninja by night.</h6>
-        </div>
-	<div class="card-item">
             <img src="/images/Meet%20the%20Team/t_daranidarran_swe.jpg">
             <span class="swe">Software Engineer</span>
             <h3>T Daranidarran</h3>
