@@ -84,9 +84,13 @@ efficiency and focus on impactful results with Trackr. <a href="https://www.dotc
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/7PressifyBlack_Horizontal_4x.png">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Pressify is an AI-powered platform that streamlines how MINDEF/SAF users
+organize and share information. With smart filtering, summarization, translation,
+and curated collections, it simplifies document management and boosts collaboration.
+Accessible securely via Defence or MINDEF email, Pressify centralizes workflows,
+enhancing productivity and accessibility. <a href="https://chatgpt.com/c/676d677e-6b4c-8000-83ee-562f89733f82#" rel="noopener noreferrer nofollow" target="_blank">Learn more</a>.</p>
+</td>
 </tr>
 </tbody>
 </table>
