@@ -69,7 +69,6 @@ efficiency and focus on impactful results with Trackr. <a href="https://www.dotc
 </tbody>
 </table>
 <p></p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
