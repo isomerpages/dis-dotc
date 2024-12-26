@@ -63,11 +63,13 @@ Pinpoint boosts collaboration and productivity. <a href="https://www.dotc.gov.sg
 metrics, and enhances operational readiness. Accessible via mobile with
 Singpass, it enables real-time updates, intuitive dashboards, and automated
 calculations to simplify workflows and support informed decisions. Boost
-efficiency and focus on impactful results with Trackr. <a href="https://www.dotc.gov.sg/our-products/trackr/" rel="noopener" target="_blank">Learn more</a>.</p>
+efficiency and focus on impactful results with Trackr. <a href="https://www.dotc.gov.sg/our-products/trackr/" rel="noopener noreferrer nofollow" target="_blank">Learn more</a>.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -76,12 +78,12 @@ efficiency and focus on impactful results with Trackr. <a href="https://www.dotc
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/7PressifyBlack_Horizontal_4x.png">
 </div>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <p>Pressify is an AI-powered platform that streamlines how MINDEF/SAF users
 organize and share information. With smart filtering, summarization, translation,
@@ -92,6 +94,17 @@ enhancing productivity and accessibility. <a href="https://www.dotc.gov.sg/our-p
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
