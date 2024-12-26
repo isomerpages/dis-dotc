@@ -70,7 +70,6 @@ efficiency and focus on impactful results with Trackr. <a href="https://www.dotc
 </table>
 <p></p>
 <p></p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -94,5 +93,7 @@ enhancing productivity and accessibility. <a href="https://www.dotc.gov.sg/our-p
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
