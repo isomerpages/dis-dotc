@@ -89,7 +89,7 @@ efficiency and focus on impactful results with Trackr. <a href="https://www.dotc
 organize and share information. With smart filtering, summarization, translation,
 and curated collections, it simplifies document management and boosts collaboration.
 Accessible securely via Defence or MINDEF email, Pressify centralizes workflows,
-enhancing productivity and accessibility. <a href="https://chatgpt.com/c/676d677e-6b4c-8000-83ee-562f89733f82#" rel="noopener noreferrer nofollow" target="_blank">Learn more</a>.</p>
+enhancing productivity and accessibility. <a href="https://www.dotc.gov.sg/our-products/pressify/" rel="noopener noreferrer nofollow" target="_blank">Learn more</a>.</p>
 </td>
 </tr>
 </tbody>
