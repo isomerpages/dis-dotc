@@ -19,8 +19,10 @@ From the SAF, for the SAF, we are shaping the future of digital operations.
 <br>
 </p>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
@@ -38,6 +40,12 @@ personnel to store, search, and share media. With advanced tagging, multi-criter
 search, and unlimited storage, it simplifies organization and retrieval
 while safeguarding sensitive information. Accessible on desktop and mobile,
 Pinpoint boosts collaboration and productivity. <a href="https://www.dotc.gov.sg/our-products/pinpoint/" rel="noopener" target="_blank">Learn more</a>.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
