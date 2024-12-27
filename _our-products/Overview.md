@@ -69,6 +69,17 @@ Accessible securely via Defence or MINDEF email, Pressify centralizes workflows,
 enhancing productivity and accessibility. <a href="https://www.dotc.gov.sg/our-products/pressify/" rel="noopener noreferrer nofollow" target="_blank">Learn more</a>.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
