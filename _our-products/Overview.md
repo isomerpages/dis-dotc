@@ -29,7 +29,7 @@ From the SAF, for the SAF, we are shaping the future of digital operations.
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/7PinpointBlack_Horizontal_4x.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/7PinpointBlack_Horizontal_4x.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +55,7 @@ Pinpoint boosts collaboration and productivity. <a href="https://www.dotc.gov.sg
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/7TrackrBlack_Horizontal_4x.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/7TrackrBlack_Horizontal_4x.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +81,7 @@ efficiency and focus on impactful results with Trackr. <a href="https://www.dotc
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/7PressifyBlack_Horizontal_4x.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/7PressifyBlack_Horizontal_4x.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
