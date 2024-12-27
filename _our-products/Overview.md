@@ -19,9 +19,54 @@ From the SAF, for the SAF, we are shaping the future of digital operations.
 <br>
 </p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/7PinpointBlack_Horizontal_4x.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
 <col>
 <col>
 <col>
@@ -31,7 +76,7 @@ From the SAF, for the SAF, we are shaping the future of digital operations.
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/7PinpointBlack_Horizontal_4x.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/7PinpointBlack_Horizontal_4x.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,9 +85,6 @@ personnel to store, search, and share media. With advanced tagging, multi-criter
 search, and unlimited storage, it simplifies organization and retrieval
 while safeguarding sensitive information. Accessible on desktop and mobile,
 Pinpoint boosts collaboration and productivity. <a href="https://www.dotc.gov.sg/our-products/pinpoint/" rel="noopener" target="_blank">Learn more</a>.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -63,7 +105,7 @@ Pinpoint boosts collaboration and productivity. <a href="https://www.dotc.gov.sg
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/7TrackrBlack_Horizontal_4x.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/7TrackrBlack_Horizontal_4x.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,7 +131,7 @@ efficiency and focus on impactful results with Trackr. <a href="https://www.dotc
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/7PressifyBlack_Horizontal_4x.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/7PressifyBlack_Horizontal_4x.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
