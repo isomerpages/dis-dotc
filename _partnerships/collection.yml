@@ -1,5 +1,4 @@
 collections:
   partnerships:
     output: true
-    order:
-      - Attachments.md
+    order: []
