@@ -8,7 +8,7 @@ description: Pinpoint is a unified platform designed for public officers and
   collaboration, and simplifies media management.
 third_nav_title: Products
 ---
-<h2>Find the needle in your haystack with Pinpoint</h2><a class="isomer-image-wrapper" href="https://app.pinpoint.gov.sg/"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PinpointBlack_Horizontal_4x.png"></a>
+<h2>Find the needle in your haystack with Pinpoint</h2><a class="isomer-image-wrapper" href="https://go.gov.sg/dotc-pinpoint"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PinpointBlack_Horizontal_4x.png"></a>
 <p>In today's fast-paced digital landscape, managing an ever-growing volume
 of images and videos has become increasingly challenging. Storage limits
 and the lack of a unified system result in siloed repositories and scattered
@@ -18,7 +18,7 @@ and compliance risks due to unregulated sharing. These challenges call
 for a solution that simplifies media organisation and enhances collaboration.
 Enter Pinpoint - an innovative, in-house solution tailored to meet these
 needs.</p>
-<p><a href="https://app.pinpoint.gov.sg/" rel="noopener nofollow" target="_blank">Pinpoint </a>is
+<p><a href="https://go.gov.sg/dotc-pinpoint" rel="noopener nofollow" target="_blank">Pinpoint </a>is
 a one-stop platform for public officers and military personnel to store,
 search, and share images and videos. Moving beyond traditional folder-based
 systems, it uses tagging to let users flexibly label and locate media,
@@ -82,7 +82,7 @@ feature simplifies media retrieval, saving valuable time and effort.</p>
 </div>
 <p></p>
 <p>Pinpoint is now live and free for all public officers and military personnel.
-Sign in to <a href="https://app.pinpoint.gov.sg/" rel="noopener nofollow" target="_blank">Pinpoint</a> today
+Sign in to <a href="https://go.gov.sg/dotc-pinpoint" rel="noopener nofollow" target="_blank">Pinpoint</a> today
 to streamline your media asset management, boost productivity, and enhance
 collaboration across the Whole-of-Government and MINDEF/SAF. We are continuously
 improving the platform to better serve your needs, and look forward to

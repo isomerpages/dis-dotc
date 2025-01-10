@@ -1,4 +1,6 @@
 collections:
   wip:
     output: true
-    order: []
+    order:
+      - Partnerships.md
+      - Attachments.md
