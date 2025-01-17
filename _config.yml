@@ -3,12 +3,12 @@ url: https://dotc.gov.sg
 favicon: /images/dotc_final_favicon.png
 colors:
   primary-color: "#858f9e"
-  secondary-color: "#3c6de8"
+  secondary-color: "#ebaa3c"
   media-colors:
     - title: media-color-one
       color: "#9ba7bc"
     - title: media-color-two
-      color: "#ebaa3c"
+      color: "#3c6de8"
     - title: media-color-three
       color: "#858f9e"
     - title: media-color-four
