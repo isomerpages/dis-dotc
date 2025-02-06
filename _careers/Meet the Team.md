@@ -169,12 +169,12 @@ variant: markdown
 <div>
 <div class="card-list-horizontal">
         <div class="card-item-horizontal">
-            <img src="/images/Meet%20the%20Team/david-kok-full.jpg">
+            <img src="/images/Meet%20the%20Team/JamesKwek3.jpg">
         </div>
 	<div class="card-item-horizontal">
           <span class="hddotc">Head DOTC</span>
-		      <h3>David Kok</h3>
-					<h6>"People solve problems. Good people solve problems well. Problems train people. Good problems train people well. <br><br>At DOTC, we believe that if necessity is the mother of invention, the space to experiment without fear is the father."</h6>
+		      <h3>James Kwek</h3>
+					<h6>Changing the digital landscape and building great products for the SAF.</h6>
 	</div>
 	</div>
 <div>
