@@ -18,16 +18,26 @@ from computer vision research to Open Government Products (OGP), and finally,
 to DOTC. With a passion for building, breaking, and improving things, Foo
 shares his experiences, insights, and the occasional lighthearted take
 on the realities of engineering.</p>
-<p>Foo Chi Fa graduated from the National University of Singapore (NUS) in
-2022 with a degree in Computer Science. His early career focused on developing
-computer vision technologies before he transitioned to OGP. Now at DOTC,
-he continues to push the boundaries of what’s possible in the tech space,
-bringing innovative solutions to real-world challenges.</p>
+<p>Foo Chi Fa’s journey into software engineering wasn’t straightforward.
+Initially studying business in polytechnic, he found its emphasis on soft
+skills unfulfilling. Wanting to develop technical expertise, he pivoted
+to Computer Science at NUS, where his passion for programming flourished.</p>
+<p>Before his degree, Foo aspired to work in the public sector, believing
+it to be more meaningful than profit-driven enterprises. He signed on with
+military intelligence, leveraging data science for analytical operations.
+However, he soon realized that military intelligence was only tangentially
+related to software engineering and AI.</p>
+<p>After completing his degree, Foo transitioned to C4X to focus on software
+engineering, where his passion for coding took center stage. From OGP,
+where he absorbed best engineering practices under Jean’s mentorship, he
+moved to DOTC, bringing back these practices and contributing to Pinpoint’s
+development.</p>
+<hr>
 <p></p>
 <blockquote>
 <p>What’s the most exciting feature you’ve ever built, and what made it special?</p>
 </blockquote>
-<p><em>"The Christmas &amp; New Year special on Pinpoint! I added snowfall and fireworks to the app—it was a fun way to make our product feel festive and engaging. Plus, it’s not every day you get to bring a little holiday magic into a government tool!"</em>
+<p><em>"The Christmas &amp; New Year special on Pinpoint! I added snowfall and fireworks to the app—it was a fun way to make our product feel festive and engaging. The feature was a simple Easter egg—a CSS animation triggered by hovering over the Pinpoint logo in the gallery. It was a small touch, but seeing people discover it was incredibly rewarding."</em>
 </p>
 <p></p>
 <p></p>
@@ -40,8 +50,15 @@ bringing innovative solutions to real-world challenges.</p>
 <p>If you could streamline one task in your work to improve efficiency, what
 would it be and why?</p>
 </blockquote>
-<p><em>"On-call duties. If only there were a magical 'rollback' button—or better yet, AI support that could handle incidents automatically!"</em>
-</p>
+<p>"On-call duties. Every live product needs an on-call engineer, who serves
+as the first line of defense against app issues, service outages, and security
+vulnerabilities. It’s an important but mentally taxing role. A lot of incidents
+happen due to new releases introducing bugs or adjacent services facing
+issues that impact our app.</p>
+<p>AI could potentially help by understanding our codebase and architecture,
+suggesting likely causes of incidents. A simple rollback button would also
+be great, as many bugs come from recent updates—being able to revert quickly
+would make life much easier."</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -63,7 +80,18 @@ or sheer determination?</p>
 <blockquote>
 <p>What’s the most memorable moment from your time at DOTC so far?</p>
 </blockquote>
-<p><em>"Definitely the Hackathon. The energy, the teamwork, and the rush of building something from scratch—it’s an experience that really sticks with you."</em>
+<p>"Definitely the Hackathon. It was my first time using the T3 stack with
+Next.js and Tailwind CSS, and deploying to Vercel. The improvements in
+open-source tech for rapid prototyping were eye-opening.</p>
+<p>The problem space was well-defined with motivated users, making development
+feel focused and fast-paced—it kept our cadence high and the experience
+fun. Plus, I got to experiment with creative features like:
+<br>
+<br>a. A snake game using paper planes instead of a snake.
+<br>
+<br>b. A Telegram chatbot that provides inspiring quotes, paired with an AI
+that critiques them from the perspective of a Singapore government software
+engineer."
 <br>
 </p>
 <p></p>
@@ -85,8 +113,16 @@ or sheer determination?</p>
 <blockquote>
 <p>What’s the best advice you’d give someone aspiring to be a software engineer?</p>
 </blockquote>
-<p><em>"Do pointless things. Build fun, seemingly ‘useless’ projects—it keeps you motivated, helps you learn new things, and sometimes, those pointless ideas turn into something truly valuable."</em>
-</p>
+<p>"Do pointless things. Build fun, seemingly ‘useless’ projects—it keeps
+you motivated and helps you learn new things. Some of my ‘pointless’ projects
+include:</p>
+<p>a. Adding snowfall/fireworks to Pinpoint—helped me appreciate event handling
+and CSS animations.
+<br>
+<br>b. AI quote reviewer on Telegram—taught me prompt engineering and integrating
+LLMs for real-time interactions.</p>
+<p>The best way to grow as an engineer is to experiment and tinker without
+worrying about utility!"</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
