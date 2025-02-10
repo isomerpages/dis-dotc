@@ -7,9 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4>Inside DOTC: Checkmate in Code – Engineering the Future One Move at a Time</h4>
-<h4>Foo Chi Fa<br>Software Engineer<br></h4>
-<p></p>
+<h3>Inside DOTC: Checkmate in Code – Engineering the Future One Move at a Time</h3>
+<h4>Foo Chi Fa<br>Software Engineer</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2414IMG_0898.jpg">
 </div>
