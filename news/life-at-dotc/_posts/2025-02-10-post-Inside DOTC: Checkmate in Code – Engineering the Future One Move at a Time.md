@@ -9,9 +9,11 @@ variant: tiptap
 ---
 <h4>Inside DOTC: Checkmate in Code – Engineering the Future One Move at a Time</h4>
 <h4>Foo Chi Fa<br>Software Engineer<br></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0906.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2414IMG_0898.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p>At DOTC, we believe that continuous learning and improvement are essential
@@ -90,8 +92,9 @@ or sheer determination?</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0884.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2IMG_0826.jpg">
 </div>
+<p></p>
 <p></p>
 <blockquote>
 <p>What’s the best advice you’d give someone aspiring to be a software engineer?</p>
