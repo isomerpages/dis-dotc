@@ -12,12 +12,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_07742.jpg">
 </div>
-<p>At DOTC, innovation is more than just a buzzword—it’s a way of life. We
-sat down with Foo Chi Fa, a software engineer whose journey has taken him
-from computer vision research to Open Government Products (OGP), and finally,
-to DOTC. With a passion for building, breaking, and improving things, Foo
-shares his experiences, insights, and the occasional lighthearted take
-on the realities of engineering.</p>
+<p>We sat down with Foo Chi Fa, a software engineer whose journey has taken
+him from computer vision research to Open Government Products (OGP), and
+finally, to DOTC. With a passion for building, breaking, and improving
+things, Foo shares his experiences, insights, and the occasional lighthearted
+take on the realities of engineering.</p>
 <p>Foo Chi Fa’s journey into software engineering wasn’t straightforward.
 Initially studying business in polytechnic, he found its emphasis on soft
 skills unfulfilling. Wanting to develop technical expertise, he pivoted
