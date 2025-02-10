@@ -110,7 +110,7 @@ or sheer determination?</p>
 </div>
 <p>Chi Fa’s journey is a testament to the spirit of creativity and problem-solving
 that drives DOTC. Whether it’s crafting delightful user experiences, tackling
-tough technical challenges, or injecting a bit of humor into the daily
+tough technical challenges, or injecting a bit of humour into the daily
 grind, he embodies the innovative mindset that makes our work meaningful.</p>
 <p>Interested in building the future with us? Join DOTC and be part of the
 change!</p>
