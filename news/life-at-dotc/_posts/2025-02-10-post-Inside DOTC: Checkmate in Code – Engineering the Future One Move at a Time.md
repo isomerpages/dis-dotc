@@ -9,11 +9,11 @@ variant: tiptap
 ---
 <h3>Inside DOTC: Checkmate in Code – Engineering the Future One Move at a Time</h3>
 <h4>Foo Chi Fa<br>Software Engineer</h4>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2414IMG_0898.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4142IMG_0898.jpg">
 </div>
-<p></p>
-<p></p>
 <p></p>
 <p>At DOTC, we believe that continuous learning and improvement are essential
 to solving challenges, This series highlights DOTC team members and their
