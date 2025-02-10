@@ -15,9 +15,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4142IMG_0898.jpg">
 </div>
 <p></p>
-<p>At DOTC, we believe that continuous learning and improvement are essential
-to solving challenges, This series highlights DOTC team members and their
-stories, offering an overview of their expertise and contributions.</p>
+<p>At DOTC, continuous learning and improvement drive meaningful change.
+This series showcases team members and their stories, highlighting their
+expertise and contributions in shaping our work.</p>
 <p>We spoke with Chi Fa, a software engineer in the Pinpoint team, about
 his journey from computer vision research to OGP (Open Goverment Products)
 and finally DOTC. Passionate about building, breaking, and improving systems,
