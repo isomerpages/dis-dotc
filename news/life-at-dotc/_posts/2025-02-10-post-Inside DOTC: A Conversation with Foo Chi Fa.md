@@ -85,16 +85,12 @@ Next.js and Tailwind CSS, and deploying to Vercel. The improvements in
 open-source tech for rapid prototyping were eye-opening.</p>
 <p>The problem space was well-defined with motivated users, making development
 feel focused and fast-paced—it kept our cadence high and the experience
-fun. Plus, I got to experiment with creative features like:
-<br>
-<br>a. A snake game using paper planes instead of a snake.
-<br>
-<br>b. A Telegram chatbot that provides inspiring quotes, paired with an AI
-that critiques them from the perspective of a Singapore government software
-engineer."
+fun. Plus, I got to experiment with creative features like a snake game
+using paper planes instead of a snake and a Telegram chatbot that provides
+inspiring quotes, paired with an AI that critiques them from the perspective
+of a Singapore government software engineer."
 <br>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0826.jpg">
 </div>
@@ -115,15 +111,11 @@ engineer."
 </blockquote>
 <p>"Do pointless things. Build fun, seemingly ‘useless’ projects—it keeps
 you motivated and helps you learn new things. Some of my ‘pointless’ projects
-include:</p>
-<p>a. Adding snowfall/fireworks to Pinpoint—helped me appreciate event handling
-and CSS animations.
-<br>
-<br>b. AI quote reviewer on Telegram—taught me prompt engineering and integrating
-LLMs for real-time interactions.</p>
+include adding snowfall/fireworks to Pinpoint that helped me appreciate
+event handling and CSS animations as well as an AI quote reviewer on Telegram
+which taught me prompt engineering and integrating LLMs for real-time interactions.</p>
 <p>The best way to grow as an engineer is to experiment and tinker without
 worrying about utility!"</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_0807.jpg">
