@@ -19,16 +19,16 @@ has taken him from computer vision research to Open Government Products
 (OGP), and finally, to DOTC. With a passion for building, breaking, and
 improving things, Foo shares his experiences, insights, and the occasional
 lighthearted take on the realities of engineering.</p>
-<p>Foo Chi Fa’s journey into software engineering wasn’t straightforward.
-Initially studying business in polytechnic, he found its emphasis on soft
-skills unfulfilling. Wanting to develop technical expertise, he pivoted
-to Computer Science at NUS, where his passion for programming flourished.</p>
-<p>Before his degree, Foo aspired to work in the public sector, believing
+<p>Chi Fa’s journey into software engineering wasn’t straightforward. Initially
+studying business in polytechnic, he found its emphasis on soft skills
+unfulfilling. Wanting to develop technical expertise, he pivoted to Computer
+Science at NUS, where his passion for programming flourished.</p>
+<p>Before his degree, Chi Fa aspired to work in the public sector, believing
 it to be more meaningful than profit-driven enterprises. He signed on with
 military intelligence, leveraging data science for analytical operations.
 However, he soon realized that military intelligence was only tangentially
 related to software engineering and AI.</p>
-<p>After completing his degree, Foo transitioned to C4X to focus on software
+<p>After completing his degree, Chi Fa transitioned to C4X to focus on software
 engineering, where his passion for coding took center stage. From OGP,
 where he absorbed best engineering practices under Jean’s mentorship, he
 moved to DOTC, bringing back these practices and contributing to Pinpoint’s
@@ -122,7 +122,7 @@ worrying about utility!"</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_0807.jpg">
 </div>
-<p>Foo Chi Fa’s journey is a testament to the spirit of creativity and problem-solving
+<p>Chi Fa’s journey is a testament to the spirit of creativity and problem-solving
 that drives DOTC. Whether it’s crafting delightful user experiences, tackling
 tough technical challenges, or injecting a bit of humor into the daily
 grind, he embodies the innovative mindset that makes our work meaningful.</p>
