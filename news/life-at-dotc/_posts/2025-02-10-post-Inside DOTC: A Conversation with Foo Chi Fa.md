@@ -31,8 +31,9 @@ related to software engineering and AI.</p>
 engineering, where his passion for coding took center stage. From OGP,
 where he absorbed best engineering practices under Jean’s mentorship, he
 moved to DOTC, bringing back these practices and contributing to Pinpoint’s
-development.</p>
-<hr>
+development.
+<br>
+</p>
 <p></p>
 <blockquote>
 <p>What’s the most exciting feature you’ve ever built, and what made it special?</p>
