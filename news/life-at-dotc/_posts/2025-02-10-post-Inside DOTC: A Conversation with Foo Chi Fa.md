@@ -7,17 +7,19 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>Inside DOTC: A Conversation with Foo Chi Fa, Software Engineer</strong><br></h4>
-<p></p>
+<h4>Inside DOTC: Checkmate in Code – Engineering the Future One Move at a Time</h4>
+<h4>Foo Chi Fa<br>Software Engineer<br></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_07742.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0906.jpg">
 </div>
+<p></p>
+<p></p>
 <p>At DOTC, we believe that continuous learning and improvement are essential
 to solving challenges, whether in engineering, problem-solving, or fostering
 innovation. We sat down with Foo Chi Fa, a software engineer whose journey
 has taken him from computer vision research to Open Government Products
 (OGP), and finally, to DOTC. With a passion for building, breaking, and
-improving things, Foo shares his experiences, insights, and the occasional
+improving things, Chi Fa shares his experiences, insights, and the occasional
 lighthearted take on the realities of engineering.</p>
 <p>Chi Fa’s journey into software engineering wasn’t straightforward. Initially
 studying business in polytechnic, he found its emphasis on soft skills
@@ -69,11 +71,6 @@ or sheer determination?</p>
 <p><em>"Shower. It hides my tears."</em>
 </p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0906.jpg">
-</div>
-<p></p>
 <blockquote>
 <p>What’s the most memorable moment from your time at DOTC so far?</p>
 </blockquote>
@@ -106,11 +103,11 @@ or sheer determination?</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_0807.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_07742.jpg">
 </div>
+<p></p>
 <p>Chi Fa’s journey is a testament to the spirit of creativity and problem-solving
 that drives DOTC. Whether it’s crafting delightful user experiences, tackling
 tough technical challenges, or injecting a bit of humour into the daily
 grind, he embodies the innovative mindset that makes our work meaningful.</p>
-<p>Interested in building the future with us? Join DOTC and be part of the
-change!</p>
+<p>Interested in building the future with us? <a href="https://go.gov.sg/dotc-careers" rel="noopener nofollow" target="_blank">Join DOTC</a> and be part of the change!</p>
