@@ -15,29 +15,22 @@ variant: tiptap
 <p></p>
 <p></p>
 <p>At DOTC, we believe that continuous learning and improvement are essential
-to solving challenges, whether in engineering, problem-solving, or fostering
-innovation. We sat down with Foo Chi Fa, a software engineer whose journey
-has taken him from computer vision research to Open Government Products
-(OGP), and finally, to DOTC. With a passion for building, breaking, and
-improving things, Chi Fa shares his experiences, insights, and the occasional
-lighthearted take on the realities of engineering.</p>
-<p>Chi Fa’s journey into software engineering wasn’t straightforward. Initially
-studying business in polytechnic, he found its emphasis on soft skills
-unfulfilling. Wanting to develop technical expertise, he pivoted to Computer
-Science at NUS, where his passion for programming flourished.</p>
-<p>Before his degree, Chi Fa aspired to work in the public sector, believing
-it to be more meaningful than profit-driven enterprises. He signed on with
-military intelligence, leveraging data science for analytical operations.
-However, he soon realized that military intelligence was only tangentially
-related to software engineering and AI.</p>
-<p>After completing his degree, Chi Fa transitioned to C4X to focus on software
-engineering, where his passion for coding took center stage. From OGP,
-where he absorbed best engineering practices under Jean’s mentorship, he
-moved to DOTC, bringing back these practices and contributing to Pinpoint’s
-development.
+to solving challenges, This series highlights DOTC team members and their
+stories, offering an overview of their expertise and contributions.</p>
+<p>We spoke with Chi Fa, a software engineer in the Pinpoint team, about
+his journey from computer vision research to OGP (Open Goverment Products)
+and finally DOTC. Passionate about building, breaking, and improving systems,
+he shares his experiences, insights, and the occasional lighthearted take
+on engineering.
+<br>
+<br>Chi Fa initially pursued business but sought technical expertise, leading
+him to Computer Science at NUS. Passionate about public service, he joined
+military intelligence, applying data science before realising his true
+interest lay in software engineering. After graduating, he transitioned
+to C4X, refined his skills at OGP, and brought best practices to DOTC,
+contributing to Pinpoint’s development.
 <br>
 </p>
-<p></p>
 <blockquote>
 <p>What’s the most exciting feature you’ve ever built, and what made it special?</p>
 </blockquote>
@@ -60,8 +53,10 @@ would it be and why?</p>
 </p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0864.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_08642.jpg">
 </div>
 <p></p>
 <blockquote>
@@ -71,6 +66,8 @@ or sheer determination?</p>
 <p><em>"Shower. It hides my tears."</em>
 </p>
 <p></p>
+<p></p>
+<p></p>
 <blockquote>
 <p>What’s the most memorable moment from your time at DOTC so far?</p>
 </blockquote>
@@ -79,8 +76,10 @@ or sheer determination?</p>
 <p><em>The problem space was well-defined with motivated users, making development feel focused and fast-paced - it kept our cadence high and the experience fun. Plus, I got to experiment with creative features like a snake game using paper planes instead of a snake and a Telegram chatbot that provides inspiring quotes, paired with an AI that critiques them from the perspective of a Singapore government software engineer." </em>
 <br>
 </p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0826.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0377.jpg">
 </div>
 <p></p>
 <blockquote>
