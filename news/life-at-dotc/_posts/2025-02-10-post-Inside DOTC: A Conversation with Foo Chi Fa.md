@@ -14,36 +14,50 @@ from computer vision research to Open Government Products (OGP), and finally,
 to DOTC. With a passion for building, breaking, and improving things, Foo
 shares his experiences, insights, and the occasional lighthearted take
 on the realities of engineering.</p>
-<hr>
-<blockquote>
-<p></p>
-<p><strong>From NUS to DOTC: A Quick Journey</strong>
-</p>
-</blockquote>
 <p>Foo Chi Fa graduated from the National University of Singapore (NUS) in
 2022 with a degree in Computer Science. His early career focused on developing
 computer vision technologies before he transitioned to OGP. Now at DOTC,
 he continues to push the boundaries of what’s possible in the tech space,
 bringing innovative solutions to real-world challenges.</p>
-<hr>
+<p></p>
 <blockquote>
-<h3>"What’s the most exciting feature you’ve ever built, and what made it special?"</h3>
+<p>"What’s the most exciting feature you’ve ever built, and what made it
+special?"</p>
 </blockquote>
 <p><em>"The Christmas &amp; New Year special on Pinpoint! I added snowfall and fireworks to the app—it was a fun way to make our product feel festive and engaging. Plus, it’s not every day you get to bring a little holiday magic into a government tool!"</em>
 </p>
-<h3>"If you could streamline one task in your work to improve efficiency, what would it be and why?"</h3>
+<p></p>
+<blockquote>
+<p>"If you could streamline one task in your work to improve efficiency,
+what would it be and why?"</p>
+</blockquote>
 <p><em>"On-call duties. If only there were a magical 'rollback' button—or better yet, AI support that could handle incidents automatically!"</em>
 </p>
-<h3>"When faced with a tricky bug, what’s your go-to move: coffee, a walk, or sheer determination?"</h3>
+<p></p>
+<blockquote>
+<p>"When faced with a tricky bug, what’s your go-to move: coffee, a walk,
+or sheer determination?"</p>
+</blockquote>
 <p><em>"Shower. It hides my tears."</em>
 </p>
-<h3>"What’s the most memorable moment from your time at DOTC so far?"</h3>
+<p></p>
+<blockquote>
+<p>"What’s the most memorable moment from your time at DOTC so far?"</p>
+</blockquote>
 <p><em>"Definitely the Hackathon. The energy, the teamwork, and the rush of building something from scratch—it’s an experience that really sticks with you."</em>
+<br>
 </p>
-<h3>"Describe your job in one sentence—but make it sound like a movie tagline!"</h3>
+<p></p>
+<blockquote>
+<p>"Describe your job in one sentence—but make it sound like a movie tagline!"</p>
+</blockquote>
 <p><em>"Digital Bob the Builder."</em>
 </p>
-<h3>"What’s the best advice you’d give someone aspiring to be a software engineer?"</h3>
+<p></p>
+<p></p>
+<blockquote>
+<p>"What’s the best advice you’d give someone aspiring to be a software engineer?"</p>
+</blockquote>
 <p><em>"Do pointless things. Build fun, seemingly ‘useless’ projects—it keeps you motivated, helps you learn new things, and sometimes, those pointless ideas turn into something truly valuable."</em>
 </p>
 <hr>
