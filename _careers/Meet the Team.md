@@ -240,7 +240,7 @@ variant: markdown
 					<h6>Part time degen, full time programmer.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/zhenwei4.jpg">
+            <img src="/images/Meet%20the%20Team/zhenwei.jpg">
             <span class="swe">Software Engineer</span>
             <h3>Zhen Wei</h3>
 					<h6>It’s a feature, not a bug.</h6>
@@ -331,6 +331,12 @@ variant: markdown
             <span class="corpserv">Secretary to Hd DOTC</span>
             <h3>Stephanie Lee</h3>
 					<h6>Orchestrating chaos into a symphony of productivity, one appointment at a time.</h6>
+        </div>
+		<div class="card-item">
+            <img src="/images/Meet%20the%20Team/janessa.jpg">
+            <span class="corpserv">HR Assistant Manager</span>
+            <h3>Janessa Teng</h3>
+					<h6>Putting the "human" in Human Resources, and occasionally the "resourceful" too.</h6>
         </div>
 <div class="card-item">
             <img src="/images/Meet%20the%20Team/pravin_gunalan.jpg">
