@@ -239,6 +239,12 @@ variant: markdown
             <h3>T Daranidarran</h3>
 					<h6>Part time degen, full time programmer.</h6>
         </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/zhenwei.jpg">
+            <span class="swe">Software Engineer</span>
+            <h3>Zhen Wei</h3>
+					<h6>It’s a feature, not a bug.</h6>
+        </div>
 	</div>
 
 <header style="font-size:50px;margin:16px;color:#3C6DE8">Product Designers</header>
