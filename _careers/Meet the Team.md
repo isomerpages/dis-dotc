@@ -285,6 +285,12 @@ variant: markdown
             <h3>Bryan Lian</h3>
 					<h6>Turning challenges into opportunities.</h6>
         </div>
+			<div class="card-item">
+            <img src="/images/Meet%20the%20Team/jiahua3.jpg">
+            <span class="prodmanager">Product Manager</span>
+            <h3>Jia Hua</h3>
+					<h6>The essence of strategy is choosing what not to do.</h6>
+        </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/xin_yang_po.png">
             <span class="prodops">Product Operations</span>
