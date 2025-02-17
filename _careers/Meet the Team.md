@@ -333,7 +333,7 @@ variant: markdown
 					<h6>Orchestrating chaos into a symphony of productivity, one appointment at a time.</h6>
         </div>
 		<div class="card-item">
-            <img src="/images/Meet%20the%20Team/janessa.jpg">
+            <img src="/images/Meet%20the%20Team/Janessa4.jpg">
             <span class="corpserv">HR Assistant Manager</span>
             <h3>Janessa Teng</h3>
 					<h6>Putting the "human" in Human Resources, and occasionally the "resourceful" too.</h6>
