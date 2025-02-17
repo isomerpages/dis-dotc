@@ -7,12 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3>Inside DOTC: Checkmate in Code – Engineering the Future One Move at a Time</h3>
 <h4>Foo Chi Fa<br>Software Engineer</h4>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4142IMG_0898.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1121_2.jpg">
 </div>
 <p></p>
 <p>At DOTC, continuous learning and improvement drive meaningful change.
@@ -53,11 +50,8 @@ would it be and why?</p>
 <p><em>AI could potentially help by understanding our codebase and architecture, suggesting likely causes of incidents. A simple rollback button would also be great, as many bugs come from recent updates - being able to revert quickly would make life much easier."</em>
 </p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_08642.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1178_2.jpg">
 </div>
 <p></p>
 <blockquote>
@@ -89,11 +83,9 @@ or sheer determination?</p>
 <p><em>"Digital Bob the Builder."</em>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2IMG_0826.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1078_2.jpg">
 </div>
-<p></p>
 <p></p>
 <blockquote>
 <p>What’s the best advice you’d give someone aspiring to be a software engineer?</p>
