@@ -14,7 +14,7 @@ variant: tiptap
 <p>At DOTC, continuous learning and improvement drive meaningful change.
 This series showcases team members and their stories, highlighting their
 expertise and contributions in shaping our work.</p>
-<p>We spoke with <strong>Foo Chi Fa</strong>, a <strong>software engineer</strong> in
+<p>We spoke with <strong>Foo Chi Fa</strong>, <strong>software engineer</strong> in
 the Pinpoint team, about his journey from computer vision research to OGP
 (Open Goverment Products) and finally DOTC. Passionate about building,
 breaking, and improving systems, he shares his experiences, insights, and
