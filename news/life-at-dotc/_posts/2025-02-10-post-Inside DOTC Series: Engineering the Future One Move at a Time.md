@@ -7,19 +7,18 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4>Foo Chi Fa<br>Software Engineer</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1121_2.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chifa2.jpg">
+</div>
 <p>At DOTC, continuous learning and improvement drive meaningful change.
 This series showcases team members and their stories, highlighting their
 expertise and contributions in shaping our work.</p>
-<p>We spoke with Chi Fa, a software engineer in the Pinpoint team, about
-his journey from computer vision research to OGP (Open Goverment Products)
-and finally DOTC. Passionate about building, breaking, and improving systems,
-he shares his experiences, insights, and the occasional lighthearted take
-on engineering.
+<p>We spoke with <strong>Foo Chi Fa</strong>, a <strong>software engineer</strong> in
+the Pinpoint team, about his journey from computer vision research to OGP
+(Open Goverment Products) and finally DOTC. Passionate about building,
+breaking, and improving systems, he shares his experiences, insights, and
+the occasional lighthearted take on engineering.
 <br>
 <br>Chi Fa initially pursued business but sought technical expertise, leading
 him to Computer Science at NUS. Passionate about public service, he joined
@@ -72,9 +71,8 @@ or sheer determination?</p>
 <br>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0377.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chifa3.jpg">
 </div>
 <p></p>
 <blockquote>
