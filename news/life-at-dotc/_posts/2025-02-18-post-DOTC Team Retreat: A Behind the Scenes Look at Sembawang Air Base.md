@@ -7,6 +7,8 @@ description: "DOTC Team Retreat: A Behind-the-Scenes Look at Sembawang Air Base"
 image: ""
 variant: tiptap
 ---
+<p><em>[Image Placeholder for Team photo at Control Tower. Pending for clearance.]</em>
+</p>
 <p>The Digital Ops-Tech Centre (DOTC) team embarked on an insightful retreat
 to Sembawang Air Base, located within Chong Pang Camp. This excursion provided
 a rare opportunity to gain a deeper understanding of the Republic of Singapore
@@ -18,6 +20,10 @@ Services. He encouraged everyone to reflect on and list three key goals,
 values, or aspects of DOTC that they wished to cherish, preserve, or pursue.
 This exercise set a thoughtful tone for the retreat, reminding the team
 of their shared purpose and commitment to excellence.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5292.jpg">
+</div>
+<p></p>
 <p>Following this, James Kwek, Head of DOTC, addressed the team, reinforcing
 DOTC's vision, mission, and values. He spoke about DOTC’s pivotal role
 in driving digital transformation within the defence sector and how innovation,
@@ -25,13 +31,6 @@ collaboration, and adaptability are essential to achieving their goals.
 His words served as a guiding framework for the rest of the retreat, inspiring
 the team to draw parallels between DOTC’s objectives and the operational
 excellence observed at RSAF.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5292.jpg">
-</div>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/11e1IMG_5292w.jpg">
 </div>
