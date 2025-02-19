@@ -31,7 +31,10 @@ contributing to Pinpoint’s development.
 <blockquote>
 <p>What’s the most exciting feature you’ve ever built, and what made it special?</p>
 </blockquote>
-<p><em>"The Christmas &amp; New Year special on Pinpoint! I added snowfall and fireworks to the app - it was a fun way to make our product feel festive and engaging. The feature was a simple Easter egg - a CSS animation triggered by hovering over the Pinpoint logo in the gallery. It was a small touch, but seeing people discover it was incredibly rewarding."</em>
+<p><em>"One of the most exciting features I’ve worked on was building a waiting room using Cloudflare Workers on FormSG to support National Day event balloting. It was crucial in ensuring the product could handle sudden surges of 10,000 to 200,000 active users while maintaining smooth performance. You can read more about it </em>
+<a href="https://medium.com/open-government-products/behind-the-scenes-of-singapores-nationwide-ticket-operating-system-for-the-national-day-parade-3af0ae6e72ff" rel="noopener nofollow" target="_blank">here</a><em>.</em>
+</p>
+<p><em>That said, since this falls outside of DOTC, another feature I’ve worked on is reverse image and semantic search in Pinpoint, leveraging an image-text multimodal foundational model. This allows users to search their workspaces using either an image or semantic text, with the model mapping inputs to a latent space for comparison between images or between text and images. It’s designed to assist in quickly retrieving relevant images. However, it’s still in the prototype phase and hasn’t been rolled out to users yet."</em>
 </p>
 <p></p>
 <p></p>
