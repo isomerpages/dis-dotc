@@ -36,12 +36,10 @@ contributing to Pinpoint’s development.
 </p>
 <p><em>That said, since this falls outside of DOTC, another feature I’ve worked on is reverse image and semantic search in Pinpoint, leveraging an image-text multimodal foundational model. This allows users to search their workspaces using either an image or semantic text, with the model mapping inputs to a latent space for comparison between images or between text and images. It’s designed to assist in quickly retrieving relevant images. However, it’s still in the prototype phase and hasn’t been rolled out to users yet."</em>
 </p>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screen_Recording_2024_12_23_at_4_30_52_PM__2_.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1178_2.jpg">
 </div>
+<p></p>
 <p></p>
 <blockquote>
 <p>If you could streamline one task in your work to improve efficiency, what
@@ -52,19 +50,15 @@ would it be and why?</p>
 <p><em>AI could potentially help by understanding our codebase and architecture, suggesting likely causes of incidents. A simple rollback button would also be great, as many bugs come from recent updates - being able to revert quickly would make life much easier."</em>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1178_2.jpg">
-</div>
-<p></p>
 <blockquote>
 <p>When faced with a tricky bug, what’s your go-to move: coffee, a walk,
 or sheer determination?</p>
 </blockquote>
 <p><em>"Shower. It hides my tears."</em>
 </p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chifa3.jpg">
+</div>
 <blockquote>
 <p>What’s the most memorable moment from your time at DOTC so far?</p>
 </blockquote>
@@ -73,11 +67,6 @@ or sheer determination?</p>
 <p><em>The problem space was well-defined with motivated users, making development feel focused and fast-paced - it kept our cadence high and the experience fun. Plus, I got to experiment with creative features like a snake game using paper planes instead of a snake and a Telegram chatbot that provides inspiring quotes, paired with an AI that critiques them from the perspective of a Singapore government software engineer." </em>
 <br>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chifa3.jpg">
-</div>
-<p></p>
 <blockquote>
 <p>Describe your job in one sentence—but make it sound like a movie tagline!</p>
 </blockquote>
@@ -95,7 +84,6 @@ or sheer determination?</p>
 </p>
 <p><em>The best way to grow as an engineer is to experiment and tinker without worrying about utility!"</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_07742.jpg">
 </div>
