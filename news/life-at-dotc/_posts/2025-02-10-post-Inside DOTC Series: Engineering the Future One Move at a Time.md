@@ -34,7 +34,8 @@ contributing to Pinpoint’s development.
 <p><em>"One of the most exciting features I’ve worked on was building a waiting room using Cloudflare Workers on FormSG to support National Day event balloting. It was crucial in ensuring the product could handle sudden surges of 10,000 to 200,000 active users while maintaining smooth performance. You can read more about it </em>
 <a href="https://medium.com/open-government-products/behind-the-scenes-of-singapores-nationwide-ticket-operating-system-for-the-national-day-parade-3af0ae6e72ff" rel="noopener nofollow" target="_blank">here</a><em>.</em>
 </p>
-<p><em>That said, since this falls outside of DOTC, another feature I’ve worked on is reverse image and semantic search in Pinpoint, leveraging an image-text multimodal foundational model. This allows users to search their workspaces using either an image or semantic text, with the model mapping inputs to a latent space for comparison between images or between text and images. It’s designed to assist in quickly retrieving relevant images. However, it’s still in the prototype phase and hasn’t been rolled out to users yet."</em>
+<p><em>That said, since this falls outside of DOTC, another feature I’ve worked on is reverse image and semantic search in Pinpoint, leveraging an image-text multimodal foundational model. This allows users to search their workspaces using either an image or semantic text, with the model mapping inputs to a latent space for comparison between images or between text and images. It’s designed to assist in quickly retrieving relevant images. We have successfully prototyped the feature and will be rolling out to users this year!"</em>
+<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1178_2.jpg">
