@@ -7,7 +7,7 @@ description: "DOTC Team Retreat: A Behind-the-Scenes Look at Sembawang Air Base"
 image: ""
 variant: tiptap
 ---
-<p><em>[Image Placeholder for Team photo at Control Tower. Pending for clearance.]</em>
+<p><em>[Image Placeholder for team photo outside control tower. Pending for clearance.]</em>
 </p>
 <p>The Digital Ops-Tech Centre (DOTC) team embarked on an insightful retreat
 to Sembawang Air Base, located within Chong Pang Camp. This excursion provided
@@ -20,6 +20,7 @@ Services. He encouraged everyone to reflect on and list three key goals,
 values, or aspects of DOTC that they wished to cherish, preserve, or pursue.
 This exercise set a thoughtful tone for the retreat, reminding the team
 of their shared purpose and commitment to excellence.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5292.jpg">
 </div>
@@ -31,6 +32,7 @@ collaboration, and adaptability are essential to achieving their goals.
 His words served as a guiding framework for the rest of the retreat, inspiring
 the team to draw parallels between DOTC’s objectives and the operational
 excellence observed at RSAF.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/11e1IMG_5292w.jpg">
 </div>
@@ -43,6 +45,8 @@ of technology and human expertise in ensuring the safety and efficiency
 of air operations.</p>
 <p>Vijey Ng, software engineer at DOTC, shared his experience of visiting
 the control tower:</p>
+<p><em>[Image Placeholder for Control Tower interior &amp; team interaction. Pending for clearance.]</em>
+</p>
 <p>"Visiting a control tower for the first time was an exciting experience.
 It was impressive to see the team operating like a well-oiled machine.
 While there were many lessons to take away from this short visit, what
@@ -58,6 +62,8 @@ could be improved while still maintaining a familiar workflow."</p>
 of managing a high-readiness air base, with RSAF officers explaining the
 importance of continuous learning and adaptability. They emphasised the
 role of cutting-edge simulation platforms in enhancing operational readiness.</p>
+<p><em>[Image Placeholder for Control Tower interior &amp; team interaction. Pending for clearance.]</em>
+</p>
 <p>Sembawang Air Base remains a key operational hub for RSAF fighter squadrons,
 providing 24/7 air defence coverage and surveillance. It is home to various
 aircraft, including the formidable F-15SG and F-16 fighter jets, and serves
@@ -73,7 +79,6 @@ structured environment that define military life. Sharing a meal in the
 camp setting reinforced the sense of unity and discipline that underpins
 RSAF operations.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/aaaIMG_5292.jpg">
 </div>
@@ -87,3 +92,5 @@ technology and personnel reinforced the importance of efficiency and adaptabilit
 experiences like this retreat serve as a reminder of the critical role
 that teamwork and a shared sense of purpose play in achieving operational
 excellence.</p>
+<p>Interested in building the future with us? <a href="https://go.gov.sg/dotc-careers" rel="noopener nofollow" target="_blank"><u>Join DOTC</u></a> and be part of
+the change!</p>
