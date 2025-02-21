@@ -45,18 +45,14 @@ of technology and human expertise in ensuring the safety and efficiency
 of air operations.</p>
 <p>Vijey Ng, software engineer at DOTC, shared his experience of visiting
 the control tower:</p>
-<p><em>[Image Placeholder for Control Tower interior &amp; team interaction. Pending for clearance.]</em>
+<p>[Image Placeholder for Control Tower interior &amp; team interaction.
+Pending clearance.]</p>
+<p><em>"Visiting a control tower for the first time was an exciting experience. It was impressive to see the team operating like a well-oiled machine. While there were many lessons to take away from this short visit, what stood out most to me was how they had digitalised their processes. Previously, they used a physical whiteboard with movable magnets to track operations. Now, they’ve transitioned to a touchscreen interface where icons can be slid around seamlessly. This upgrade introduced features like real-time synchronisation across multiple boards and automatic warnings when things were out of place. It was enlightening to see how much the user experience could be improved while still maintaining a familiar workflow."</em>
 </p>
-<p>"Visiting a control tower for the first time was an exciting experience.
-It was impressive to see the team operating like a well-oiled machine.
-While there were many lessons to take away from this short visit, what
-stood out most to me was how they had digitalised their processes. Previously,
-they used a physical whiteboard with movable magnets to track operations.
-Now, they’ve transitioned to a touchscreen interface where icons can be
-slid around seamlessly. This upgrade introduced features like real-time
-synchronisation across multiple boards and automatic warnings when things
-were out of place. It was enlightening to see how much the user experience
-could be improved while still maintaining a familiar workflow."</p>
+<p>Eunice, Product Manager at DOTC, reflected on the broader operational
+insights gained:</p>
+<p><em>"It was a fascinating experience visiting the camp, and eye-opening to learn how so many different squadrons come together to support one mission. I gleaned insights on the difficulties and risks of certain tasks, and gained a lot of respect for the honourable men involved in keeping our air space safe every single day. Being able to visit the control tower allowed me to link what was shared with the actual operations."</em>
+</p>
 <h3>Understanding RSAF Operations</h3>
 <p>Beyond the control tower, the team gained an appreciation for the complexity
 of managing a high-readiness air base, with RSAF officers explaining the
