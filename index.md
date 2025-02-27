@@ -38,8 +38,8 @@ sections:
         spoke with Chi Fa, a software engineer in the Pinpoint team, about his
         journey and expertise.
       button: LEARN MORE
-      url: /celebrating-design-excellence-insights-from-the-first-product-design-talk/
-      image: /images/7_6163109c_54bd_4241_83f9_75947ca0b570.jpg
+      url: /inside-dotc-a-conversation-with-foo-chi-fa/
+      image: /images/chifa2.jpg
       alt: Image alt text
   - infopic:
       title: "Hackathon Demo Day Highlights #BuildTogether"
