@@ -31,6 +31,17 @@ sections:
       subtitle: IN THE NEWS
       button: MORE NEWS
   - infopic:
+      title: Engineering the Future One Move at a Time
+      subtitle: Events
+      id: infopic
+      description: This series highlights team members and their contributions. We
+        spoke with Chi Fa, a software engineer in the Pinpoint team, about his
+        journey and expertise.
+      button: LEARN MORE
+      url: /inside-dotc-a-conversation-with-foo-chi-fa/
+      image: /images/chifa2.jpg
+      alt: Image alt text
+  - infopic:
       title: "Hackathon Demo Day Highlights #BuildTogether"
       subtitle: Events
       id: infopic
@@ -39,17 +50,6 @@ sections:
       button: LEARN MORE
       url: /hackathon-demo-day-highlights/
       image: /images/1732784811364.jpg
-      alt: Image alt text
-  - infopic:
-      title: Product Design at DOTC
-      subtitle: Events
-      id: infopic
-      description: An engaging evening with design professionals exploring the unique
-        intersection of UX and the military, led by our talented designers, Joel
-        and Trena.
-      button: LEARN MORE
-      url: /celebrating-design-excellence-insights-from-the-first-product-design-talk/
-      image: /images/7_6163109c_54bd_4241_83f9_75947ca0b570.jpg
       alt: Image alt text
   - infopic:
       title: "Team Bonding at DOTC: Embracing Diversity and Collaboration"
