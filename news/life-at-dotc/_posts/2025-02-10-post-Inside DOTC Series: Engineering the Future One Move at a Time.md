@@ -31,11 +31,11 @@ engineering skills during a 12-month attachment at OGP, and applied what
 he had learnt when he returned to DOTC.</p>
 <p></p>
 <blockquote>
-<p>What’s the most exciting feature you’ve ever built, and what made it special?</p>
+<p>What is the most exciting feature you have ever built, and what made it
+special?</p>
 </blockquote>
 <p><em>"One of the most exciting features I’ve worked on was building a waiting room using Cloudflare Workers on FormSG to support the balloting of National Day Parade tickets. It was crucial in ensuring that the product could handle sudden surges of between 10,000 to 200,000 active users while maintaining smooth performance. You can read more about it </em>
-<a href="https://medium.com/open-government-products/behind-the-scenes-of-singapores-nationwide-ticket-operating-system-for-the-national-day-parade-3af0ae6e72ff" rel="noopener noreferrer nofollow" target="_blank"><u>here</u>
-</a><em>.</em>
+<a href="https://medium.com/open-government-products/behind-the-scenes-of-singapores-nationwide-ticket-operating-system-for-the-national-day-parade-3af0ae6e72ff" rel="noopener nofollow" target="_blank">here</a><em>. </em>
 </p>
 <p><em>Within DOTC, an interesting feature I’ve worked on is reverse image and semantic search in Pinpoint (a photo storage and search platform I helped build). The feature leverages an image-text multimodal foundational model to allow users to conduct search using either an image or semantic text, with the model mapping inputs to a latent space for comparison between images or between text and images. It’s designed to assist in quickly retrieving relevant images. We have successfully prototyped the feature and will be rolling out to users this year!"</em>
 <br>
