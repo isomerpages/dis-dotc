@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chifa2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chifa2edit.jpg">
 </div>
 <p>At DOTC, continuous learning and improvement drive meaningful change.
 This series showcases team members and their stories, highlighting their
@@ -17,9 +17,8 @@ expertise and contributions in shaping our work.</p>
 <p>We spoke with <strong>Foo Chi Fa</strong>, <strong>software engineer</strong> in
 the Pinpoint team, about his learning journey from doing his own computer
 vision research to interning at OGP (Open Government Products) and working
-at DOTC. Passionate about building, breaking, and improving systems, he
-shares his experiences, insights, and the occasional lighthearted take
-on engineering.
+at DOTC. Passionate about mastering the art of chess, he shares his experiences,
+insights, and occasional lighthearted reflections on engineering.
 <br>
 <br>Chi Fa initially pursued a business course. But his strong interest in
 digital technology led him to make the switch to study Computer Science
@@ -63,6 +62,7 @@ or sheer determination?</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/chifa3.jpg">
 </div>
+<p></p>
 <blockquote>
 <p>What’s the most memorable moment from your time at DOTC so far?</p>
 </blockquote>
@@ -76,9 +76,8 @@ or sheer determination?</p>
 </blockquote>
 <p><em>"Digital Bob the Builder."</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1078_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1078_2edit.jpg">
 </div>
 <p></p>
 <blockquote>
