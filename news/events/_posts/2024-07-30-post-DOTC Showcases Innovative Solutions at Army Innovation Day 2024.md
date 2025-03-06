@@ -13,19 +13,26 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_IMG20240730102304.jpg">
 </div>
-<p>On the 2nd of November, the Department of Technology and Communications
-(DOTC) participated in the Army Innovation Day 2024 (AID 24), organized
-by the Combat Service Support Command (CSSCOM) at Kranji Camp III. This
-year's theme, “Innovation for Scale,” highlighted the importance of deploying
+<p>On the 2nd of November, the Digital Ops-Tech Centre<strong> </strong>(DOTC)
+participated in the Army Innovation Day 2024 (AID 24), organized by the
+Combat Service Support Command (CSSCOM) at Kranji Camp III. This year's
+theme, “Innovation for Scale,” highlighted the importance of deploying
 innovations as operational capabilities within the Army and encouraged
 personnel to scale innovation as we collectively “Reimagine our Everyday.”</p>
-<p>During AID 24, DOTC showcased two innovative products: Pinpoint and Pressify.</p>
+<p>During AID 24, DOTC showcased three innovative products: Pinpoint, Trackr
+and Pressify.</p>
 <p><a href="https://app.pinpoint.gov.sg/" rel="noopener nofollow" target="_blank">Pinpoint</a> is
 a secure AI-assisted media sharing and collaboration platform designed
 for government users. We demonstrated how Pinpoint enhances operational
 efficiency by enabling Army personnel to quickly locate, share, and collaborate
 on critical media in real time, fostering effective communication and coordination
 among units.</p>
+<p><a href="https://app.trackr.gov.sg/" rel="noopener nofollow" target="_blank">Trackr</a> is
+a web-based platform that streamlines activity tracking, automates metrics,
+and enhances operational readiness. Accessible via mobile with Singpass,
+it enables real-time updates, intuitive dashboards, and automated calculations
+to simplify workflows and support informed decisions. Boost efficiency
+and focus on impactful results with Trackr.</p>
 <p><a href="https://app.pressify.gov.sg/" rel="noopener nofollow" target="_blank">Pressify</a> is
 a digital publishing tool that empowers users to create visually appealing
 documents and presentations effortlessly. At the event, we showcased how
@@ -33,15 +40,6 @@ Pressify streamlines the creation of reports and briefs, allowing Army
 personnel to present their ideas clearly and professionally. This tool
 saves valuable time while enhancing overall output quality, ensuring vital
 information is communicated effectively.</p>
-<p>AID 24 featured over 30 innovative projects focused on improving operations,
-training, and administrative functions. The event also included the Game
-Changers Pitch Challenge, where nine teams pitched ideas with significant
-potential impacts on</p>
-<p>Army operations. Five pre-selected teams competed for funding support
-from the Chief of Army (COA) to scale their projects. Major-General (MG)
-David Neo recognized the creativity and ingenuity of individuals and teams
-who contributed to the Army over the past year, emphasising the commitment
-to innovation and adaptability.</p>
 <p>The team at DOTC is proud to contribute valuable tools that empower Army
 personnel to work more efficiently and effectively. We remain committed
 to supporting the Army's mission through continuous improvement and the
