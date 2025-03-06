@@ -13,10 +13,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_IMG20240730102304.jpg">
 </div>
-<p>On the 2nd of November, the Department of Technology and Communications
-(DOTC) participated in the Army Innovation Day 2024 (AID 24), organized
-by the Combat Service Support Command (CSSCOM) at Kranji Camp III. This
-year's theme, “Innovation for Scale,” highlighted the importance of deploying
+<p>On the 2nd of November, the Digital Ops-Tech Centre<strong> </strong>(DOTC)
+participated in the Army Innovation Day 2024 (AID 24), organized by the
+Combat Service Support Command (CSSCOM) at Kranji Camp III. This year's
+theme, “Innovation for Scale,” highlighted the importance of deploying
 innovations as operational capabilities within the Army and encouraged
 personnel to scale innovation as we collectively “Reimagine our Everyday.”</p>
 <p>During AID 24, DOTC showcased two innovative products: Pinpoint and Pressify.</p>
