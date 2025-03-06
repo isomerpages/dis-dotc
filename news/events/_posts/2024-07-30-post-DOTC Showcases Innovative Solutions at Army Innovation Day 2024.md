@@ -36,12 +36,11 @@ information is communicated effectively.</p>
 <p>AID 24 featured over 30 innovative projects focused on improving operations,
 training, and administrative functions. The event also included the Game
 Changers Pitch Challenge, where nine teams pitched ideas with significant
-potential impacts on</p>
-<p>Army operations. Five pre-selected teams competed for funding support
-from the Chief of Army (COA) to scale their projects. Major-General (MG)
-David Neo recognized the creativity and ingenuity of individuals and teams
-who contributed to the Army over the past year, emphasising the commitment
-to innovation and adaptability.</p>
+potential impacts on Army operations. Five pre-selected teams competed
+for funding support from the Chief of Army (COA) to scale their projects.
+Major-General (MG) David Neo recognised the creativity and ingenuity of
+individuals and teams who contributed to the Army over the past year, emphasising
+the commitment to innovation and adaptability.</p>
 <p>The team at DOTC is proud to contribute valuable tools that empower Army
 personnel to work more efficiently and effectively. We remain committed
 to supporting the Army's mission through continuous improvement and the
