@@ -11,8 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1409.jpg">
 </div>
-<p>
-<br>At DOTC, every product and feature we build is a team effort, driven by
+<p>At DOTC, every product and feature we build is a team effort, driven by
 collaboration, problem-solving, and a shared commitment to innovation.
 In this series, we highlight the people behind our work, showcasing their
 unique perspectives and experiences in shaping our projects.</p>
