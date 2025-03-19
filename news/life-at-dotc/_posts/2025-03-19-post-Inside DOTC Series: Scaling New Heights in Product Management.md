@@ -12,7 +12,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1409.jpg">
 </div>
 <p>
-<br>
 <br>At DOTC, every product and feature we build is a team effort, driven by
 collaboration, problem-solving, and a shared commitment to innovation.
 In this series, we highlight the people behind our work, showcasing their
@@ -54,10 +53,10 @@ being a Product Manager!’?</p>
 <p><em>What happened next was amazing—we came up with a completely new design that better met users’ needs, and when we finally shipped it, the feedback was fantastic! Knowing that I helped create an environment where the team felt empowered to challenge assumptions and build something better was immensely satisfying and made me realize how much I love this role."</em>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1347.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_13473.jpg">
+</div>
 <p></p>
 <blockquote>
 <p>If you could change one thing about the product development process, what
