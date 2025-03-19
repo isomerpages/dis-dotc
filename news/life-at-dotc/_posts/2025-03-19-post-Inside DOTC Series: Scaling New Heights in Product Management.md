@@ -36,13 +36,13 @@ smoothly?</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1381.jpg">
 </div>
 <p></p>
-<p></p>
 <blockquote>
-<p>What’s your superpower: keeping teams on track or calming last-minute
-chaos?</p>
+<p>If you could change one thing about the product development process, what
+would it be?</p>
 </blockquote>
-<p><em>"Both are essential skills for any PM, but if I had to pick one, I’d say handling last-minute chaos! I thrive in high-pressure situations by taking a logical, structured approach—gathering all the details, making sense of the mess, and then breaking it down into manageable steps. It’s rewarding to bring clarity and direction when everything feels like it’s spiraling out of control."</em>
+<p><em>"I’d love to see more designers learning frontend development! The designer I work with has taken the initiative to pick up some coding skills, and it’s been a game-changer. She can quickly visualize changes, make simple UI edits, and collaborate even more effectively with developers. This not only boosts productivity but also strengthens the connection between design and development."</em>
 </p>
+<p></p>
 <blockquote>
 <p>What’s the most unexpected moment that made you say, ‘This is why I love
 being a Product Manager!’?</p>
@@ -58,17 +58,21 @@ being a Product Manager!’?</p>
 </div>
 <p></p>
 <blockquote>
-<p>If you could change one thing about the product development process, what
-would it be?</p>
-</blockquote>
-<p><em>"I’d love to see more designers learning frontend development! The designer I work with has taken the initiative to pick up some coding skills, and it’s been a game-changer. She can quickly visualize changes, make simple UI edits, and collaborate even more effectively with developers. This not only boosts productivity but also strengthens the connection between design and development."</em>
-</p>
-<blockquote>
 <p>Describe your job in one sentence—but make it sound like a movie tagline!</p>
 </blockquote>
 <p><em>"A Day in My Life: 100 Ways to Say No."</em>
-<br>
 </p>
+<p></p>
+<blockquote>
+<p>What’s your superpower: keeping teams on track or calming last-minute
+chaos?</p>
+</blockquote>
+<p><em>"Both are essential skills for any PM, but if I had to pick one, I’d say handling last-minute chaos! I thrive in high-pressure situations by taking a logical, structured approach—gathering all the details, making sense of the mess, and then breaking it down into manageable steps. It’s rewarding to bring clarity and direction when everything feels like it’s spiraling out of control."</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_2479.jpg">
+</div>
 <p></p>
 <blockquote>
 <p>What’s your strategy for dealing with a meeting overload day?</p>
