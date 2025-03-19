@@ -45,7 +45,7 @@ would it be?</p>
 <p></p>
 <blockquote>
 <p>What’s the most unexpected moment that made you say, ‘This is why I love
-being a Product Manager!’?</p>
+being a Product Manager?</p>
 </blockquote>
 <p><em>"One moment that really stuck with me was early in my time here. The team wasn’t feeling confident about an upcoming feature, but we were already set to start building it. I decided to call for an impromptu brainstorming session, rallying everyone to take a step back and reassess the problem.</em>
 </p>
@@ -58,7 +58,7 @@ being a Product Manager!’?</p>
 </div>
 <p></p>
 <blockquote>
-<p>Describe your job in one sentence—but make it sound like a movie tagline!</p>
+<p>Describe your job in one sentence - but make it sound like a movie tagline!</p>
 </blockquote>
 <p><em>"A Day in My Life: 100 Ways to Say No."</em>
 </p>
