@@ -92,6 +92,13 @@ moment for you?</p>
 <p><em>"One standout moment has to be when I shared my experience at DOTC with the ProductTank community for PMs. I was so nervous leading up to it, but once I started speaking, I got into a flow where it felt like a conversation with the audience, and I actually enjoyed it! Afterwards, several attendees came up to share their thoughts, offer compliments, and even ask for advice.</em>
 </p>
 <p><em>It was surreal—I’d always been an attendee at these events and never imagined I’d be the one on stage, giving a talk and helping others in their careers. That experience made me feel incredibly grateful for my time at DOTC and reaffirmed just how much I’ve grown here."</em>
+<br>
+<br>Eunice thrives in both product management and bouldering - two worlds
+that demand problem-solving, adaptability, and a keen sense of risk. Whether
+she’s tackling a tricky climb or guiding a team through complex decisions,
+she knows that success comes from balancing preparation with bold moves</p>
+<p>
+<br>
 </p>
 <blockquote>
 <p>With your passion for bouldering, you’re no stranger to assessing risks
