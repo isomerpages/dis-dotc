@@ -22,6 +22,7 @@ insights into what makes product management both challenging and rewarding.
 Much like tackling a challenging bouldering route, product management requires
 assessing risks, planning the next move, and adapting when the unexpected
 happens.&nbsp;</p>
+<p></p>
 <blockquote>
 <p>How do you manage timelines, teams, and goals to keep everything running
 smoothly?</p>
@@ -92,15 +93,12 @@ moment for you?</p>
 <p><em>"One standout moment has to be when I shared my experience at DOTC with the ProductTank community for PMs. I was so nervous leading up to it, but once I started speaking, I got into a flow where it felt like a conversation with the audience, and I actually enjoyed it! Afterwards, several attendees came up to share their thoughts, offer compliments, and even ask for advice.</em>
 </p>
 <p><em>It was surreal—I’d always been an attendee at these events and never imagined I’d be the one on stage, giving a talk and helping others in their careers. That experience made me feel incredibly grateful for my time at DOTC and reaffirmed just how much I’ve grown here."</em>
-<br>
-<br>Eunice thrives in both product management and her passion for bouldering
-- two worlds that demand problem-solving, adaptability, and a keen sense
-of risk. Whether she’s tackling a tricky climb or guiding a team through
-complex decisions, she knows that success comes from balancing preparation
-with bold moves</p>
-<p>
-<br>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eunice.jpg">
+</div>
+<p></p>
 <blockquote>
 <p>With your passion for bouldering, you’re no stranger to assessing risks
 - knowing when to make a bold move and when to play it safe. Similarly,
@@ -112,12 +110,15 @@ navigate this in your role?</p>
 <p><em>The best results don’t come from always sticking to the well-worn approach. If, after thorough exploration, there’s no clear answer—I say take the leap of faith, just like trusting a sketchy foothold or going for a big move when the top hold is just within reach. If it doesn’t work out, you simply brush off the chalk, reassess, and try again."</em>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eunice.jpg">
-</div>
+<hr>
 <p></p>
-<p></p>
-<p>Eunice’s journey is a testament to the problem-solving mindset that drives
+<p>Eunice thrives in both product management and her passion for bouldering
+- two worlds that demand problem-solving, adaptability, and a keen sense
+of risk. Whether she’s tackling a tricky climb or guiding a team through
+complex decisions, she knows that success comes from balancing preparation
+with bold moves.
+<br>
+<br>Eunice’s journey is a testament to the problem-solving mindset that drives
 DOTC. Whether it’s balancing priorities, leading teams through uncertainty,
 or bringing a bit of fun into the daily grind, they embody the resilience
 and adaptability that make product management so dynamic.</p>
