@@ -104,8 +104,10 @@ navigate this in your role?</p>
 <p><em>The best results don’t come from always sticking to the well-worn approach. If, after thorough exploration, there’s no clear answer—I say take the leap of faith, just like trusting a sketchy foothold or going for a big move when the top hold is just within reach. If it doesn’t work out, you simply brush off the chalk, reassess, and try again."</em>
 </p>
 <p></p>
-<p><strong><em>[Placeholder for Eunice's bouldering image]</em></strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_20250321_083803_Gallery.jpg">
+</div>
 <p></p>
 <p>Eunice’s journey is a testament to the problem-solving mindset that drives
 DOTC. Whether it’s balancing priorities, leading teams through uncertainty,
