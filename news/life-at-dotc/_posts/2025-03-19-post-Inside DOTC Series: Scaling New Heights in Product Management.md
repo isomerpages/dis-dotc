@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1409.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1409edit.jpg">
 </div>
 <p>At DOTC, every product and feature we build is a team effort, driven by
 collaboration, problem-solving, and a shared commitment to innovation.
@@ -31,12 +31,11 @@ smoothly?</p>
 </p>
 <p><em>Most importantly, I remind myself that I don’t have to have all the answers. Leaning on my team for different perspectives not only strengthens decision-making but also fosters collaboration and trust."</em>
 <br>
-<br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1381.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1381edit.jpg">
+</div>
 <blockquote>
 <p>If you could change one thing about the product development process, what
 would it be?</p>
@@ -55,9 +54,8 @@ being a Product Manager?</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_13473.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_13473edit.jpg">
 </div>
-<p></p>
 <blockquote>
 <p>Describe your job in one sentence - but make it sound like a movie tagline!</p>
 </blockquote>
@@ -83,9 +81,8 @@ chaos?</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1415.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1415edit.jpg">
 </div>
-<p></p>
 <blockquote>
 <p>Based on your experience at DOTC so far, what has been the most memorable
 moment for you?</p>
@@ -96,9 +93,8 @@ moment for you?</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eunice.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6542edit.jpg">
 </div>
-<p></p>
 <blockquote>
 <p>With your passion for bouldering, you’re no stranger to assessing risks
 - knowing when to make a bold move and when to play it safe. Similarly,
