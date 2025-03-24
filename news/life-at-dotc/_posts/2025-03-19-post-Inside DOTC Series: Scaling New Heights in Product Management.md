@@ -56,8 +56,9 @@ being a Product Manager?</p>
 <br>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_13473edit.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eunice_team_room_3.jpg">
 </div>
 <p></p>
 <blockquote>
