@@ -15,14 +15,16 @@ variant: tiptap
 collaboration, problem-solving, and a shared commitment to innovation.
 In this series, we highlight the people behind our work, showcasing their
 unique perspectives and experiences in shaping our projects.</p>
-<p>We spoke with <strong>Eunice Lee</strong>, <strong>Product Manager</strong> in
-the Pinpoint team, about the art of balancing timelines, teams, and goals.
-From navigating last-minute chaos to fostering collaboration, Eunice shares
-insights into what makes product management both challenging and rewarding.
-Much like tackling a challenging bouldering route, product management requires
-assessing risks, planning the next move, and adapting when the unexpected
-happens.&nbsp;</p>
-<p></p>
+<p>For <strong>Eunice Lee</strong>, <strong>Product Manager</strong> in the
+Pinpoint team, problem-solving isn’t just part of the job - it’s second
+nature. An avid boulderer, she thrives on tackling complex climbing routes,
+assessing risks, and adapting when the unexpected happens. It’s a mindset
+that carries over seamlessly into product management, where balancing timelines,
+teams, and goals requires strategic thinking, agility, and a steady grip
+under pressure.</p>
+<p>We spoke with Eunice about the art of keeping projects on track, fostering
+collaboration, and embracing the challenges that make product management
+both demanding and deeply rewarding.</p>
 <blockquote>
 <p>How do you manage timelines, teams, and goals to keep everything running
 smoothly?</p>
@@ -36,6 +38,7 @@ smoothly?</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1381edit.jpg">
 </div>
+<p></p>
 <blockquote>
 <p>If you could change one thing about the product development process, what
 would it be?</p>
@@ -56,6 +59,7 @@ being a Product Manager?</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_13473edit.jpg">
 </div>
+<p></p>
 <blockquote>
 <p>Describe your job in one sentence - but make it sound like a movie tagline!</p>
 </blockquote>
@@ -83,6 +87,7 @@ chaos?</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1415edit.jpg">
 </div>
+<p></p>
 <blockquote>
 <p>Based on your experience at DOTC so far, what has been the most memorable
 moment for you?</p>
@@ -95,6 +100,7 @@ moment for you?</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6542edit.jpg">
 </div>
+<p></p>
 <blockquote>
 <p>With your passion for bouldering, you’re no stranger to assessing risks
 - knowing when to make a bold move and when to play it safe. Similarly,
@@ -107,13 +113,7 @@ navigate this in your role?</p>
 </p>
 <p></p>
 <hr>
-<p></p>
-<p>Eunice thrives in both product management and her passion for bouldering
-- two worlds that demand problem-solving, adaptability, and a keen sense
-of risk. Whether she’s tackling a tricky climb or guiding a team through
-complex decisions, she knows that success comes from balancing preparation
-with bold moves.
-<br>
+<p>
 <br>Eunice’s journey is a testament to the problem-solving mindset that drives
 DOTC. Whether it’s balancing priorities, leading teams through uncertainty,
 or bringing a bit of fun into the daily grind, they embody the resilience
