@@ -262,7 +262,14 @@ variant: markdown
             <h3>Trena Lee</h3>
 					<h6>At DOTC, we design experiences that leave a mark, one click at a time. 🖱️✨</h6>
         </div>
+				<div class="card-item">
+            <img src="/images/Meet%20the%20Team/Sheryl.jpg">
+            <span class="designer">Product Designer</span>
+            <h3>Sheryl Ang
+					</h3><h6>My mantra: "Good design is obvious but great design is transparent"</h6>
+        </div>
 	</div>
+	
 
 <header style="font-size:50px;margin:16px;color:#3C6DE8">Product Managers/Operations</header>
 
