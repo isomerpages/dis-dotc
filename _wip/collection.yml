@@ -2,5 +2,4 @@ collections:
   wip:
     output: true
     order:
-      - Partnerships.md
-      - Attachments.md
+      - "Inside DOTC Series: Scaling New Heights in Product Management.md"
