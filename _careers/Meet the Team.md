@@ -185,12 +185,6 @@ variant: markdown
 </div>
 	
 <div class="card-list">
-        <div class="card-item">
-            <img src="/images/Meet%20the%20Team/jean-tan-swe-full-bg.png">
-            <span class="lead">SWE Team Lead</span>
-            <h3>Jean Tan</h3>
-					<h6>Turning coffee into code, one line at a time. ☕💻</h6>
-        </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/aaron-teow-corporate-full.png">
             <span class="swe">Software Engineer</span>
