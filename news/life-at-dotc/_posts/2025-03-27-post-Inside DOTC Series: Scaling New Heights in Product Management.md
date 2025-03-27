@@ -15,8 +15,8 @@ variant: tiptap
 collaboration, problem-solving, and a shared commitment to innovation.
 In this series, we highlight the people behind our work, showcasing their
 unique perspectives and experiences in shaping our projects.</p>
-<p>For <strong>Eunice Lee</strong>, <strong>Product Manager</strong> in the
-Pinpoint team, problem-solving isn’t just part of the job - it’s second
+<p>For <strong>Eunice Lee</strong>, <strong>Product Manager </strong>(PM) in
+the Pinpoint team, problem-solving isn’t just part of the job - it’s second
 nature. An avid boulderer, she thrives on tackling complex climbing routes,
 assessing risks, and adapting when the unexpected happens. It’s a mindset
 that carries over seamlessly into product management, where balancing timelines,
@@ -29,20 +29,21 @@ both demanding and deeply rewarding.</p>
 <p>How do you manage timelines, teams, and goals to keep everything running
 smoothly?</p>
 </blockquote>
-<p><em>"Planning ahead is key! As a PM, I’m the bridge between leadership and the product team, so I make it a point to check in with both regularly—aligning on strategy, tackling tactical tasks, and clearing roadblocks. I also recognize that unexpected challenges are inevitable, so I encourage the team to build in buffer time for deadlines. This way, we maintain a sustainable pace while delivering high-quality features.</em>
+<p><em>"Planning ahead is key! As a PM, I’m the bridge between leadership and the product team, so I make it a point to check in with both regularly—aligning on strategy, tackling tactical tasks, and clearing roadblocks. I also recognise that unexpected challenges are inevitable, so I encourage the team to build in buffer time for deadlines. This way, we maintain a sustainable pace while delivering high-quality features.</em>
 </p>
 <p><em>Most importantly, I remind myself that I don’t have to have all the answers. Leaning on my team for different perspectives not only strengthens decision-making but also fosters collaboration and trust."</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1381edit.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/download__3_.jpg">
 </div>
+<p></p>
 <p></p>
 <blockquote>
 <p>If you could change one thing about the product development process, what
 would it be?</p>
 </blockquote>
-<p><em>"I’d love to see more designers learning frontend development! The designer I work with has taken the initiative to pick up some coding skills, and it’s been a game-changer. She can quickly visualize changes, make simple UI edits, and collaborate even more effectively with developers. This not only boosts productivity but also strengthens the connection between design and development."</em>
+<p><em>"I’d love to see more designers learning front-end development! The designer I work with has taken the initiative to pick up some coding skills, and it’s been a game-changer. She can quickly visualise changes, make simple UI edits, and collaborate even more effectively with developers. This not only boosts productivity but also strengthens the connection between design and development."</em>
 </p>
 <p></p>
 <blockquote>
@@ -51,7 +52,7 @@ being a Product Manager?</p>
 </blockquote>
 <p><em>"One moment that really stuck with me was early in my time here. The team wasn’t feeling confident about an upcoming feature, but we were already set to start building it. I decided to call for an impromptu brainstorming session, rallying everyone to take a step back and reassess the problem.</em>
 </p>
-<p><em>What happened next was amazing—we came up with a completely new design that better met users’ needs, and when we finally shipped it, the feedback was fantastic! Knowing that I helped create an environment where the team felt empowered to challenge assumptions and build something better was immensely satisfying and made me realize how much I love this role."</em>
+<p><em>What happened next was amazing—we came up with a completely new design that better met users’ needs, and when we finally shipped it, the feedback was fantastic! Knowing that I helped create an environment where the team felt empowered to challenge assumptions and build something better was immensely satisfying and made me realise how much I love this role."</em>
 </p>
 <p></p>
 <p></p>
@@ -69,7 +70,7 @@ being a Product Manager?</p>
 <p>What’s your superpower: keeping teams on track or calming last-minute
 chaos?</p>
 </blockquote>
-<p><em>"Both are essential skills for any PM, but if I had to pick one, I’d say handling last-minute chaos! I thrive in high-pressure situations by taking a logical, structured approach—gathering all the details, making sense of the mess, and then breaking it down into manageable steps. It’s rewarding to bring clarity and direction when everything feels like it’s spiraling out of control."</em>
+<p><em>"Both are essential skills for any PM, but if I had to pick one, I’d say handling last-minute chaos! I thrive in high-pressure situations by taking a logical, structured approach—gathering all the details, making sense of the mess, and then breaking it down into manageable steps. It’s rewarding to bring clarity and direction when everything feels like it’s spiralling out of control."</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
