@@ -248,7 +248,7 @@ variant: markdown
             <img src="/images/Meet%20the%20Team/joel-tai-full-bg.png">
             <span class="designer">Senior Product Designer</span>
             <h3>Joel Tai</h3>
-					<h6>Turning user insights into elegant experiences, one pixel at a time.</h6>
+					<h6>Less, but better.</h6>
         </div>
 				<div class="card-item">
             <img src="/images/Meet%20the%20Team/trena-full.png">
