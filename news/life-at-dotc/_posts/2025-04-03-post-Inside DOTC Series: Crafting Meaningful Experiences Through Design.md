@@ -87,5 +87,4 @@ strategy, and adaptability that drives product design. Whether refining
 user experiences, leading community conversations, or drawing inspiration
 from volleyball, he brings a dynamic approach to design that ensures innovation
 meets real-world impact.</p>
-<p>Interested in shaping the future with us? Join DOTC and be part of the
-change!</p>
+<p>Interested in shaping the future with us? <a href="https://go.gov.sg/dotc-careers" rel="noopener nofollow" target="_blank">Join DOTC</a> and be part of the change!</p>
