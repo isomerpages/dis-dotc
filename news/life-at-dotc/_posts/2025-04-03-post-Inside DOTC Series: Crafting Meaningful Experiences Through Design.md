@@ -7,14 +7,16 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>At DOTC, design is all about creating experiences that are seamless, functional,
-and impactful. Our Product Design team focuses on making interactions intuitive
-and meaningful, bridging innovation with real-world usability.</p>
-<p>We spoke with <strong>Joe Tai</strong>, a <strong>Senior Product Designer</strong> and
-the marketing lead for this series, about his journey in product design
-and his passion for problem-solving. Beyond his work, Joel is also a volleyball
-club representative for Taman Jurong CSN and a proud cat parent to two
-feline companions.</p>
+<p>At DOTC, design is more than just aesthetics — it’s about crafting experiences
+that are seamless, functional, and impactful. Our Product Design team is
+dedicated to making every interaction intuitive and meaningful, ensuring
+that innovation is always paired with real-world usability.</p>
+<p>To gain deeper insight into the world of product design, we spoke with <strong>Joel Tai</strong>,
+a <strong>Senior Product Designer</strong> and the marketing lead for this
+series. Joe shared his journey in the field, his passion for solving complex
+problems, and what drives his creative process. Outside of work, he wears
+multiple hats — serving as a volleyball club representative for Taman Jurong
+CSN and embracing life as a proud cat parent to two beloved feline companions.</p>
 <p></p>
 <blockquote>
 <p>How do you turn an idea into a great design?</p>
