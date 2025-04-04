@@ -4,6 +4,12 @@ permalink: /inside-dotc-series-crafting-meaningful-experiences-through-design/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8999v2.jpg">
+</div>
+<p></p>
+<p></p>
 <p>At DOTC, design is more than just aesthetics — it’s about crafting experiences
 that are seamless, functional, and impactful. Our Product Design team is
 dedicated to making every interaction intuitive and meaningful, ensuring
