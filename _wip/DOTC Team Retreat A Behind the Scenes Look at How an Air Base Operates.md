@@ -30,10 +30,10 @@ team on the key focus areas for DOTC in the year ahead.</p>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11e1IMG_5292w.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5298_2.jpg">
+</div>
 <h3><strong>Immersive Experience at the Control Tower</strong></h3>
 <p>A highlight of the visit was the visit to the air base's control tower
 to learn more about the RSAF’s operations. From this vantage point, the
@@ -62,7 +62,7 @@ and environment that define military life.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aaaIMG_5292.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s6_6138686139746337162_121.jpg">
 </div>
 <h3><strong>Reflections on the Experience</strong></h3>
 <p>This retreat not only deepened the team's appreciation of the role the
