@@ -23,6 +23,17 @@ of their shared purpose and commitment to national defence and excellence.</p>
 DOTC's vision, mission, and values. He spoke about DOTC’s pivotal role
 in driving digital transformation within the SAF and discussed with the
 team on the key focus areas for DOTC in the year ahead.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5292.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11e1IMG_5292w.jpg">
+</div>
+<p></p>
 <h3><strong>Immersive Experience at the Control Tower</strong></h3>
 <p>A highlight of the visit was the visit to the air base's control tower
 to learn more about the RSAF’s operations. From this vantage point, the
@@ -33,8 +44,6 @@ close integration of technology and human expertise in ensuring the safety
 and efficiency of flying operations.</p>
 <p>Vijey Ng, software engineer at DOTC, shared his experience of visiting
 the control tower:</p>
-<p>[Image Placeholder for Control Tower interior &amp; team interaction.
-Pending clearance.]</p>
 <p><em>"Visiting a control tower for the first time was an exciting experience. It was impressive to see the team operating like a well-oiled machine. While there were many lessons to take away from this short visit, what stood out most to me was how they had digitalised their processes. Previously, they used a physical whiteboard with movable magnets to track operations. Now, they’ve transitioned to a touchscreen interface where icons can be slid around seamlessly. This upgrade introduced features like real-time synchronisation across multiple boards and automatic warnings when things were out of place. It was enlightening to see how much the user experience could be improved while still maintaining a familiar workflow."</em>
 </p>
 <p>Eunice Lee, product manager at DOTC, reflected on the broader operational
@@ -45,12 +54,16 @@ insights gained:</p>
 <p>Beyond the control tower, the team gained an appreciation for the complexity
 of managing a high-readiness air base, with RSAF officers explaining the
 importance of continuous learning and adaptability.</p>
-<p>[Image Placeholder for RSAF operations. Pending clearance.]</p>
 <h3><strong>Experiencing SAF Life at Chong Pang Camp</strong></h3>
 <p>To fully immerse themselves in the SAF experience, the team also had lunch
 at the air base’s cookhouse. This provided a glimpse into the daily life
 of RSAF personnel, allowing the team to experience firsthand the camaraderie
 and environment that define military life.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aaaIMG_5292.jpg">
+</div>
 <h3><strong>Reflections on the Experience</strong></h3>
 <p>This retreat not only deepened the team's appreciation of the role the
 RSAF plays in national security, but also allowed the team to observe first
