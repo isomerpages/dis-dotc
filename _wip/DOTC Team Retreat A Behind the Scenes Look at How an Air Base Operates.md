@@ -72,8 +72,7 @@ operational efficiency and safety.</p>
 <p>As DOTC continues to drive digital transformation in the SAF, experiences
 like this allow our team to have a more in-depth understanding of SAF operations,
 which will help them develop better products for operational users.</p>
-<p><strong>Interested in building the future with us? Join DOTC and be part of the change!</strong>
-</p>
+<p>Interested in building the future with us? <a href="https://go.gov.sg/dotc-careers" rel="noopener nofollow" target="_blank">Join DOTC</a> and be part of the change!</p>
 <p>
 <br>
 <br>
