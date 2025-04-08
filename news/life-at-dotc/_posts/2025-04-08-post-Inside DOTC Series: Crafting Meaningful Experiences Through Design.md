@@ -8,10 +8,10 @@ image: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8999v2.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9255.jpg">
+</div>
 <p></p>
 <p>At DOTC, design is more than just aesthetics — it’s about crafting experiences
 that are seamless, functional, and impactful. Our Product Design team is
@@ -45,6 +45,11 @@ CSN and embracing life as a proud cat parent to two beloved feline companions.</
 <p><em>At the end of the day, the real challenge isn’t picking a font or a color—it’s ensuring they work harmoniously to create a cohesive and intuitive experience."</em>
 </p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E2669AA9_36CE_4E53_9947_9639F2702AB8.jpg">
+</div>
+<p></p>
 <blockquote>
 <p>What is the overarching goal you want your design to achieve in terms
 of its effect on people?</p>
@@ -55,6 +60,11 @@ of its effect on people?</p>
 </p>
 <p><em>At the end of the day, great design isn’t just about aesthetics or functionality—it’s about creating a sense of trust, clarity, and empowerment in every interaction."</em>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9268.jpg">
+</div>
 <p></p>
 <blockquote>
 <p>What’s your favorite part of the design process: brainstorming ideas,
@@ -67,6 +77,11 @@ prototyping, or perfecting the final design?</p>
 <p><em>That said, brainstorming sparks creativity, and perfecting the final design brings satisfaction, but prototyping is where you separate good ideas from great ones—and that’s what makes it the most exciting part for me."</em>
 </p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/309DE986_91DA_4043_8B5E_780A51A91032.jpg">
+</div>
+<p></p>
 <blockquote>
 <p>Based on your experience at DOTC so far, what has been the most memorable
 moment for you?</p>
@@ -77,6 +92,10 @@ moment for you?</p>
 </p>
 <p><em>One of the highlights was engaging with new designers entering the field, who found value in understanding how we navigate the complexities of military UX. It was also a great opportunity to connect with fellow designers from CSIT and DSTA, exchanging ideas on the evolving role of UX in national defense. Seeing the enthusiasm and curiosity from the community reaffirmed the importance of fostering design conversations beyond our immediate domain and how crucial it is to share, learn, and grow as a design community."</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="margin-left: 0px; margin-top: 0px;" height="346" width="462" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZoIDI1I3DB4_FCQ77r9S03qpJYnQMJE0pMzGNaR-Om0hdNeqq4D5rur0kF9jaWhMYIna_odLNh4cFbdiFOtr_FVsBENJFzvtsSmZPVpAf9DvO6tVldckFkpl_amn3eVEzdUt9yA?key=OQhE5H4GgiHa2ak4gIWJroc0">
+</div>
 <p></p>
 <blockquote>
 <p>I understand that you’ll be competing in the Volleyball Masters Tournament
@@ -90,6 +109,10 @@ pressure?</p>
 </p>
 <p><em>At the end of the day, both volleyball and design require a balance of skill, intuition, and teamwork. You don’t just react—you anticipate, adapt, and execute with confidence."</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="margin-left: 0px; margin-top: 0px;" height="349" width="465" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXddtTM64e5sS4ea4j2Y54gD7pONjrYf2AbPI_I-GbJAeTbnO-79Xu3QfmH0mm2eo78Jif2HFjBG69PBF-F11exAQ4mXILF-JaBZnGRVIwrih37wjlFdnhZ9ntyxPSunPVRCrTfc?key=OQhE5H4GgiHa2ak4gIWJroc0">
+</div>
 <p>Joel’s journey at DOTC is a testament to the intersection of creativity,
 strategy, and adaptability that drives product design. Whether refining
 user experiences, leading community conversations, or drawing inspiration
