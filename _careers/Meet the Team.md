@@ -245,7 +245,7 @@ variant: markdown
             <h3>Zhen Wei</h3>
 					<h6>It’s a feature, not a bug.</h6>
         </div>
-
+ </div>
 <header style="font-size:50px;margin:16px;color:#3C6DE8">Product Designers</header>
 
 <div class="card-list">
@@ -349,4 +349,4 @@ variant: markdown
             <span class="corpserv">Content Manager</span>
             <h3>Pravin Gunalan</h3>
 					<h6>Content builds relationships. Relationships are built on trust.</h6>
-        </div></div></div>
+        </div></div>
