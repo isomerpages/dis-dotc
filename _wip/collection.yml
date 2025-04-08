@@ -2,4 +2,5 @@ collections:
   wip:
     output: true
     order:
-      - "Inside DOTC Series: Scaling New Heights in Product Management.md"
+      - DOTC Team Retreat A Behind the Scenes Look at How an Air Base Operates.md
+      - "Inside DOTC Series: Crafting Meaningful Experiences Through Design.md"
