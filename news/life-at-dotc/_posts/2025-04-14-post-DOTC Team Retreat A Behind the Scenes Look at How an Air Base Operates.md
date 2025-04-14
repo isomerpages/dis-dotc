@@ -9,8 +9,9 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4J1A9121.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_4__2_.jpg">
 </div>
+<p></p>
 <p>The Digital Ops-Tech Centre (DOTC) team embarked on an insightful retreat
 to Sembawang Air Base. This event provided a rare opportunity for the team
 to gain a deeper understanding of the Republic of Singapore Air Force (RSAF)
@@ -66,8 +67,9 @@ life.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s6_6138686139746337162_121.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1231123_6138686139746337163_121.jpg">
 </div>
+<p></p>
 <h3><strong>Reflections on the Experience</strong></h3>
 <p>This retreat not only deepened the team's appreciation of the role the
 RSAF plays in national security, but also allowed the team to observe first
