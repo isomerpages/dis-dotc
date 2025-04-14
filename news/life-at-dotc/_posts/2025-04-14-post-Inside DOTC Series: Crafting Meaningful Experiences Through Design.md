@@ -1,8 +1,11 @@
 ---
 title: "Inside DOTC Series: Crafting Meaningful Experiences Through Design"
 permalink: /inside-dotc-series-crafting-meaningful-experiences-through-design/
-variant: tiptap
+date: 2025-04-14
+layout: post
 description: ""
+image: ""
+variant: tiptap
 ---
 <p></p>
 <p></p>
@@ -16,7 +19,7 @@ dedicated to making every interaction intuitive and meaningful, ensuring
 that innovation is always paired with real-world usability.</p>
 <p>To gain deeper insight into the world of product design, we spoke with <strong>Joel Tai</strong>,
 a <strong>Senior Product Designer</strong> and the marketing lead for this
-series. Joe shared his journey in the field, his passion for solving complex
+series. Joel shared his journey in the field, his passion for solving complex
 problems, and what drives his creative process. Outside of work, he wears
 multiple hats — serving as a volleyball club representative for Taman Jurong
 CSN and embracing life as a proud cat parent to two beloved feline companions.</p>
@@ -31,20 +34,23 @@ CSN and embracing life as a proud cat parent to two beloved feline companions.</
 <p><em>A mediocre idea becomes a great design when it strikes the right balance between usability, feasibility, and impact. It’s not just about making something visually appealing—it’s about ensuring the design is intuitive, efficient, and meaningful for the people who use it."</em>
 </p>
 <p></p>
-<blockquote>
-<p><em>Which is harder: choosing the perfect font or agreeing on a color palette?</em>
-</p>
-</blockquote>
-<p><em>"Colors trigger immediate emotional reactions, but typography quietly shapes how we experience content. A color palette can set the tone—warm and inviting, cold and authoritative, or somewhere in between—but typography dictates how information flows and how effortlessly it is consumed.</em>
-</p>
-<p><em>That’s why the hardest choice is often the one that goes unnoticed—the one that ‘just feels right.’ A perfect font seamlessly guides the reader, while a well-balanced color palette subtly reinforces brand identity and usability. Both require deep consideration, but if I had to choose, I’d say typography is trickier. A single typeface affects readability, hierarchy, and even perception of trust, making it a decision that demands both logic and intuition.</em>
-</p>
-<p><em>At the end of the day, the real challenge isn’t picking a font or a color—it’s ensuring they work harmoniously to create a cohesive and intuitive experience."</em>
-</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/E2669AA9_36CE_4E53_9947_9639F2702AB8.jpg">
+</div>
+<p></p>
+<blockquote>
+<p><em>Which is harder: choosing the perfect font or agreeing on a colour palette?</em>
+</p>
+</blockquote>
+<p><em>"Colours trigger immediate emotional reactions, but typography quietly shapes how we experience content. A colour palette can set the tone—warm and inviting, cold and authoritative, or somewhere in between—but typography dictates how information flows and how effortlessly it is consumed.</em>
+</p>
+<p><em>That’s why the hardest choice is often the one that goes unnoticed—the one that ‘just feels right.’ A perfect font seamlessly guides the reader, while a well-balanced colour palette subtly reinforces brand identity and usability. Both require deep consideration, but if I had to choose, I’d say typography is trickier. A single typeface affects readability, hierarchy, and even perception of trust, making it a decision that demands both logic and intuition.</em>
+</p>
+<p><em>At the end of the day, the real challenge isn’t picking a font or a colour—it’s ensuring they work harmoniously to create a cohesive and intuitive experience."</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9268.jpg">
 </div>
 <p></p>
 <blockquote>
@@ -58,40 +64,38 @@ of its effect on people?</p>
 <p><em>At the end of the day, great design isn’t just about aesthetics or functionality—it’s about creating a sense of trust, clarity, and empowerment in every interaction."</em>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9268.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/309DE986_91DA_4043_8B5E_780A51A91032.jpg">
 </div>
 <p></p>
 <blockquote>
-<p>What’s your favorite part of the design process: brainstorming ideas,
+<p>What’s your favourite part of the design process: brainstorming ideas,
 prototyping, or perfecting the final design?</p>
 </blockquote>
-<p><em>"Prototyping is my favorite part of the design process because that’s where ideas truly come to life. It’s the stage where abstract concepts turn into something tangible—something that users can interact with, test, and respond to.</em>
+<p><em>"Prototyping is my favourite part of the design process because that’s where ideas truly come to life. It’s the stage where abstract concepts turn into something tangible—something that users can interact with, test, and respond to.</em>
 </p>
 <p><em>I love the problem-solving aspect of it: seeing what works, what falls flat, and what surprises me. Prototyping allows for rapid iteration, helping me validate assumptions, refine interactions, and uncover insights that wouldn’t be obvious on paper. It’s where design shifts from theory to reality, and where the most meaningful improvements happen.</em>
 </p>
 <p><em>That said, brainstorming sparks creativity, and perfecting the final design brings satisfaction, but prototyping is where you separate good ideas from great ones—and that’s what makes it the most exciting part for me."</em>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/309DE986_91DA_4043_8B5E_780A51A91032.jpg">
+<img style="margin-left: 0px; margin-top: 0px;" height="346" width="462" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZoIDI1I3DB4_FCQ77r9S03qpJYnQMJE0pMzGNaR-Om0hdNeqq4D5rur0kF9jaWhMYIna_odLNh4cFbdiFOtr_FVsBENJFzvtsSmZPVpAf9DvO6tVldckFkpl_amn3eVEzdUt9yA?key=OQhE5H4GgiHa2ak4gIWJroc0">
 </div>
 <p></p>
 <blockquote>
 <p>Based on your experience at DOTC so far, what has been the most memorable
 moment for you?</p>
 </blockquote>
-<p><em>"One of my most memorable moments at DOTC was organizing our first Product Design talk, where I had the opportunity to share insights on how familiar design principles evolve to meet the critical demands of operationally-driven projects with the Singapore Product Design community.</em>
+<p><em>"One of my most memorable moments at DOTC was organising our first Product Design talk, where I had the opportunity to share insights on how familiar design principles evolve to meet the critical demands of operationally-driven projects with the Singapore Product Design community.</em>
 </p>
 <p><em>I walked the audience through the key differences and surprising similarities between commercial and military UX, highlighting the challenges of designing for high-stakes environments where reliability, security, and user efficiency are paramount.</em>
 </p>
-<p><em>One of the highlights was engaging with new designers entering the field, who found value in understanding how we navigate the complexities of military UX. It was also a great opportunity to connect with fellow designers from CSIT and DSTA, exchanging ideas on the evolving role of UX in national defense. Seeing the enthusiasm and curiosity from the community reaffirmed the importance of fostering design conversations beyond our immediate domain and how crucial it is to share, learn, and grow as a design community."</em>
+<p><em>One of the highlights was engaging with new designers entering the field, who found value in understanding how we navigate the complexities of military UX. It was also a great opportunity to connect with fellow designers from CSIT and DSTA, exchanging ideas on the evolving role of UX in national defence. Seeing the enthusiasm and curiosity from the community reaffirmed the importance of fostering design conversations beyond our immediate domain and how crucial it is to share, learn, and grow as a design community."</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left: 0px; margin-top: 0px;" height="346" width="462" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZoIDI1I3DB4_FCQ77r9S03qpJYnQMJE0pMzGNaR-Om0hdNeqq4D5rur0kF9jaWhMYIna_odLNh4cFbdiFOtr_FVsBENJFzvtsSmZPVpAf9DvO6tVldckFkpl_amn3eVEzdUt9yA?key=OQhE5H4GgiHa2ak4gIWJroc0">
+<img style="margin-left: 0px; margin-top: 0px;" height="349" width="465" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXddtTM64e5sS4ea4j2Y54gD7pONjrYf2AbPI_I-GbJAeTbnO-79Xu3QfmH0mm2eo78Jif2HFjBG69PBF-F11exAQ4mXILF-JaBZnGRVIwrih37wjlFdnhZ9ntyxPSunPVRCrTfc?key=OQhE5H4GgiHa2ak4gIWJroc0">
 </div>
 <p></p>
 <blockquote>
@@ -106,13 +110,10 @@ pressure?</p>
 </p>
 <p><em>At the end of the day, both volleyball and design require a balance of skill, intuition, and teamwork. You don’t just react—you anticipate, adapt, and execute with confidence."</em>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="margin-left: 0px; margin-top: 0px;" height="349" width="465" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXddtTM64e5sS4ea4j2Y54gD7pONjrYf2AbPI_I-GbJAeTbnO-79Xu3QfmH0mm2eo78Jif2HFjBG69PBF-F11exAQ4mXILF-JaBZnGRVIwrih37wjlFdnhZ9ntyxPSunPVRCrTfc?key=OQhE5H4GgiHa2ak4gIWJroc0">
-</div>
 <p>Joel’s journey at DOTC is a testament to the intersection of creativity,
 strategy, and adaptability that drives product design. Whether refining
 user experiences, leading community conversations, or drawing inspiration
 from volleyball, he brings a dynamic approach to design that ensures innovation
 meets real-world impact.</p>
-<p>Interested in shaping the future with us? <a href="https://go.gov.sg/dotc-careers" rel="noopener nofollow" target="_blank">Join DOTC</a> and be part of the change!</p>
+<p>Interested in shaping the future with us? <a href="https://go.gov.sg/dotc-careers" rel="noopener noreferrer nofollow" target="_blank"><u>Join DOTC</u></a> and be part of
+the change!</p>

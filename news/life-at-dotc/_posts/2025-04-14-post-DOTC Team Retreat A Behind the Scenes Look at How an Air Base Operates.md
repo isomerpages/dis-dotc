@@ -1,13 +1,17 @@
 ---
 title: DOTC Team Retreat A Behind the Scenes Look at How an Air Base Operates
 permalink: /dotc-team-retreat-a-behind-the-scenes-look-at-how-an-air-base-operates/
-variant: tiptap
+date: 2025-04-14
+layout: post
 description: ""
+image: ""
+variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4J1A9121.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_4__2_.jpg">
 </div>
+<p></p>
 <p>The Digital Ops-Tech Centre (DOTC) team embarked on an insightful retreat
 to Sembawang Air Base. This event provided a rare opportunity for the team
 to gain a deeper understanding of the Republic of Singapore Air Force (RSAF)
@@ -28,8 +32,6 @@ team on the key focus areas for DOTC in the year ahead.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5292.jpg">
 </div>
-<p></p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5298_2.jpg">
@@ -54,16 +56,18 @@ insights gained:</p>
 <p>Beyond the control tower, the team gained an appreciation for the complexity
 of managing a high-readiness air base, with RSAF officers explaining the
 importance of continuous learning and adaptability.</p>
-<h3><strong>Experiencing SAF Life at Chong Pang Camp</strong></h3>
-<p>To fully immerse themselves in the SAF experience, the team also had lunch
-at the air base’s cookhouse. This provided a glimpse into the daily life
-of RSAF personnel, allowing the team to experience firsthand the camaraderie
-and environment that define military life.</p>
+<h3><strong>A Glimpse into SAF Life at Chong Pang Camp</strong></h3>
+<p>As part of their visit, the team had lunch at the air base’s cookhouse,
+offering them a brief but insightful look into the day-to-day environment
+of RSAF personnel. This moment provided a sense of the camaraderie and
+routines that are part of life on base, giving a small window into military
+life.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s6_6138686139746337162_121.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1231123_6138686139746337163_121.jpg">
 </div>
+<p></p>
 <h3><strong>Reflections on the Experience</strong></h3>
 <p>This retreat not only deepened the team's appreciation of the role the
 RSAF plays in national security, but also allowed the team to observe first
@@ -74,6 +78,5 @@ like this allow our team to have a more in-depth understanding of SAF operations
 which will help them develop better products for operational users.</p>
 <p>Interested in building the future with us? <a href="https://go.gov.sg/dotc-careers" rel="noopener nofollow" target="_blank">Join DOTC</a> and be part of the change!</p>
 <p>
-<br>
 <br>
 </p>
