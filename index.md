@@ -31,15 +31,26 @@ sections:
       subtitle: IN THE NEWS
       button: MORE NEWS
   - infopic:
-      title: Engineering the Future One Move at a Time
-      subtitle: Events
+      title: Crafting Meaningful Experiences Through Design
+      subtitle: Life at DOTC
       id: infopic
       description: This series highlights team members and their contributions. We
-        spoke with Chi Fa, a software engineer in the Pinpoint team, about his
+        spoke we spoke with Joel Tai, a Senior Product Designer, about his
         journey and expertise.
       button: LEARN MORE
-      url: /inside-dotc-a-conversation-with-foo-chi-fa/
-      image: /images/chifa2.jpg
+      url: /inside-dotc-series-crafting-meaningful-experiences-through-design/
+      image: /images/IMG_9255.jpg
+      alt: Image alt text
+  - infopic:
+      title: DOTC Team Retreat at Sembawang Air Base
+      subtitle: Life at DOTC
+      id: infopic
+      description: The Digital Ops-Tech Centre (DOTC) team embarked on an insightful
+        retreat to Sembawang Air Base to gain a deeper understanding of the
+        RSAF.
+      button: Learn More
+      url: /dotc-team-retreat-a-behind-the-scenes-look-at-how-an-air-base-operates/
+      image: /images/Image_4__2_.jpg
       alt: Image alt text
   - infopic:
       title: "Hackathon Demo Day Highlights #BuildTogether"
@@ -50,15 +61,5 @@ sections:
       button: LEARN MORE
       url: /hackathon-demo-day-highlights/
       image: /images/1732784811364.jpg
-      alt: Image alt text
-  - infopic:
-      title: "Team Bonding at DOTC: Embracing Diversity and Collaboration"
-      subtitle: Life at DOTC
-      id: infopic
-      description: We recently held a team bonding activity that highlighted the
-        unique talents and diverse perspectives of our team.
-      button: Learn More
-      url: /team-bonding-at-dotc-embracing-diversity-and-collaboration/
-      image: /images/1_20240903_113322.jpg
       alt: Image alt text
 ---
