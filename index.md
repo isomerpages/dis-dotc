@@ -34,10 +34,10 @@ sections:
       title: Crafting Meaningful Experiences Through Design
       subtitle: Life at DOTC
       id: infopic
-      description: This series highlights team members and their contributions. We
-        spoke we spoke with Joel Tai, a Senior Product Designer, about his
-        journey and expertise.
-      button: LEARN MORE
+      description: At DOTC, design goes beyond visuals. Senior Product Designer Joel
+        Tai shares his journey, problem-solving mindset, and what fuels his
+        creativity.
+      button: Read MORE
       url: /inside-dotc-series-crafting-meaningful-experiences-through-design/
       image: /images/IMG_9255.jpg
       alt: Image alt text
@@ -45,10 +45,10 @@ sections:
       title: DOTC Team Retreat at Sembawang Air Base
       subtitle: Life at DOTC
       id: infopic
-      description: The Digital Ops-Tech Centre (DOTC) team embarked on an insightful
-        retreat to Sembawang Air Base to gain a deeper understanding of the
-        RSAF.
-      button: Learn More
+      description: The team embarked on an eye-opening retreat to Sembawang Air Base,
+        gaining deeper insights into the RSAF and a glimpse into SAF life at
+        Chong Pang Camp.
+      button: Read More
       url: /dotc-team-retreat-a-behind-the-scenes-look-at-how-an-air-base-operates/
       image: /images/Image_4__2_.jpg
       alt: Image alt text
@@ -56,9 +56,10 @@ sections:
       title: "Hackathon Demo Day Highlights #BuildTogether"
       subtitle: Events
       id: infopic
-      description: Teams presented functional prototypes to an audience of agencies
-        and professionals from MINDEF and the SAF.
-      button: LEARN MORE
+      description: At our first Hackathon Demo Day, teams wowed MINDEF and SAF with
+        bold ideas and prototypes—proving that creativity thrives through
+        collaboration.
+      button: Read MORE
       url: /hackathon-demo-day-highlights/
       image: /images/1732784811364.jpg
       alt: Image alt text
