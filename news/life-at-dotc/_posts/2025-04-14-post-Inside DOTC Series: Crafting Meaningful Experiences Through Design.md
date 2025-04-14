@@ -19,7 +19,7 @@ dedicated to making every interaction intuitive and meaningful, ensuring
 that innovation is always paired with real-world usability.</p>
 <p>To gain deeper insight into the world of product design, we spoke with <strong>Joel Tai</strong>,
 a <strong>Senior Product Designer</strong> and the marketing lead for this
-series. Joe shared his journey in the field, his passion for solving complex
+series. Joel shared his journey in the field, his passion for solving complex
 problems, and what drives his creative process. Outside of work, he wears
 multiple hats — serving as a volleyball club representative for Taman Jurong
 CSN and embracing life as a proud cat parent to two beloved feline companions.</p>
@@ -39,14 +39,14 @@ CSN and embracing life as a proud cat parent to two beloved feline companions.</
 </div>
 <p></p>
 <blockquote>
-<p><em>Which is harder: choosing the perfect font or agreeing on a color palette?</em>
+<p><em>Which is harder: choosing the perfect font or agreeing on a colour palette?</em>
 </p>
 </blockquote>
-<p><em>"Colors trigger immediate emotional reactions, but typography quietly shapes how we experience content. A color palette can set the tone—warm and inviting, cold and authoritative, or somewhere in between—but typography dictates how information flows and how effortlessly it is consumed.</em>
+<p><em>"Colours trigger immediate emotional reactions, but typography quietly shapes how we experience content. A colour palette can set the tone—warm and inviting, cold and authoritative, or somewhere in between—but typography dictates how information flows and how effortlessly it is consumed.</em>
 </p>
-<p><em>That’s why the hardest choice is often the one that goes unnoticed—the one that ‘just feels right.’ A perfect font seamlessly guides the reader, while a well-balanced color palette subtly reinforces brand identity and usability. Both require deep consideration, but if I had to choose, I’d say typography is trickier. A single typeface affects readability, hierarchy, and even perception of trust, making it a decision that demands both logic and intuition.</em>
+<p><em>That’s why the hardest choice is often the one that goes unnoticed—the one that ‘just feels right.’ A perfect font seamlessly guides the reader, while a well-balanced colour palette subtly reinforces brand identity and usability. Both require deep consideration, but if I had to choose, I’d say typography is trickier. A single typeface affects readability, hierarchy, and even perception of trust, making it a decision that demands both logic and intuition.</em>
 </p>
-<p><em>At the end of the day, the real challenge isn’t picking a font or a color—it’s ensuring they work harmoniously to create a cohesive and intuitive experience."</em>
+<p><em>At the end of the day, the real challenge isn’t picking a font or a colour—it’s ensuring they work harmoniously to create a cohesive and intuitive experience."</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -69,10 +69,10 @@ of its effect on people?</p>
 </div>
 <p></p>
 <blockquote>
-<p>What’s your favorite part of the design process: brainstorming ideas,
+<p>What’s your favourite part of the design process: brainstorming ideas,
 prototyping, or perfecting the final design?</p>
 </blockquote>
-<p><em>"Prototyping is my favorite part of the design process because that’s where ideas truly come to life. It’s the stage where abstract concepts turn into something tangible—something that users can interact with, test, and respond to.</em>
+<p><em>"Prototyping is my favourite part of the design process because that’s where ideas truly come to life. It’s the stage where abstract concepts turn into something tangible—something that users can interact with, test, and respond to.</em>
 </p>
 <p><em>I love the problem-solving aspect of it: seeing what works, what falls flat, and what surprises me. Prototyping allows for rapid iteration, helping me validate assumptions, refine interactions, and uncover insights that wouldn’t be obvious on paper. It’s where design shifts from theory to reality, and where the most meaningful improvements happen.</em>
 </p>
@@ -87,11 +87,11 @@ prototyping, or perfecting the final design?</p>
 <p>Based on your experience at DOTC so far, what has been the most memorable
 moment for you?</p>
 </blockquote>
-<p><em>"One of my most memorable moments at DOTC was organizing our first Product Design talk, where I had the opportunity to share insights on how familiar design principles evolve to meet the critical demands of operationally-driven projects with the Singapore Product Design community.</em>
+<p><em>"One of my most memorable moments at DOTC was organising our first Product Design talk, where I had the opportunity to share insights on how familiar design principles evolve to meet the critical demands of operationally-driven projects with the Singapore Product Design community.</em>
 </p>
 <p><em>I walked the audience through the key differences and surprising similarities between commercial and military UX, highlighting the challenges of designing for high-stakes environments where reliability, security, and user efficiency are paramount.</em>
 </p>
-<p><em>One of the highlights was engaging with new designers entering the field, who found value in understanding how we navigate the complexities of military UX. It was also a great opportunity to connect with fellow designers from CSIT and DSTA, exchanging ideas on the evolving role of UX in national defense. Seeing the enthusiasm and curiosity from the community reaffirmed the importance of fostering design conversations beyond our immediate domain and how crucial it is to share, learn, and grow as a design community."</em>
+<p><em>One of the highlights was engaging with new designers entering the field, who found value in understanding how we navigate the complexities of military UX. It was also a great opportunity to connect with fellow designers from CSIT and DSTA, exchanging ideas on the evolving role of UX in national defence. Seeing the enthusiasm and curiosity from the community reaffirmed the importance of fostering design conversations beyond our immediate domain and how crucial it is to share, learn, and grow as a design community."</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -115,4 +115,5 @@ strategy, and adaptability that drives product design. Whether refining
 user experiences, leading community conversations, or drawing inspiration
 from volleyball, he brings a dynamic approach to design that ensures innovation
 meets real-world impact.</p>
-<p>Interested in shaping the future with us? <a href="https://go.gov.sg/dotc-careers" rel="noopener nofollow" target="_blank">Join DOTC</a> and be part of the change!</p>
+<p>Interested in shaping the future with us? <a href="https://go.gov.sg/dotc-careers" rel="noopener noreferrer nofollow" target="_blank"><u>Join DOTC</u></a> and be part of
+the change!</p>
