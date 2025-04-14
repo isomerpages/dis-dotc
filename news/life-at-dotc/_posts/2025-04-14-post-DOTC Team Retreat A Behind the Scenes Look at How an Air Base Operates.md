@@ -33,8 +33,6 @@ team on the key focus areas for DOTC in the year ahead.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5292.jpg">
 </div>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5298_2.jpg">
 </div>
