@@ -1,5 +1,4 @@
 collections:
   wip:
     output: true
-    order:
-      - "Inside DOTC Series: Crafting Meaningful Experiences Through Design.md"
+    order: []
