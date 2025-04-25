@@ -1,4 +1,6 @@
 collections:
   wip:
     output: true
-    order: []
+    order:
+      - "Inside DOTC Series: Engineering Excellence Through Collaboration and
+        Insight.md"
