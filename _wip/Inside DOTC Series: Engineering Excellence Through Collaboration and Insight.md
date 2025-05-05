@@ -39,6 +39,11 @@ I'm aspiring to achieve—capturing that mad genius essence in programming."</p>
 <p>
 <br>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_05_at_1_16_13_PM.png">
+</div>
+<p></p>
 <h3><strong>What project or feature do you look back on most proudly, and can you share the most rewarding feature you’ve built and the problem it solved?</strong></h3>
 <p>“I’d have to say the video upload feature on Pinpoint stands out as my
 proudest achievement and a true highlight. It was my first full-stack project
