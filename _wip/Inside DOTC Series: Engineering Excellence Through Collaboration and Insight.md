@@ -20,16 +20,14 @@ experience, he shared his distinctive problem-solving approach and expressed
 pride in his significant projects. Beyond coding, Vijey enjoys playing
 Magic: The Gathering, a trading card game where strategy is crucial. He
 applies the strategic thinking he develops from card games to his work.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1532.jpg">
+</div>
 <h3><strong>What’s your go to strategy for debugging tough issues?</strong></h3>
 <p><em>“When tackling tough issues, I often dive deep into the problem, meticulously exploring every line of code. However, I know when I’ve hit a wall. In those moments, I reach out to a colleague for help. As I describe the issue, something remarkable often happens—I experience a sudden burst of inspiration that leads me to the solution, sometimes even before I finish my question. This method is known as ‘rubber ducking,’ and it serves as a powerful reminder that articulating our thoughts can illuminate paths we didn’t see before."</em>
 </p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6587.jpg">
-</div>
-<p></p>
 <h3><strong>If you had to choose a single programming language to master for the rest of your career, which would you pick?</strong><br></h3>
 <p>"My journey started with C, a language that taught me the importance of
 explicit design in programming. I find the intricacies of writing optimized,
@@ -74,12 +72,19 @@ I take pride in maintaining efficiency."</p>
 <p>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6587.jpg">
+</div>
 <h3><strong>What’s one task or tool you’d love to see improved in your workflow?</strong><br><br></h3>
 <p><em>“As Pinpoint has evolved, so has its complexity. I dream of enhancing our build scripts to streamline our app’s performance. A faster build process in our local development environment would significantly increase our efficiency and productivity."</em>
 </p>
 <p>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1545v2.jpg">
+</div>
+<p></p>
 <h3><strong>As someone who enjoys playing card games, have you ever applied a similar strategic mindset in your engineering work?</strong></h3>
 <p><em>"Playing Magic: The Gathering has taught me two crucial lessons: consistent strategies often lead to success, and understanding both your resources and opponents is key. I apply these principles in software engineering by prioritizing simplicity in our product design, using reputable tools, and focusing on features that deliver maximum impact. Just like a good player must adapt to the game, I believe in the importance of knowing our product and users deeply to develop optimal solutions."</em>
 <br>
