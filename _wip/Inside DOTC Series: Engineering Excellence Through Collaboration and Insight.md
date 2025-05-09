@@ -75,11 +75,8 @@ I take pride in maintaining efficiency."</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6587.jpg">
 </div>
-<h3><strong>What’s one task or tool you’d love to see improved in your workflow?</strong><br><br></h3>
+<h3><strong>What’s one task or tool you’d love to see improved in your workflow?</strong></h3>
 <p><em>“As Pinpoint has evolved, so has its complexity. I dream of enhancing our build scripts to streamline our app’s performance. A faster build process in our local development environment would significantly increase our efficiency and productivity."</em>
-</p>
-<p>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1545v2.jpg">
