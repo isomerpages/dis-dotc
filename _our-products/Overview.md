@@ -92,6 +92,52 @@ centralizes workflows, enhancing productivity and accessibility. <a href="https:
 </table>
 <p></p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/7TelepostBlack_Horizontal_4x.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Telepost is a secure messaging platform designed for public officers and
+military personnel to send timely, personalised updates at scale. Built
+on Telegram and developed by DOTC, it features an intuitive dashboard,
+campaign scheduling, and RSN-wide broadcasts. With one-to-one messaging
+and real-time reporting, Telepost enhances engagement, streamlines communication,
+and ensures teams stay informed and connected. Learn more.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
