@@ -32,12 +32,13 @@ rivalry.</p>
 fire” or cheering from the sidelines, the team brought the same energy
 and spirit that drove DOTC forward.
 <br>
+<br>As the last round wrapped up, everyone walked away with tired legs, big
+smiles, and a stronger bond as one DOTC family.
+<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5917.jpg">
 </div>
-<p>As the last round wrapped up, everyone walked away with tired legs, big
-smiles, and a stronger bond as one DOTC family.</p>
 <p>
 <br>
 </p>
