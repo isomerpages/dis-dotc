@@ -210,12 +210,6 @@ variant: markdown
 					<h6>Spaghetti is best left on the plate, not in the code.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/benjamin-loh-swe-full-bg.png">
-            <span class="swe">Software Engineer</span>
-            <h3>Benjamin Loh</h3>
-					<h6>Hello World</h6>
-        </div>
-	<div class="card-item">
             <img src="/images/Meet%20the%20Team/ang-ding-jie-swe-full-bg.png">
             <span class="swe">Software Engineer</span>
             <h3>Ang Ding Jie</h3>
