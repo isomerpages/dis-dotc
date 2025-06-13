@@ -246,7 +246,7 @@ variant: markdown
 					<h6>A coffee a day keeps the doctor away.</h6>
 	 </div>
 	 		<div class="card-item">
-            <img src="/images/Meet%20the%20Team/Glenn.jpg">
+            <img src="/images/Meet%20the%20Team/Glennn.jpg">
             <span class="swe">Software Engineer</span>
             <h3>Glenn Ee</h3>
 					<h6>Press any key to continue.</h6>
