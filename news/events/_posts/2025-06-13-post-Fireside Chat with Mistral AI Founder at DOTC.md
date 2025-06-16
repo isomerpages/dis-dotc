@@ -12,11 +12,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250526_WA0016.jpg">
 </div>
-<p>DOTC hosted an engaging fireside chat with <a href="https://www.linkedin.com/in/arthur-mensch/" rel="noopener noreferrer nofollow" target="_blank"><u>Arthur Mensch</u></a>,
-founder of <a href="https://mistral.ai" rel="noopener noreferrer nofollow" target="_blank"><u>Mistral AI</u></a>,
+<p>DOTC and DIS Hd of Plans ME7 Guo Jinghua&nbsp; had the pleasure of hosting
+an engaging fireside chat with <a href="https://www.linkedin.com/in/arthur-mensch/" rel="noopener noreferrer nofollow" target="_blank"><u>Arthur Mensch</u></a>,
+founder of <a href="https://www.linkedin.com/in/arthur-mensch/" rel="noopener noreferrer nofollow" target="_blank"><u>Mistral.ai</u></a> -
 a pioneering AI startup known for developing accessible, high-performance
-language models. The discussion was moderated by Chief Digitalisation Officer
-Jinghua Guo.</p>
+language models. We were joined by our colleagues from the SAF AI Centre
+and SAF Computer Vision Unit (SCVU).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/8_20250526_150455.jpg">
 </div>
@@ -24,17 +25,15 @@ Jinghua Guo.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_20250526_150514.jpg">
 </div>
-<p>The event featured lively Q&amp;A and conversations, with active participation
-from the DOTC and SAF Computer Vision Unit (SCVU) teams to gain insights
-and learn from Mistral AI's innovative approaches.</p>
-<p>Xavier shared insights on responsible AI development and the importance
-of collaboration among government, academia, and industry.</p>
+<p>The event featured lively Q&amp;A and conversations from the participants
+to gain insights into and learn from <a href="http://Mistral.ai" rel="noopener noreferrer nofollow" target="_blank">Mistral.ai</a>’s innovative approaches.</p>
+<p>Mr Mensch also shared his thoughts on responsible AI development and the
+importance of collaboration among government, academia, and industry.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250526_WA0019.jpg">
 </div>
-<p>The session highlighted Singapore’s position as a global AI hub and showcased
-Mistral AI's role in advancing natural language understanding and AI accessibility
-for societal and economic growth.</p>
+<p>The session was an enriching one and we look forward to more of such opportunities
+to learn from the thought leaders in the industry.</p>
 <p>
 <br>
 </p>
