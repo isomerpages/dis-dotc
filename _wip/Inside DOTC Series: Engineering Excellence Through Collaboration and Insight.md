@@ -18,16 +18,14 @@ a <strong>software engineer</strong> in the Pinpoint team. With his extensive
 experience, he shared his distinctive problem-solving approach and expressed
 pride in his significant projects. Beyond coding, Vijey enjoys playing
 Magic: The Gathering, a trading card game where strategy is crucial. He
-applies the strategic thinking he develops from card games to his work.
-<br>
-</p>
+applies the strategic thinking he develops from card games to his work.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1532.jpg">
 </div>
 <h3><strong>What’s your go to strategy for debugging tough issues?</strong></h3>
 <p><em>“When tackling tough issues, I often dive deep into the problem, meticulously exploring every line of code. However, I know when I’ve hit a wall. In those moments, I reach out to a colleague for help. As I describe the issue, something remarkable often happens—I experience a sudden burst of inspiration that leads me to the solution, sometimes even before I finish my question. This method is known as ‘rubber ducking,’ and it serves as a powerful reminder that articulating our thoughts can illuminate paths we didn’t see before."</em>
 </p>
-<h3><strong>If you had to choose a single programming language to master for the rest of your career, which would you pick?</strong><br></h3>
+<h3><strong>If you had to choose a single programming language to master for the rest of your career, which would you pick?</strong></h3>
 <p><em>"My journey started with C, a language that taught me the importance of explicit design in programming. I find the intricacies of writing optimized, low-level code fascinating. Did you know that Roller Coaster Tycoon was crafted entirely by one person using Assembly? That's the level of mastery I'm aspiring to achieve—capturing that mad genius essence in programming."</em>
 </p>
 <p></p>
@@ -66,6 +64,4 @@ a dynamic approach that reinforces our commitment to excellence and user-centric
 design.</p>
 <p>Are you ready to engineer the future with us? <a href="https://go.gov.sg/dotc-careers" rel="noopener noreferrer nofollow" target="_blank"><u>Join DOTC</u></a> and be part of
 our transformative journey!</p>
-<p>
-<br>
-</p>
+<p></p>
