@@ -7,7 +7,7 @@ third_nav_title: Products
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Telepost_Logo_PNG_50_.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Telepost_Logo_PNG_50_.png">
 </div>
 <p></p>
 <p>Effective communication is the backbone of a well-functioning organisation.
