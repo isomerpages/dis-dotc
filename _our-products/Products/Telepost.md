@@ -24,7 +24,6 @@ one-to-one messaging, and real-time monitoring — all through an intuitive,
 user-friendly dashboard.</p>
 <h3>Key Features of Telepost</h3>
 <p></p>
-<p></p>
 <blockquote>
 <p>1. User Friendly Dashboard:</p>
 </blockquote>
