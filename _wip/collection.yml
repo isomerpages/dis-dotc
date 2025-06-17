@@ -1,4 +1,7 @@
 collections:
   wip:
     output: true
-    order: []
+    order:
+      - "DOTC Team Cohesion: Laser Tag Action at The Cage @ Kallang.md"
+      - "Inside DOTC Series: Engineering Excellence Through Collaboration and
+        Insight.md"

@@ -210,12 +210,6 @@ variant: markdown
 					<h6>Spaghetti is best left on the plate, not in the code.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/benjamin-loh-swe-full-bg.png">
-            <span class="swe">Software Engineer</span>
-            <h3>Benjamin Loh</h3>
-					<h6>Hello World</h6>
-        </div>
-	<div class="card-item">
             <img src="/images/Meet%20the%20Team/ang-ding-jie-swe-full-bg.png">
             <span class="swe">Software Engineer</span>
             <h3>Ang Ding Jie</h3>
@@ -245,7 +239,20 @@ variant: markdown
             <h3>Zhen Wei</h3>
 					<h6>It’s a feature, not a bug.</h6>
         </div>
+		<div class="card-item">
+            <img src="/images/Meet%20the%20Team/Justin.jpg">
+            <span class="swe">Software Engineer</span>
+            <h3>Justin Tay</h3>
+					<h6>A coffee a day keeps the doctor away.</h6>
+	 </div>
+	 		<div class="card-item">
+            <img src="/images/Meet%20the%20Team/Glennn.jpg">
+            <span class="swe">Software Engineer</span>
+            <h3>Glenn Ee</h3>
+					<h6>Press any key to continue.</h6>
  </div>
+  </div>
+ 
 <header style="font-size:50px;margin:16px;color:#3C6DE8">Product Designers</header>
 
 <div class="card-list">
