@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Telepost_Logo_PNG_50_.png">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Telepost_Logo_PNG_50_.png">
 </div>
 <p>Effective communication is the backbone of a well-functioning organisation.
 In today’s fast-paced environment, teams need to stay updated quickly.
@@ -51,14 +51,15 @@ and failure rates of your messaging efforts directly from the dashboard.</p>
 to identify undelivered messages and optimise future outreach.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/111Screenshot_2025_05_23_at_15_44_06.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/131Screenshot_2025_05_23_at_15_43_49.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3Screenshot_2025_05_23_at_15_44_06.png">
 </div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Screenshot_2025_05_23_at_15_43_49.png">
+</div>
 <ol start="2">
 <li>
 <p><strong>Personalised Messaging</strong>: Engage individuals directly through
@@ -66,10 +67,10 @@ one-to-one chats, making communications more relevant and impactful.</p>
 <p></p>
 </li>
 </ol>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/45rScreenshot_2025_05_23_at_15_46_43.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4Screenshot_2025_05_23_at_15_46_43.png">
+</div>
 <p></p>
 <ol start="3">
 <li>
