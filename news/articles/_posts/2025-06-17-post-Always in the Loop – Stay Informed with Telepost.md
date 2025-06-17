@@ -33,8 +33,7 @@ intuitive and user-friendly dashboard.</p>
 <h4><strong>Key Features of Telepost</strong><br></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>User-Friendly Dashboard </strong>(through a simple yet intuitive
-interface):&nbsp;</p>
+<p><strong>User-Friendly Dashboard</strong>:&nbsp;</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
@@ -82,8 +81,9 @@ with precision.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_23_at_15_46_43.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/312Screenshot_2025_05_23_at_15_46_43.png">
 </div>
+<p></p>
 <h4><strong>Proven Effectiveness</strong></h4>
 <p>The Naval Personnel Department leverages Telepost daily to send out thousands
 of personalised messages, ensuring timely and meaningful updates. This
