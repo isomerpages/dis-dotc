@@ -16,9 +16,9 @@ efficiently. Recognising this critical need, the Digital Ops-Tech Centre
 (DOTC) collaborated with the Republic of Singapore Navy (RSN) to develop
 Telepost — an innovative platform designed to modernise internal messaging
 and enhance organisational connectivity.</p>
-<p>Affectionately known as RSNPost within the RSN internal community, Telepost
-offers a comprehensive solution that delivers targeted, personalised messages
-at scale with ease. Developed entirely in-house through a successful Hackathon
+<p>Known as RSNPost within the RSN internal community, Telepost offers a
+comprehensive solution that delivers targeted, personalised messages at
+scale with ease. Developed entirely in-house through a successful Hackathon
 initiative, Telepost streamlines communication by enabling broadcasts,
 one-to-one messaging, and real-time monitoring — all through an intuitive,
 user-friendly dashboard.</p>
