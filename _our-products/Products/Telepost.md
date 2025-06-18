@@ -34,8 +34,9 @@ updates or urgent notifications, Telepost allows you to set messages to
 be sent automatically, even when you're out of the office.
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3Screenshot_2025_05_23_at_15_44_06.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/freepik__the_style_is_modern_and_it_is_a_detailed_illustrat__35620.jpg">
 </div>
 <p></p>
 <p><strong>Monitor Delivery Status</strong>
@@ -43,8 +44,9 @@ be sent automatically, even when you're out of the office.
 real-time insights into delivery success and failure rates, enabling prompt
 action to address any issues.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Screenshot_2025_05_23_at_15_43_49.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/freepik__the_style_is_modern_and_it_is_a_detailed_illustrat__35615.jpg">
 </div>
 <p></p>
 <p><strong>Generate Comprehensive Reports</strong>
@@ -60,9 +62,8 @@ each message more relevant and impactful.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4Screenshot_2025_05_23_at_15_46_43.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/freepik__create_a_vector_illustration_with_a_person_using_a__35617.jpg">
 </div>
-<p></p>
 <p></p>
 <blockquote>
 <p>3. Granular Audience Control</p>
@@ -72,9 +73,8 @@ each message more relevant and impactful.</p>
 or specific groups and individuals — ensuring information is delivered
 to the right audience at the right time.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/312Screenshot_2025_05_23_at_15_46_43.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/freepik__create_a_vector_illustration_with_in_a_vector_base__35619.png">
 </div>
 <p>
 <br>Telepost transforms the way teams interact, fostering greater engagement,
