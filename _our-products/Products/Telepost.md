@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Products
 ---
-<p></p>
+<h1><strong>Always in the Loop – Stay Informed with Telepost</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Telepost_Logo_PNG_50_.png">
 </div>
@@ -18,17 +18,14 @@ Telepost — an innovative platform designed to modernise internal messaging
 and enhance organisational connectivity.</p>
 <p>Known as RSNPost within the RSN internal community, Telepost offers a
 comprehensive solution that delivers targeted, personalised messages at
-scale with ease. Developed entirely in-house through a successful Hackathon
-initiative, Telepost streamlines communication by enabling broadcasts,
-one-to-one messaging, and real-time monitoring — all through an intuitive,
-user-friendly dashboard.</p>
+scale with ease. Developed entirely in-house through a successful <a href="https://www.dotc.gov.sg/showcasing-hackathon-teams-progress/" rel="noopener nofollow" target="_blank">Hackathon</a> initiative,
+Telepost streamlines communication by enabling broadcasts, one-to-one messaging,
+and real-time monitoring — all through an intuitive, user-friendly dashboard.</p>
 <h3>Key Features of Telepost</h3>
 <p></p>
 <blockquote>
 <p>1. User Friendly Dashboard:</p>
 </blockquote>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Schedule &amp; Automate Messages</strong>
 <br>Plan and automate your outreach well in advance. Whether it's routine
 updates or urgent notifications, Telepost allows you to set messages to
@@ -38,29 +35,20 @@ be sent automatically, even when you're out of the office.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3Screenshot_2025_05_23_at_15_44_06.png">
 </div>
-<p>
-<br>
-</p>
-</li>
-<li>
+<p></p>
 <p><strong>Monitor Delivery Status</strong>
 <br>Track the success of your messages at a glance. The platform provides
 real-time insights into delivery success and failure rates, enabling prompt
 action to address any issues.</p>
-</li>
-</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Screenshot_2025_05_23_at_15_43_49.png">
 </div>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Generate Comprehensive Reports</strong>
 <br>Download detailed reports to review message delivery performance, identify
 undelivered messages, and fine-tune future communications for maximum impact.</p>
-</li>
-</ul>
+<p></p>
 <blockquote>
 <p>2. Personalised Messaging</p>
 </blockquote>
