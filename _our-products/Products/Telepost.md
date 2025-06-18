@@ -35,6 +35,9 @@ be sent automatically, even when you're out of the office.
 <br>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/freepik__create_a_vector_illustration_with_in_a_vector_base__35622.jpg">
+</div>
 <p></p>
 <p><strong>Monitor Delivery Status</strong>
 <br>Track the success of your messages at a glance. The platform provides
@@ -60,12 +63,9 @@ undelivered messages, and fine-tune future communications for maximum impact.</p
 <p>
 <br>Engage team members with one-to-one chats or personalised updates, making
 each message more relevant and impactful.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/freepik__create_a_vector_illustration_with_a_person_using_a__35617.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/1freepik__create_a_vector_illustration_with_a_person_using_a__35617.jpg">
 </div>
-<p></p>
 <blockquote>
 <p>3. Granular Audience Control</p>
 </blockquote>
