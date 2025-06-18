@@ -6,8 +6,10 @@ description: ""
 third_nav_title: Products
 ---
 <h1><strong>Always in the Loop – Stay Informed with Telepost</strong></h1>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Telepost_Logo_PNG_50_.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/freepik__upscale_image_quality_without_modifying_image__55410.jpg">
 </div>
 <p></p>
 <p>Effective communication is the backbone of a well-functioning organisation.
