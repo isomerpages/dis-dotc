@@ -43,19 +43,9 @@ be sent automatically, even when you're out of the office.
 <br>Track the success of your messages at a glance. The platform provides
 real-time insights into delivery success and failure rates, enabling prompt
 action to address any issues.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/freepik__the_style_is_modern_and_it_is_a_detailed_illustrat__35615.jpg">
-</div>
-<p></p>
 <p><strong>Generate Comprehensive Reports</strong>
 <br>Download detailed reports to review message delivery performance, identify
 undelivered messages, and fine-tune future communications for maximum impact.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/freepik__the_style_is_modern_and_it_is_a_detailed_illustrat__35620.jpg">
-</div>
 <p></p>
 <blockquote>
 <p>2. Personalised Messaging</p>
