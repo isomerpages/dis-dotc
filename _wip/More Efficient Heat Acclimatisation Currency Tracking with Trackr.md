@@ -4,11 +4,10 @@ permalink: /more-efficient-heat-acclimatisation-currency-tracking-with-trackr/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>More Efficient Heat Acclimatisation Currency Tracking with Trackr</u></strong>
-</p>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logo_horizontal.svg">
+</div>
 <p>At the Digital Ops-Tech Centre (DOTC), we seek to work with ops users
 to solve operational painpoints. That was why we developed Trackr - a high
 performing and easy-to-use platform to track Heat Acclimatisation (HA)
@@ -16,14 +15,18 @@ activity currencies of our soldiers to improve training safety and enhance
 work efficiency.
 <br>
 </p>
-<blockquote>
-<p><u>Trackr Highlights</u>
-</p>
-</blockquote>
-<p>
-<br><strong>Real-Time Data and Dashboard</strong>
-</p>
+<h4>Trackr Highlights</h4>
 <p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Real-Time Data and Dashboard</strong>
+</p>
+</li>
+</ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Asset_5.png">
+</div>
 <p>
 <br>
 </p>
@@ -34,16 +37,36 @@ tracking with real-time data inputs.</p>
 immediate insights for timely, informed decisions. With real-time automation
 and a user-friendly interface, Trackr eliminates delays and inaccuracies,
 streamlining HA currency management and enhancing operational efficiency.</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
 <p><strong>Seamless Data Sharing</strong>
-<br>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Asset_6.png">
+</div>
+</li>
+</ol>
+<p>
 <br>By centralising HA tracking data, Trackr makes it easy to share information
 across units - eliminating isolated Excel files and enabling seamless collaboration.
 This is especially valuable during personnel handovers, as incoming units
 can quickly access up-to-date records, ensuring smooth transitions when
 individuals are posted from one unit to another.</p>
+<p></p>
+<ol start="3" data-tight="true" class="tight">
+<li>
 <p><strong>Secure and Mobile Access&nbsp;</strong>
 <br>
 </p>
+</li>
+</ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Asset_8.png">
+</div>
+<p></p>
 <p>With Singpass login and a mobile-friendly interface, Trackr offers users
 secure and convenient access—anytime, anywhere.
 <br>
