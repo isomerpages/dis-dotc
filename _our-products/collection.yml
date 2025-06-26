@@ -3,7 +3,8 @@ collections:
     output: true
     order:
       - Overview.md
+      - Products/.keep
       - Products/Pinpoint.md
       - Products/Trackr.md
       - Products/Pressify.md
-      - Products/.keep
+      - Products/Telepost.md

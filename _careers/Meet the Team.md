@@ -185,7 +185,13 @@ variant: markdown
 </div>
 	
 <div class="card-list">
-	<div class="card-item">
+	       <div class="card-item">
+            <img src="/images/Meet%20the%20Team/christian-chow-swe-full-bg.png">
+            <span class="swe"> Senior Software Engineer</span>
+            <h3>Christian Chow</h3>
+					<h6>Crushing bugs and breaking boundaries.</h6>
+        </div>
+		<div class="card-item">
             <img src="/images/Meet%20the%20Team/aaron-teow-corporate-full.png">
             <span class="swe">Software Engineer</span>
             <h3>Aaron Teow</h3>
@@ -196,12 +202,6 @@ variant: markdown
             <span class="swe">Software Engineer</span>
             <h3>Foo Chi Fa</h3>
 					<h6>From 'Hello, World!' to 'Hello, Future!'</h6>
-        </div>
-	       <div class="card-item">
-            <img src="/images/Meet%20the%20Team/christian-chow-swe-full-bg.png">
-            <span class="swe">Software Engineer</span>
-            <h3>Christian Chow</h3>
-					<h6>Crushing bugs and breaking boundaries.</h6>
         </div>
 	      <div class="card-item">
             <img src="/images/Meet%20the%20Team/ong-wei-xiang-swe-full-bg.png">
