@@ -12,18 +12,15 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250526_WA0016.jpg">
 </div>
-<p>DOTC and DIS Hd of Plans ME7 Guo Jinghua&nbsp; had the pleasure of hosting
-an engaging fireside chat with <a href="https://www.linkedin.com/in/arthur-mensch/" rel="noopener noreferrer nofollow" target="_blank"><u>Arthur Mensch</u></a>,
-founder of <a href="https://www.linkedin.com/in/arthur-mensch/" rel="noopener noreferrer nofollow" target="_blank"><u>Mistral.ai</u></a> -
+<p>DOTC and Head of the Digital and Intelligence Service Plans Department,
+Guo Jinghua, had the pleasure of hosting an engaging fireside chat with
+<a href="https://www.linkedin.com/in/arthur-mensch/" rel="noopener noreferrer nofollow" target="_blank"><u>Arthur Mensch</u>
+</a>, founder of <a href="https://www.linkedin.com/in/arthur-mensch/" rel="noopener noreferrer nofollow" target="_blank"><u>Mistral.ai</u></a> -
 a pioneering AI startup known for developing accessible, high-performance
 language models. We were joined by our colleagues from the SAF AI Centre
 and SAF Computer Vision Unit (SCVU).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/8_20250526_150455.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_20250526_150514.jpg">
 </div>
 <p>The event featured lively Q&amp;A and conversations from the participants
 to gain insights into and learn from <a href="http://Mistral.ai" rel="noopener noreferrer nofollow" target="_blank">Mistral.ai</a>’s innovative approaches.</p>
