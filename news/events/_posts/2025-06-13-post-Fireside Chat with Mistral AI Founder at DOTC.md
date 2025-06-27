@@ -15,7 +15,7 @@ variant: tiptap
 <p>DOTC and Head of the Digital and Intelligence Service Plans Department,
 Guo Jinghua, had the pleasure of hosting an engaging fireside chat with
 <a href="https://www.linkedin.com/in/arthur-mensch/" rel="noopener noreferrer nofollow" target="_blank"><u>Arthur Mensch</u>
-</a>, founder of <a href="https://www.linkedin.com/in/arthur-mensch/" rel="noopener noreferrer nofollow" target="_blank"><u>Mistral.ai</u></a> -
+</a>, founder of <a href="https://mistral.ai" rel="noopener noreferrer nofollow" target="_blank"><u>Mistral.ai</u></a> -
 a pioneering AI startup known for developing accessible, high-performance
 language models. We were joined by our colleagues from the SAF AI Centre
 and SAF Computer Vision Unit (SCVU).</p>
