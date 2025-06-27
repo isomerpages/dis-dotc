@@ -45,7 +45,7 @@ applies the strategic thinking he develops from card games to his work.</p>
 </div>
 <p></p>
 <h3><strong>Which aspect of your daily work would you most like to automate or simplify?</strong></h3>
-<p><em>"While many tasks are automated, issues arise when automation fails, especially if the system was built by someone else. This emphasizes the importance of understanding the original workings—hence, I prefer to tackle tasks manually at first. It gives me deeper insights into the underlying operations, making me better equipped for troubleshooting."</em>
+<p><em>"While many tasks are automated, issues arise when automation fails, especially if the system was built by someone else. This emphasises the importance of understanding the original workings—hence, I prefer to tackle tasks manually at first. It gives me deeper insights into the underlying operations, making me better equipped for troubleshooting."</em>
 </p>
 <h3><strong>If your code could send you a thank-you note, what would it say?</strong></h3>
 <p><em>"I imagine my code would tremble in awe, as I’m passionate about eliminating unnecessary lines. It's all about the purity of code—less is more, and I take pride in maintaining efficiency."</em>
