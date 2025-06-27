@@ -58,7 +58,7 @@ applies the strategic thinking he develops from card games to his work.</p>
 </div>
 <p></p>
 <h3><strong>As someone who enjoys playing card games, have you ever applied a similar strategic mindset in your engineering work?</strong></h3>
-<p><em>"Playing Magic: The Gathering has taught me two crucial lessons: consistent strategies often lead to success, and understanding both your resources and opponents is key. I apply these principles in software engineering by prioritizing simplicity in our product design, using reputable tools, and focusing on features that deliver maximum impact. Just like a good player must adapt to the game, I believe in the importance of knowing our product and users deeply to develop optimal solutions."</em>
+<p><em>"Playing Magic: The Gathering has taught me two crucial lessons: consistent strategies often lead to success, and understanding both your resources and opponents is key. I apply these principles in software engineering by prioritising simplicity in our product design, using reputable tools, and focusing on features that deliver maximum impact. Just like a good player must adapt to the game, I believe in the importance of knowing our product and users deeply to develop optimal solutions."</em>
 <br>
 <br>Vijey’s journey at DOTC exemplifies how collaboration, strategic thinking,
 and a passion for problem-solving drive impactful software engineering.
