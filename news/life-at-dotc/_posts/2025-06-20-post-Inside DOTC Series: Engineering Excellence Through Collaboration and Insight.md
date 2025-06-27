@@ -29,7 +29,7 @@ applies the strategic thinking he develops from card games to his work.</p>
 <p><em>“When tackling tough issues, I often dive deep into the problem, meticulously exploring every line of code. However, I know when I’ve hit a wall. In those moments, I reach out to a colleague for help. As I describe the issue, something remarkable often happens—I experience a sudden burst of inspiration that leads me to the solution, sometimes even before I finish my question. This method is known as ‘rubber ducking,’ and it serves as a powerful reminder that articulating our thoughts can illuminate paths we didn’t see before."</em>
 </p>
 <h3><strong>If you had to choose a single programming language to master for the rest of your career, which would you pick?</strong></h3>
-<p><em>"My journey started with C, a language that taught me the importance of explicit design in programming. I find the intricacies of writing optimized, low-level code fascinating. Did you know that Roller Coaster Tycoon was crafted entirely by one person using Assembly? That's the level of mastery I'm aspiring to achieve—capturing that mad genius essence in programming."</em>
+<p><em>"My journey started with C, a language that taught me the importance of explicit design in programming. I find the intricacies of writing optimised, low-level code fascinating. Did you know that Roller Coaster Tycoon was crafted entirely by one person using Assembly? That's the level of mastery I'm aspiring to achieve—capturing that mad genius essence in programming."</em>
 </p>
 <p></p>
 <p></p>
