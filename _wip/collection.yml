@@ -1,8 +1,4 @@
 collections:
   wip:
     output: true
-    order:
-      - More Efficient Heat Acclimatisation Currency Tracking with Trackr.md
-      - "DOTC Team Cohesion: Laser Tag Action at The Cage @ Kallang.md"
-      - "Inside DOTC Series: Engineering Excellence Through Collaboration and
-        Insight.md"
+    order: []
