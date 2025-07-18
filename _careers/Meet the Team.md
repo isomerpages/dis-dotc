@@ -251,6 +251,12 @@ variant: markdown
             <h3>Glenn Ee</h3>
 					<h6>Press any key to continue.</h6>
  </div>
+	 		<div class="card-item">
+      <img src="/images/Meet%20the%20Team/pravind2.jpg">
+            <span class="swe">Software Engineer</span>
+            <h3>Pravind Kummar</h3>
+					<h6>Works on my machine.</h6>
+ </div>
   </div>
  
 <header style="font-size:50px;margin:16px;color:#3C6DE8">Product Designers</header>
