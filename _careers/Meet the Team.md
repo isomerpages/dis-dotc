@@ -250,6 +250,18 @@ variant: markdown
             <span class="swe">Software Engineer</span>
             <h3>Glenn Ee</h3>
 					<h6>Press any key to continue.</h6>
+		 </div>
+	 		<div class="card-item">
+            <img src="/images/Meet%20the%20Team/JunKai.jpg">
+            <span class="swe">Software Engineer</span>
+            <h3>Tan Jun Kai</h3>
+					<h6>I create solutions... and sometimes problems.</h6>
+ </div>
+	 		<div class="card-item">
+         <img src="/images/Meet%20the%20Team/ZhiYuan.jpg">
+            <span class="swe">Software Engineer</span>
+            <h3>Yong Zhi Yuan</h3>
+					<h6>I don't need therapy. I just need my code to work.</h6>
  </div>
 	 		<div class="card-item">
       <img src="/images/Meet%20the%20Team/pravind2.jpg">
