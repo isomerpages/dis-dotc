@@ -1,4 +1,5 @@
 collections:
   wip:
     output: true
-    order: []
+    order:
+      - "Up in the Air: Experiencing RSAF Flag Flypast Operations Firsthand.md"
