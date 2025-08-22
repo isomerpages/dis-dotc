@@ -32,11 +32,16 @@ down by operational hurdles.
 </p>
 <p></p>
 <blockquote>
-<h3>What's the most unexpected challenge you've faced in corporate services, and how did you tackle it? </h3>
+<h3>What's the most unexpected challenge you've faced in corporate services, and how did you tackle it?</h3>
 </blockquote>
 <p></p>
 <p><em>"Having to organise DOTC's first hackathon wasn’t an unexpected challenge, but was definitely a highlight for last year. With no prior experience (I didn’t even know what a hackathon was) and a small team, it was only through leveraging our all-hands-on-deck spirit, proactiveness, and our individual strengths and ideas that made the event a collectively enriching experience."</em>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1853_2.jpg">
+</div>
 <p></p>
 <blockquote>
 <h3>How do you balance efficiency and compliance in an organisation like DOTC?</h3>
@@ -46,11 +51,16 @@ down by operational hurdles.
 </p>
 <p></p>
 <blockquote>
-<h3>What's the most rewarding part of leading corporate services at DOTC? </h3>
+<h3>What's the most rewarding part of leading corporate services at DOTC?</h3>
 </blockquote>
 <p></p>
 <p><em>"A lot of it comes from outcomes manifested from the rest of DOTC, such as seeing happy, engaged developers empowered to create value for their organisation. The more the developers get to focus on their core calling with the least friction possible, the more I see the value of CSB in making it happen. Besides that sense of having contributed in some small part to that outcome, other satisfying realisations include knowing how well DOTC has been spoken for by leadership and supported by fellow service members to be what we can be. And last but not least, working in an empowering environment with great colleagues!"</em>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240906_102551.jpg">
+</div>
 <p></p>
 <blockquote>
 <h3>If you could automate one aspect of corporate services to make life easier, what would it be?</h3>
@@ -59,6 +69,11 @@ down by operational hurdles.
 <br><em>"I look forward to a day when DOTC is universally recognised, if ever. Until that happens, can corporate briefs be automated, please?"</em>
 <br>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250730_115314.jpg">
+</div>
+<p></p>
 <blockquote>
 <h3>"What’s the best piece of advice you’d give to someone aspiring to lead corporate services?"</h3>
 </blockquote>
