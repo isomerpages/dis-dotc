@@ -40,7 +40,7 @@ down by operational hurdles.
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1853_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/howard_mtt_image_generative_fill.jpg">
 </div>
 <p></p>
 <blockquote>
@@ -75,18 +75,20 @@ down by operational hurdles.
 </div>
 <p></p>
 <blockquote>
-<h3>"What’s the best piece of advice you’d give to someone aspiring to lead corporate services?"</h3>
+<h3>What’s the best piece of advice you’d give to someone aspiring to lead corporate services?</h3>
 </blockquote>
 <p></p>
 <p><em>"Come with a sense of service. A capable and empowered team will know what is good. Strive to be an enabler of that good, not a blocker."</em>
 </p>
 <p></p>
 <blockquote>
-<h3>I understand that you’re passionate about flight simulation in your free time. From your experience, how has practicing flight simulation influenced your approach to navigating complex organisational challenges, especially when managing multiple priorities and unexpected obstacles</h3>
+<h3>I understand that you’re passionate about flight simulation in your free time. From your experience, how has practicing flight simulation influenced your approach to navigating complex organisational challenges, especially when managing multiple priorities and unexpected obstacles?</h3>
 </blockquote>
 <p></p>
 <p><em>"I’d first advocate not linking hobbies to work! But if I have to…maybe I’ll draw an analogy to flying with poor visibility and no GPS. There will be times like that at work. When the environment is volatile, uncertain and coming with a mishmash of supposed priorities, then one should do what’s important (aviate), ask for help (communicate), and get back to fundamentals (dead reckoning and map reading!)."</em>
 </p>
+<p></p>
+<hr>
 <p>Howard’s journey exemplifies how strong support, resilience, and dedication
 keep DOTC’s engine running smoothly—driving innovation, enabling growth,
 and empowering our team to excel behind the scenes. Interested in shaping
