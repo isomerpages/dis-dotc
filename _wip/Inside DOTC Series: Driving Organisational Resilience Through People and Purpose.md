@@ -20,45 +20,36 @@ who shared how resilience in an organisation depends on capable, proactive
 people who step up and lead with purpose — especially during tough times.
 His insights highlight that empowering committed individuals is what allows
 DOTC to focus on building great products for the SAF without being slowed
-down by operational hurdles.
-<br>
-</p>
-<p></p>
+down by operational hurdles.</p>
+<h1></h1>
 <blockquote>
 <h3>What’s the key to keeping a new organisation running smoothly behind the scenes?</h3>
 </blockquote>
-<p></p>
 <p><em>"The question seems to ask for a single perfect system for smooth operations, but life's inherent messiness, inconsistencies, and unexpected challenges just doesn't make it possible. Rather, no matter where I’ve been, I’ve felt that the answer ultimately isn't systems or processes, but having capable people who do things with heart. These are the people who have the grit to apply their values, ideas, and initiative when established systems fall short or reality presents obstacles.<br><br>So for a dynamic fledgling organisation, where cookie-cutter methods and systems aren’t always a best fit, I must credit the small organic team in corporate services for not only managing essential functions like recruitment, personnel, business support and development, but also going above and beyond by learning, adapting, advocating, and taking proactive steps to ensure things work effectively and efficiently for DOTC and DIS. Through their efforts, our developers get the space and the support to focus on building great products for the SAF."</em>
 </p>
+<h1></h1>
+<blockquote>
+<h3>How do you balance efficiency and compliance in an organisation like DOTC?</h3>
+</blockquote>
+<p><em>"Compliance and efficiency need not be at odds with each other. In fact, a well-crafted and apt system can be great for overall efficiency. For other occasions, I believe in approaching and respecting policy requirements by clarifying intent with the policy-maker. As drafted, the most well-meaning policies and processes still cannot cover all situations, which is why understanding intent is most important. With conversation on intent, there can be room for win-win outcomes."</em>
+</p>
+<h1></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/howard_mtt_image_generative_fill_v3.jpg">
+</div>
 <p></p>
 <blockquote>
 <h3>What's the most unexpected challenge you've faced in corporate services, and how did you tackle it?</h3>
 </blockquote>
-<p></p>
 <p><em>"Having to organise DOTC's first hackathon wasn’t an unexpected challenge, but was definitely a highlight for last year. With no prior experience (I didn’t even know what a hackathon was) and a small team, it was only through leveraging our all-hands-on-deck spirit, proactiveness, and our individual strengths and ideas that made the event a collectively enriching experience."</em>
-</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/howard_mtt_image_generative_fill_v2.jpg">
-</div>
-<p></p>
-<p></p>
-<blockquote>
-<h3>How do you balance efficiency and compliance in an organisation like DOTC?</h3>
-</blockquote>
-<p>
-<br><em>"Compliance and efficiency need not be at odds with each other. In fact, a well-crafted and apt system can be great for overall efficiency. For other occasions, I believe in approaching and respecting policy requirements by clarifying intent with the policy-maker. As drafted, the most well-meaning policies and processes still cannot cover all situations, which is why understanding intent is most important. With conversation on intent, there can be room for win-win outcomes."</em>
 </p>
 <p></p>
 <blockquote>
 <h3>What's the most rewarding part of leading corporate services at DOTC?</h3>
 </blockquote>
-<p></p>
 <p><em>"A lot of it comes from outcomes manifested from the rest of DOTC, such as seeing happy, engaged developers empowered to create value for their organisation. The more the developers get to focus on their core calling with the least friction possible, the more I see the value of CSB in making it happen. Besides that sense of having contributed in some small part to that outcome, other satisfying realisations include knowing how well DOTC has been spoken for by leadership and supported by fellow service members to be what we can be. And last but not least, working in an empowering environment with great colleagues!"</em>
 </p>
-<p></p>
-<p></p>
+<h1></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240906_102551.jpg">
 </div>
