@@ -40,8 +40,9 @@ down by operational hurdles.
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/howard_mtt_image_generative_fill.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/howard_mtt_image_generative_fill_v2.jpg">
 </div>
+<p></p>
 <p></p>
 <blockquote>
 <h3>How do you balance efficiency and compliance in an organisation like DOTC?</h3>
