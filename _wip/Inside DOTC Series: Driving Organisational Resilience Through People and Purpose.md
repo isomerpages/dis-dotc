@@ -43,7 +43,7 @@ down by operational hurdles.</p>
 </blockquote>
 <p><em>"Having to organise DOTC's first hackathon wasn’t an unexpected challenge, but was definitely a highlight for last year. With no prior experience (I didn’t even know what a hackathon was) and a small team, it was only through leveraging our all-hands-on-deck spirit, proactiveness, and our individual strengths and ideas that made the event a collectively enriching experience."</em>
 </p>
-<p></p>
+<h1></h1>
 <blockquote>
 <h3>What's the most rewarding part of leading corporate services at DOTC?</h3>
 </blockquote>
@@ -57,11 +57,9 @@ down by operational hurdles.</p>
 <blockquote>
 <h3>If you could automate one aspect of corporate services to make life easier, what would it be?</h3>
 </blockquote>
-<p>
-<br><em>"I look forward to a day when DOTC is universally recognised, if ever. Until that happens, can corporate briefs be automated, please?"</em>
-<br>
+<p><em>"I look forward to a day when DOTC is universally recognised, if ever. Until that happens, can corporate briefs be automated, please?"</em>
 </p>
-<p></p>
+<h1></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250730_115314.jpg">
 </div>
@@ -72,14 +70,14 @@ down by operational hurdles.</p>
 <p></p>
 <p><em>"Come with a sense of service. A capable and empowered team will know what is good. Strive to be an enabler of that good, not a blocker."</em>
 </p>
-<p></p>
+<h1></h1>
 <blockquote>
-<h3>I understand that you’re passionate about flight simulation in your free time. From your experience, how has practicing flight simulation influenced your approach to navigating complex organisational challenges, especially when managing multiple priorities and unexpected obstacles?</h3>
+<h3>Given your passion for flight simulation, how has it shaped your approach to navigating complex organisational challenges and handling multiple priorities?</h3>
 </blockquote>
 <p></p>
 <p><em>"I’d first advocate not linking hobbies to work! But if I have to…maybe I’ll draw an analogy to flying with poor visibility and no GPS. There will be times like that at work. When the environment is volatile, uncertain and coming with a mishmash of supposed priorities, then one should do what’s important (aviate), ask for help (communicate), and get back to fundamentals (dead reckoning and map reading!)."</em>
 </p>
-<p></p>
+<h1></h1>
 <hr>
 <p>Howard’s journey exemplifies how strong support, resilience, and dedication
 keep DOTC’s engine running smoothly—driving innovation, enabling growth,
