@@ -1,6 +1,4 @@
 collections:
   wip:
     output: true
-    order:
-      - "Inside DOTC Series: Driving Organisational Resilience Through People
-        and Purpose.md"
+    order: []
