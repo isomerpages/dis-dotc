@@ -6,13 +6,12 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1000055253.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1000055253__1_.jpg">
 </div>
-<p></p>
 <p>On 5 July, the DOTC team were given a rare opportunity to take to the
 skies aboard the CH-47 Chinook helicopter, one of the aircraft featured
-in the iconic National Day Parade (NDP) helicopter flypast formation. This
-immersive experience gave the team valuable insights into the precision,
+in this year’s National Day Parade (NDP) helicopter flypast formation.
+This immersive experience gave the team valuable insights into the precision,
 planning, and coordination that underpin such large-scale military operations.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -20,13 +19,14 @@ planning, and coordination that underpin such large-scale military operations.</
 </div>
 <h4><strong>Setting the Scene: Flying with Purpose</strong></h4>
 <p>Before taking flight, the team was briefed by RSAF personnel on the operational
-planning behind the flag and formation flypast. These briefings offered
-a window into the rigorous preparations and safety protocols involved.</p>
+planning behind the State Flag preparation process as well as the helicopter
+formation flypast. These briefings offered a window into the rigorous preparations
+and safety protocols involved.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1000055798.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/510249071_1177039631119968_3266577165392463254_n.jpg">
 </div>
-<p></p>
 <h4><strong>Taking Flight: On Board the CH-47</strong></h4>
 <p>The highlight of the day was undoubtedly the flight aboard the CH-47 Chinook,
 a heavy-lift helicopter known for its distinctive dual rotor system and

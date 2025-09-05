@@ -25,10 +25,18 @@ applies the strategic thinking he develops from card games to his work.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1532.jpg">
 </div>
-<h3><strong>What’s your go to strategy for debugging tough issues?</strong></h3>
+<p></p>
+<blockquote>
+<h3>What’s your go to strategy for debugging tough issues?</h3>
+</blockquote>
+<p></p>
 <p><em>“When tackling tough issues, I often dive deep into the problem, meticulously exploring every line of code. However, I know when I’ve hit a wall. In those moments, I reach out to a colleague for help. As I describe the issue, something remarkable often happens—I experience a sudden burst of inspiration that leads me to the solution, sometimes even before I finish my question. This method is known as ‘rubber ducking,’ and it serves as a powerful reminder that articulating our thoughts can illuminate paths we didn’t see before."</em>
 </p>
-<h3><strong>If you had to choose a single programming language to master for the rest of your career, which would you pick?</strong></h3>
+<p></p>
+<blockquote>
+<h3>If you had to choose a single programming language to master for the rest of your career, which would you pick?</h3>
+</blockquote>
+<p></p>
 <p><em>"My journey started with C, a language that taught me the importance of explicit design in programming. I find the intricacies of writing optimised, low-level code fascinating. Did you know that Roller Coaster Tycoon was crafted entirely by one person using Assembly? That's the level of mastery I'm aspiring to achieve—capturing that mad genius essence in programming."</em>
 </p>
 <p></p>
@@ -36,7 +44,11 @@ applies the strategic thinking he develops from card games to his work.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/newScreenRecording2025_06_06at10_46_43AM_ezgif_com_video_to_gif_converter.gif">
 </div>
-<h3><strong>What project or feature do you look back on most proudly, and can you share the most rewarding feature you’ve built and the problem it solved?</strong></h3>
+<p></p>
+<blockquote>
+<h3>What project or feature do you look back on most proudly, and can you share the most rewarding feature you’ve built and the problem it solved?</h3>
+<p></p>
+</blockquote>
 <p><em>“I’d have to say the video upload feature on Pinpoint stands out as my proudest achievement and a true highlight. It was my first full-stack project where I designed the implementation from frontend to backend, including database management and cloud infrastructure. Before its launch, users hesitated to engage with the platform, but post-launch, we witnessed significant user growth. The challenges I faced taught me invaluable lessons throughout the development process, and this transformation affirmed the necessity of constant innovation in addressing user concerns.”</em><strong><br></strong>
 </p>
 <p></p>
@@ -44,21 +56,36 @@ applies the strategic thinking he develops from card games to his work.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1458v2.jpg">
 </div>
 <p></p>
-<h3><strong>Which aspect of your daily work would you most like to automate or simplify?</strong></h3>
+<blockquote>
+<h3>Which aspect of your daily work would you most like to automate or simplify?</h3>
+</blockquote>
+<p></p>
 <p><em>"While many tasks are automated, issues arise when automation fails, especially if the system was built by someone else. This emphasises the importance of understanding the original workings—hence, I prefer to tackle tasks manually at first. It gives me deeper insights into the underlying operations, making me better equipped for troubleshooting."</em>
 </p>
-<h3><strong>If your code could send you a thank-you note, what would it say?</strong></h3>
-<p><em>"I imagine my code would tremble in awe, as I’m passionate about eliminating unnecessary lines. It's all about the purity of code—less is more, and I take pride in maintaining efficiency."</em>
+<p></p>
+<blockquote>
+<h3>If your code could send you a thank-you note, what would it say?</h3>
+</blockquote>
+<p>
+<br><em>"I imagine my code would tremble in awe, as I’m passionate about eliminating unnecessary lines. It's all about the purity of code—less is more, and I take pride in maintaining efficiency."</em>
 </p>
-<h3><strong>What’s one task or tool you’d love to see improved in your workflow?</strong></h3>
+<p></p>
+<blockquote>
+<h3>What’s one task or tool you’d love to see improved in your workflow?</h3>
+</blockquote>
+<p></p>
 <p><em>“As Pinpoint has evolved, so has its complexity. I dream of enhancing our build scripts to streamline our app’s performance. A faster build process in our local development environment would significantly increase our efficiency and productivity."</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1545v2.jpg">
 </div>
 <p></p>
-<h3><strong>As someone who enjoys playing card games, have you ever applied a similar strategic mindset in your engineering work?</strong></h3>
-<p><em>"Playing Magic: The Gathering has taught me two crucial lessons: consistent strategies often lead to success, and understanding both your resources and opponents is key. I apply these principles in software engineering by prioritising simplicity in our product design, using reputable tools, and focusing on features that deliver maximum impact. Just like a good player must adapt to the game, I believe in the importance of knowing our product and users deeply to develop optimal solutions."</em>
+<blockquote>
+<h3>As someone who enjoys playing card games, have you ever applied a similar strategic mindset in your engineering work?</h3>
+</blockquote>
+<p>
+<br><em>"Playing Magic: The Gathering has taught me two crucial lessons: consistent strategies often lead to success, and understanding both your resources and opponents is key. I apply these principles in software engineering by prioritising simplicity in our product design, using reputable tools, and focusing on features that deliver maximum impact. Just like a good player must adapt to the game, I believe in the importance of knowing our product and users deeply to develop optimal solutions."</em>
 <br>
 <br>Vijey’s journey at DOTC exemplifies how collaboration, strategic thinking,
 and a passion for problem-solving drive impactful software engineering.
