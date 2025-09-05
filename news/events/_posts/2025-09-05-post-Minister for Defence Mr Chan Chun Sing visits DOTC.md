@@ -8,6 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dmvisit1.jpg">
 </div>
@@ -31,7 +32,6 @@ and overall operational usefulness of each product.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dmvisitchifa.jpg">
 </div>
-<p></p>
 <p>During the visit, Defence Minister engaged with DOTC personnel, including
 our Operationally-Ready National Servicemen (NSmen) who are software engineers
 by profession. These NSmen joined the DIS under the Enhanced Expertise
