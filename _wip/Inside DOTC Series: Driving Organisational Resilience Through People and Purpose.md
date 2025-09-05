@@ -16,11 +16,11 @@ but their true strength comes from dedicated individuals who bring heart,
 grit, and initiative to every challenge.
 <br>
 <br>We spoke with <strong>Howard Hung</strong>, <strong>Head of Corporate Services</strong>,
-who shared how resilience in an organisation depends on capable, proactive
+who shared how organisational excellence depends on capable, proactive
 people who step up and lead with purpose — especially during tough times.
-His insights highlight that empowering committed individuals is what allows
-DOTC to focus on building great products for the SAF without being slowed
-down by operational hurdles.</p>
+His insights highlight that empowering committed individuals is what allowed
+DOTC to remain focused on building great products for the SAF while simultaneously
+tackling the challenges of a start-up agency.</p>
 <h1></h1>
 <blockquote>
 <h3>What’s the key to keeping a new organisation running smoothly behind the scenes?</h3>
@@ -84,6 +84,4 @@ keep DOTC’s engine running smoothly—driving innovation, enabling growth,
 and empowering our team to excel behind the scenes. Interested in shaping
 the future with us? <a href="https://go.gov.sg/dotc-careers" rel="noopener noreferrer nofollow" target="_blank"><u>Join DOTC</u></a> and be part of
 the team that keeps progress moving forward.</p>
-<p>
-<br>
-</p>
+<p></p>
