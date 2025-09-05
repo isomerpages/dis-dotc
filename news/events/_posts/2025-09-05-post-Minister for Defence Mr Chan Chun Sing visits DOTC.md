@@ -9,9 +9,8 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_08_29_at_5_51_43_PM_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dmvisit1.jpg">
 </div>
-<p></p>
 <p>Minister for Defence Mr. Chan Chun Sing recently visited the DOTC office,
 where he was presented with live demonstrations of our in-house digital
 products, developed to support MINDEF and the SAF’s evolving operational
@@ -30,8 +29,9 @@ This iterative process plays a vital role in shaping the design, features,
 and overall operational usefulness of each product.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_08_29_at_5_51_44_PM_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dmvisitchifa.jpg">
 </div>
+<p></p>
 <p>During the visit, Defence Minister engaged with DOTC personnel, including
 our Operationally-Ready National Servicemen (NSmen) who are software engineers
 by profession. These NSmen joined the DIS under the Enhanced Expertise
