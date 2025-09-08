@@ -36,13 +36,13 @@ sections:
       id: infopic
       description: At DOTC, engineering is more than just code. Software Engineer,
         Vijeykannen shares his distinctive problem-solving approach and
-        expressed pride in his projects
+        expressed pride in his projects.
       button: Read MORE
       url: https://www.dotc.gov.sg/inside-dotc-series-engineering-excellence-through-collaboration-and-insight/
       image: /images/IMG_6587.jpg
       alt: Image alt text
   - infopic:
-      title: DOTC Team Retreat at Sembawang Air Base
+      title: Experiencing RSAF Flag Flypast Operations Firsthand
       subtitle: Life at DOTC
       id: infopic
       description: The team were given a rare opportunity to take to the skies aboard
