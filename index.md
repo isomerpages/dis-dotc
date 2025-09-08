@@ -31,36 +31,36 @@ sections:
       subtitle: IN THE NEWS
       button: MORE NEWS
   - infopic:
-      title: Crafting Meaningful Experiences Through Design
-      subtitle: Life at DOTC
+      title: Engineering Excellence Through Collaboration and Insight
+      subtitle: "Inside DOTC Series:"
       id: infopic
-      description: At DOTC, design goes beyond visuals. Senior Product Designer Joel
-        Tai shares his journey, problem-solving mindset, and what fuels his
-        creativity.
+      description: At DOTC, engineering is more than just code. Software Engineer,
+        Vijeykannen shares his distinctive problem-solving approach and
+        expressed pride in his projects
       button: Read MORE
-      url: /inside-dotc-series-crafting-meaningful-experiences-through-design/
-      image: /images/IMG_9255.jpg
+      url: https://www.dotc.gov.sg/inside-dotc-series-engineering-excellence-through-collaboration-and-insight/
+      image: /images/IMG_6587.jpg
       alt: Image alt text
   - infopic:
       title: DOTC Team Retreat at Sembawang Air Base
       subtitle: Life at DOTC
       id: infopic
-      description: The team embarked on an eye-opening retreat to Sembawang Air Base,
-        gaining deeper insights into the RSAF and a glimpse into SAF life at
-        Chong Pang Camp.
+      description: The team were given a rare opportunity to take to the skies aboard
+        the CH-47 Chinook helicopter, featured in this year’s NDP helicopter
+        flypast formation.
       button: Read More
-      url: /dotc-team-retreat-a-behind-the-scenes-look-at-how-an-air-base-operates/
-      image: /images/Image_4__2_.jpg
+      url: https://www.dotc.gov.sg/up-in-the-air-experiencing-rsaf-flag-flypast-operations-firsthand/
+      image: /images/1000055253__1_.jpg
       alt: Image alt text
   - infopic:
-      title: "Hackathon Demo Day Highlights #BuildTogether"
+      title: Fireside Chat with Mistral AI Founder at DOTC
       subtitle: Events
       id: infopic
-      description: At our first Hackathon Demo Day, teams wowed MINDEF and SAF with
-        bold ideas and prototypes—proving that creativity thrives through
-        collaboration.
+      description: DOTC had the pleasure of hosting a fireside chat with Arthur
+        Mensch, founder of Mistral AI, an AI startup known for developing
+        high-performance language models.
       button: Read MORE
-      url: /hackathon-demo-day-highlights/
-      image: /images/1732784811364.jpg
+      url: https://www.dotc.gov.sg/fireside-chat-with-mistral-ai-founder-at-dotc/
+      image: /images/IMG_20250526_WA0016.jpg
       alt: Image alt text
 ---
