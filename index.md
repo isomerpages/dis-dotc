@@ -31,6 +31,17 @@ sections:
       subtitle: IN THE NEWS
       button: MORE NEWS
   - infopic:
+      title: Minister for Defence Mr Chan Chun Sing visits DOTC
+      subtitle: Events
+      id: infopic
+      description: Minister for Defence Mr. Chan Chun Sing visited the DOTC office,
+        where he was presented with live demonstrations of our in-house digital
+        products.
+      button: Read MORE
+      url: https://www.dotc.gov.sg/minister-for-defence-mr-chan-chun-sing-visits-dotc/
+      image: /images/dmvisitchifa.jpg
+      alt: Image alt text
+  - infopic:
       title: Engineering Excellence Through Collaboration and Insight
       subtitle: "Inside DOTC Series:"
       id: infopic
@@ -51,16 +62,5 @@ sections:
       button: Read More
       url: https://www.dotc.gov.sg/up-in-the-air-experiencing-rsaf-flag-flypast-operations-firsthand/
       image: /images/1000055253__1_.jpg
-      alt: Image alt text
-  - infopic:
-      title: Fireside Chat with Mistral AI Founder at DOTC
-      subtitle: Events
-      id: infopic
-      description: DOTC had the pleasure of hosting a fireside chat with Arthur
-        Mensch, founder of Mistral AI, an AI startup known for developing
-        high-performance language models.
-      button: Read MORE
-      url: https://www.dotc.gov.sg/fireside-chat-with-mistral-ai-founder-at-dotc/
-      image: /images/IMG_20250526_WA0016.jpg
       alt: Image alt text
 ---
