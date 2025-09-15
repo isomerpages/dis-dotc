@@ -273,7 +273,7 @@ variant: markdown
    <img src="/images/Meet%20the%20Team/ZhiKang.jpg">
             <span class="swe">Software Engineer</span>
             <h3>Zhi Kang</h3>
-					<h6>Works on my machine.</h6>
+					<h6>Lorem ipsum dolor sit amet.</h6>
  </div>
   </div>
  
