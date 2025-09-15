@@ -262,12 +262,18 @@ variant: markdown
             <span class="swe">Software Engineer</span>
             <h3>Tan Jun Kai</h3>
 					<h6>I create solutions... and sometimes problems.</h6>
- </div>
+</div>
 	 		<div class="card-item">
       <img src="/images/Meet%20the%20Team/pravind2.jpg">
             <span class="swe">Software Engineer</span>
             <h3>Pravind Kummar</h3>
 					<h6>Works on my machine.</h6>
+ </div>
+	 		<div class="card-item">
+   <img src="/images/Meet%20the%20Team/ZhiKang.jpg">
+            <span class="swe">Software Engineer</span>
+            <h3>Zhi Kang</h3>
+					<h6>Lorem ipsum dolor sit amet.</h6>
  </div>
   </div>
  
