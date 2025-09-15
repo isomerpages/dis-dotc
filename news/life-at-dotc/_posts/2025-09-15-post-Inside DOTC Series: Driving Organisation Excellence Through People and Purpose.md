@@ -56,8 +56,7 @@ tackling the challenges of a start-up agency.
 <blockquote>
 <h3>What’s the most rewarding part of leading corporate services at DOTC?</h3>
 </blockquote>
-<p>
-<br><em>"A lot of it comes from outcomes manifested from the rest of DOTC, such as seeing happy, engaged developers empowered to create value for their organisation. The more the developers get to focus on their core calling with the least friction possible, the more I see the value of CSB in making it happen. Besides that sense of having contributed in some small part to that outcome, other satisfying realisations include knowing how well DOTC has been spoken for by leadership and supported by fellow service members to be what we can be. And last but not least, working in an empowering environment with great colleagues!"</em>
+<p><em>"A lot of it comes from outcomes manifested from the rest of DOTC, such as seeing happy, engaged developers empowered to create value for their organisation. The more the developers get to focus on their core calling with the least friction possible, the more I see the value of CSB in making it happen. Besides that sense of having contributed in some small part to that outcome, other satisfying realisations include knowing how well DOTC has been spoken for by leadership and supported by fellow service members to be what we can be. And last but not least, working in an empowering environment with great colleagues!"</em>
 <br>
 </p>
 <p></p>
