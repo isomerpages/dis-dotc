@@ -1,4 +1,6 @@
 collections:
   wip:
     output: true
-    order: []
+    order:
+      - "Inside DOTC Series: Embracing Innovation and Collaboration in Product
+        Management.md"
