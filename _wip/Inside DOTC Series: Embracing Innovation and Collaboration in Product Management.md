@@ -31,7 +31,10 @@ with purpose and passion.</p>
 <h3>How do you balance strategic vision with day-to-day tactical decisions&nbsp;when managing a product’s lifecycle?</h3>
 </blockquote>
 <p>
-<br><em>"I don't think there is a fixed ratio for this, as you might be constantly zooming in and out depending on the current stage of the product's lifecycle. At the beginning, it’s important to have a vision in place — a rough idea of what the product is supposed to do — and it doesn’t need to be very refined initially. If the product isn’t in active development, there’s generally more focus on day-to-day tactical decisions to ensure we produce a working product that can be pushed out to the market. You then refer back to the vision to check if what you are doing aligns with the overall direction. When the product becomes more stable and gains some market share, there’s a need to shift focus more towards the vision and setting a roadmap for the future. During active development phases aimed at achieving the next milestone, you might switch back to more tactical decisions, always keeping the vision in mind and evaluating whether the current path is making enough progress. Balancing these aspects is challenging and involves constantly zooming in and out."</em>
+<br><em>"There isn’t a fixed ratio for how much time to spend on vision versus execution, as it shifts depending on the stage of the product lifecycle. At the start, it’s about defining the vision: a sense of what the product should do. This doesn’t need to be highly refined but serves as a guiding anchor. During active development, the focus turns to day-to-day decisions and problem-solving to deliver a working product to market. Even then, we regularly check back against the vision to ensure alignment with the overall direction. As the product stabilises and gains market share, attention shifts again to the bigger picture — refining the roadmap, anticipating challenges, and charting the path forward. The cycle repeats as products evolve, with the team constantly zooming in and out. Balancing these aspects is challenging but central to our culture: being agile, staying adaptable, and focused on building products that matter."</em>
+</p>
+<p>
+<br>
 <br>
 </p>
 <p></p>
@@ -39,7 +42,10 @@ with purpose and passion.</p>
 <h3>Can you share a moment when you felt particularly proud of your impact as a product manager?</h3>
 </blockquote>
 <p>
-<br><em>"I recall a time in the private sector working on the ZALORA post-purchase experience portfolio, where the customer service team faced ongoing challenges with customers calling in to cancel orders, since this wasn’t available as a self-serve option. After dedicating significant effort to designing, developing, and launching the functionality and user experience, the feature became easy for customers to adopt, which helped reduce the number of call-ins."</em>
+<br><em>"I recall my time in the private sector working on the ZALORA post-purchase experience portfolio. One recurring challenge was the high volume of customer service calls from customers wanting to cancel their orders, since there wasn’t a self-serve option available on our shopping platforms. Our team invested in designing, developing, and launching a simple, intuitive cancellation feature. Adoption was quick, customers appreciated the convenience, and call volumes dropped significantly, and all without negatively affecting overall order numbers."</em>
+</p>
+<p>
+<br>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -50,7 +56,7 @@ with purpose and passion.</p>
 <h3>How do you foster collaboration between product designers and software engineers to ensure everyone is aligned?</h3>
 </blockquote>
 <p>
-<br><em>"There are several approaches I use to promote collaboration. Rituals and structured routines within the team help facilitate communication. Over-communicating on updates and alignment points is also crucial. Deliberate planning for work meetings and workshops creates a space where ideas can flow freely and team members can collaborate effectively."</em>
+<br><em>"Collaboration is something we build deliberately. We have team rituals and structured routines that make communication natural and consistent. I also believe in sharing updates openly and aligning decisions early, so everyone feels informed and included. With thoughtful planning for meetings and workshops, we create spaces where ideas can flow freely and every team member has the opportunity to contribute. This helps us not only work better together but also build a culture of trust, openness, and shared ownership."</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -61,7 +67,7 @@ with purpose and passion.</p>
 <h3>How do you ensure that user feedback is effectively integrated into your product roadmap?</h3>
 </blockquote>
 <p>
-<br><em>"First, it’s necessary to have a systematic and disciplined approach to collecting feedback. There should be clear processes for reviewing feedback and extracting insights. These insights need to be fed into the roadmap, ideally using a flexible format that allows fluid inputs to be easily incorporated. Routine review sessions with the team help ensure that user feedback remains at the forefront of product planning and roadmap adjustments."</em>
+<br><em>"The first step is having a systematic and disciplined way of collecting feedback. Clear processes make it easier to review input and extract meaningful insights. These insights should then feed directly into the roadmap, ideally through a flexible format that allows new ideas to be incorporated smoothly. Regular review sessions with the team ensure user feedback stays at the heart of our product planning and guides how we adjust the roadmap over time."</em>
 <br>
 </p>
 <p></p>
@@ -69,7 +75,7 @@ with purpose and passion.</p>
 <h3>Looking ahead, what emerging trends or technologies do you believe will significantly shape the future of product management?</h3>
 </blockquote>
 <p>
-<br>"<em>Generative AI (GenAI) is already emerging as a helpful tool, although not everyone has fully adopted it yet. I’m still exploring ways to utilise it effectively. The ongoing trends in AI are likely to improve the tools available to us, which will help us do our jobs more efficiently and effectively."</em>
+<br><em>"Generative AI (GenAI) is already proving to be a useful tool, even though not everyone has fully adopted it yet. I’m still experimenting with how to use it most effectively in my work too. With the rapid pace of AI development, I believe the tools will only get better, helping us work more efficiently and opening up new ways to approach our challenges."</em>
 <br>
 </p>
 <p></p>
@@ -77,8 +83,7 @@ with purpose and passion.</p>
 <h3>How do you unwind after a particularly challenging project or week?</h3>
 </blockquote>
 <p></p>
-<p><em>"I spend time with my family — my wife and son — which helps me recharge. I also enjoy my hobbies, like playing puzzle games such as sudoku, because they provide instant gratification. Sometimes, I just need to relax and scroll through content online, which everyone needs from time to time."</em>
-<br>
+<p><em>"Outside of work, I recharge by spending time with my wife and son. I also enjoy hobbies like puzzle games, and sudoku is one of my favourites because they give me a quick sense of accomplishment. And like anyone else, sometimes I just switch off and relax by scrolling through content online."</em>
 <br>
 </p>
 <hr>
