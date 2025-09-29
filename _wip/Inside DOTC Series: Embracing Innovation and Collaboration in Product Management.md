@@ -80,8 +80,8 @@ with purpose and passion.</p>
 </blockquote>
 <p></p>
 <p><em>"Outside of work, I recharge by spending time with my wife and son. I also enjoy hobbies like puzzle games, and sudoku is one of my favourites because they give me a quick sense of accomplishment. And like anyone else, sometimes I just switch off and relax by scrolling through content online."</em>
-<br>
 </p>
+<h3></h3>
 <hr>
 <p>Joe’s journey exemplifies the resilience and curiosity that fuel innovation
 at DOTC. Whether navigating complex projects, bridging teams, or exploring
