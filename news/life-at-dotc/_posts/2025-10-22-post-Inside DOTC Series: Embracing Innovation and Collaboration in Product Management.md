@@ -29,7 +29,6 @@ with purpose and passion.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2IMG20240730101830.jpg">
 </div>
 <p></p>
-<p></p>
 <blockquote>
 <h3>How do you balance strategic vision with day-to-day tactical decisions&nbsp;when managing a product’s lifecycle?</h3>
 </blockquote>
