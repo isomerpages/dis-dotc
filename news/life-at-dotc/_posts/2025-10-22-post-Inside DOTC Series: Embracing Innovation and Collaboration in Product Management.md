@@ -28,7 +28,8 @@ with purpose and passion.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2IMG20240730101830.jpg">
 </div>
-<h4></h4>
+<p></p>
+<p></p>
 <blockquote>
 <h3>How do you balance strategic vision with day-to-day tactical decisions&nbsp;when managing a product’s lifecycle?</h3>
 </blockquote>
@@ -44,7 +45,8 @@ with purpose and passion.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0736.jpg">
 </div>
-<h3></h3>
+<p></p>
+<p></p>
 <blockquote>
 <h3>How do you foster collaboration between product designers and software engineers to ensure everyone is aligned?</h3>
 </blockquote>
@@ -54,8 +56,6 @@ with purpose and passion.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2IMG20240730102400.jpg">
 </div>
-<p></p>
-<p></p>
 <p></p>
 <blockquote>
 <h3>How do you ensure that user feedback is effectively integrated into your product roadmap?</h3>
