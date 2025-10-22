@@ -29,7 +29,7 @@ with purpose and passion.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2IMG20240730101830.jpg">
 </div>
-<h3></h3>
+<h4></h4>
 <blockquote>
 <h3>How do you balance strategic vision with day-to-day tactical decisions&nbsp;when managing a product’s lifecycle?</h3>
 </blockquote>
@@ -41,8 +41,7 @@ with purpose and passion.</p>
 </blockquote>
 <p><em>"I recall my time in the private sector working on the ZALORA post-purchase experience portfolio. One recurring challenge was the high volume of customer service calls from customers wanting to cancel their orders, since there wasn’t a self-serve option available on our shopping platforms. Our team invested in designing, developing, and launching a simple, intuitive cancellation feature. Adoption was quick, customers appreciated the convenience, and call volumes dropped significantly, and all without negatively affecting overall order numbers."</em>
 </p>
-<p></p>
-<p></p>
+<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0736.jpg">
 </div>
@@ -52,10 +51,11 @@ with purpose and passion.</p>
 </blockquote>
 <p><em>"Collaboration is something we build deliberately. We have team rituals and structured routines that make communication natural and consistent. I also believe in sharing updates openly and aligning decisions early, so everyone feels informed and included. With thoughtful planning for meetings and workshops, we create spaces where ideas can flow freely and every team member has the opportunity to contribute. This helps us not only work better together but also build a culture of trust, openness, and shared ownership."</em>
 </p>
-<p></p>
+<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2IMG20240730102400.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <blockquote>
@@ -67,8 +67,7 @@ with purpose and passion.</p>
 <blockquote>
 <h3>Looking ahead, what emerging trends or technologies do you believe will significantly shape the future of product management?</h3>
 </blockquote>
-<p>
-<br><em>"Generative AI (GenAI) is already proving to be a useful tool, even though not everyone has fully adopted it yet. I’m still experimenting with how to use it most effectively in my work too. With the rapid pace of AI development, I believe the tools will only get better, helping us work more efficiently and opening up new ways to approach our challenges."</em>
+<p><em>"Generative AI (GenAI) is already proving to be a useful tool, even though not everyone has fully adopted it yet. I’m still experimenting with how to use it most effectively in my work too. With the rapid pace of AI development, I believe the tools will only get better, helping us work more efficiently and opening up new ways to approach our challenges."</em>
 </p>
 <p></p>
 <blockquote>
