@@ -24,8 +24,7 @@ environment. Much like navigating a complex maze, Joe’s approach combines
 careful planning, adaptability, and a keen focus on the end goal.&nbsp;</p>
 <p>Here’s a glimpse into Joe’s world and how he keeps everything moving forward
 with purpose and passion.</p>
-<p></p>
-<p></p>
+<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2IMG20240730101830.jpg">
 </div>
