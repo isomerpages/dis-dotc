@@ -11,11 +11,11 @@ description: ""
 <p></p>
 <p>At DOTC, design isn’t just about making things look beautiful—it’s about
 creating meaningful, intuitive experiences that empower users and simplify
-complexity. In this edition of our <em>Inside DOTC</em> series, we spotlight <strong>Trena Lee</strong>,
-one of DOTC’s talented Product Designers whose multidisciplinary background
-in front-end engineering, branding, and marketing allows her to bridge
-creativity and functionality with ease.</p>
-<p>From shaping user experiences in products like <strong>Pinpoint</strong> and <strong>Telepost</strong>,
+complexity. In this edition of our Inside DOTC series, we spotlight <strong>Trena Lee</strong>,
+one of DOTC’s talented <strong>Product Designers</strong> whose multidisciplinary
+background in front-end engineering, branding, and marketing allows her
+to bridge creativity and functionality with ease.</p>
+<p>From shaping user experiences in products like Pinpoint and Telepost,
 to finding inspiration in unexpected places like baking and knitting, Trena’s
 design philosophy is rooted in curiosity, empathy, and iteration. Her approach
 reminds us that great design isn’t just seen—it’s felt through how effortlessly
