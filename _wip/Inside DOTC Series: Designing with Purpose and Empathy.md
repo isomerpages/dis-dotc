@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20241029_155836.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1120241029_155836.jpg">
+</div>
 <p>At DOTC, design isn’t just about making things look beautiful—it’s about
 creating meaningful, intuitive experiences that empower users and simplify
 complexity. In this edition of our Inside DOTC series, we spotlight <strong>Trena Lee</strong>,
@@ -57,7 +57,7 @@ it helps people achieve their goals.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250730_115314.jpg">
 </div>
 <p></p>
-<h3><strong>Reflecting on a DOTC product like Telepost or Pinpoint, how did you incorporate user feedback to enhance the experience for diverse user needs?</strong></h3>
+<h3><strong>Reflecting on DOTC products, how did you utilize user feedback to improve the experience for a diverse range of users?</strong></h3>
 <p><em>"We actively gather feedback through usability tests, surveys, and interviews. On Pinpoint, we found that different teams managed media in unique ways, so we focused on features that accommodate varied workflows without overwhelming users.</em>
 </p>
 <p><em>For Telepost, having direct access to our main user group helped us design with their real workflows in mind, ensuring each feature serves a clear purpose."</em>
