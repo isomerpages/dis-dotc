@@ -2,4 +2,5 @@ collections:
   wip:
     output: true
     order:
+      - Kicking Off BuildTogether Hackathon 2025.md
       - "Inside DOTC Series: Designing with Purpose and Empathy.md"
