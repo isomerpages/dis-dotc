@@ -7,7 +7,7 @@ description: ""
 <p>Building on the success of the inaugural Hackathon 2024, BuildTogether
 Hackathon 2025 promises to deliver even more digital solutions for the
 Singapore Armed Forces (SAF). Last year’s event brought together users
-and developers across the SAF, emphasizing the motto: "For the SAF, by
+and developers across the SAF, emphasising the motto: "For the SAF, by
 the SAF." This year, we aim to continue this collaboration, tackling new
 challenges and advancing innovation even further.</p>
 <p><strong><u>Building on 2024's Success</u></strong>
@@ -22,7 +22,8 @@ Agile <em>innovation </em>Department (RA<em>i</em>D).</p>
 <br>Our upcoming hackathon builds on these lessons, setting the stage for
 more complex projects. This year’s event will bring together participants
 from entities such as the Naval Ops Dept (NOD), Joint Training Dept (JTD),
-Singapore Maritime Crisis Centre (SMCC), JIC, C4 Ops Group (C4OG), RA<em>i</em>D,
+Singapore Maritime Crisis Centre (SMCC), Joint Intelligence Command (JIC),
+SAF C4 and Digitalisation Command's C4 Ops Group (C4OG), RA<em>i</em>D,
 and the SAF Space Development Office, to identify real-world challenges
 and prototype impactful solutions.</p>
 <p><strong><u>Examples of Challenges Submitted&nbsp;</u></strong>
