@@ -31,26 +31,25 @@ sections:
       subtitle: IN THE NEWS
       button: MORE NEWS
   - infopic:
-      title: Minister for Defence Mr Chan Chun Sing visits DOTC
+      title: Wrapping up DOTC BuildTogether Hackathon 2025
       subtitle: Events
       id: infopic
-      description: Minister for Defence Mr. Chan Chun Sing visited the DOTC office,
-        where he was presented with live demonstrations of our in-house digital
-        products.
+      description: Users and developers from across the SAF came together with one
+        goal, to build solutions that truly make a difference.
       button: Read MORE
       url: https://www.dotc.gov.sg/minister-for-defence-mr-chan-chun-sing-visits-dotc/
-      image: /images/dmvisitchifa.jpg
+      image: /images/IMG_20251114_WA0013.jpg
       alt: Image alt text
   - infopic:
-      title: Engineering Excellence Through Collaboration and Insight
-      subtitle: "Inside DOTC Series:"
+      title: DOTC Participates in Exercise Wallaby (XWB)
+      subtitle: Events
       id: infopic
-      description: At DOTC, engineering is more than just code. Software Engineer,
-        Vijeykannen shares his distinctive problem-solving approach and
-        expressed pride in his projects.
+      description: Our engineers and UX designer joined Exercise Wallaby,
+        collaborating with analysts to refine in-house tools based on real-time
+        operational feedback.
       button: Read MORE
       url: https://www.dotc.gov.sg/inside-dotc-series-engineering-excellence-through-collaboration-and-insight/
-      image: /images/IMG_6587.jpg
+      image: /images/1762865845741.jpg
       alt: Image alt text
   - infopic:
       title: Experiencing RSAF Flag Flypast Operations Firsthand
