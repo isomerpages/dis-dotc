@@ -2,6 +2,5 @@ collections:
   wip:
     output: true
     order:
-      - DOTC Participates in Exercise Forging Sabre (XFS).md
       - Kicking Off BuildTogether Hackathon 2025.md
       - "Inside DOTC Series: Designing with Purpose and Empathy.md"
