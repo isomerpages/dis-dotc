@@ -37,7 +37,7 @@ sections:
       description: Users and developers from across the SAF came together with one
         goal, to build solutions that truly make a difference.
       button: Read MORE
-      url: https://www.dotc.gov.sg/minister-for-defence-mr-chan-chun-sing-visits-dotc/
+      url: https://www.dotc.gov.sg/dotc-buildtogether-hackathon-2025/
       image: /images/IMG_20251114_WA0013.jpg
       alt: Image alt text
   - infopic:
@@ -48,7 +48,7 @@ sections:
         collaborating with analysts to refine in-house tools based on real-time
         operational feedback.
       button: Read MORE
-      url: https://www.dotc.gov.sg/inside-dotc-series-engineering-excellence-through-collaboration-and-insight/
+      url: https://www.dotc.gov.sg/dotc-participates-in-exercise-wallaby-xwb/
       image: /images/1762865845741.jpg
       alt: Image alt text
   - infopic:
