@@ -1,8 +1,11 @@
 ---
 title: "Inside DOTC Series: Designing with Purpose and Empathy"
 permalink: /inside-dotc-series-designing-with-purpose-and-empathy/
-variant: tiptap
+date: 2025-10-30
+layout: post
 description: ""
+image: ""
+variant: tiptap
 ---
 <p></p>
 <p></p>
@@ -84,7 +87,6 @@ it helps people achieve their goals.</p>
 <p><em>"I’d love to design for the Harry Potter universe. With their magical interfaces—moving newspapers, talking portraits, and interactive spaces—it’d be fascinating to see how design could enhance those experiences.</em>
 </p>
 <p><em>Imagine a wand-based interface where wizards could instantly search spells or potions and get real-time guidance. It’d be a magical blend of UX and spellcasting!"</em>
-<br>
 </p>
 <hr>
 <p></p>
@@ -97,6 +99,4 @@ for Trena, great design isn’t just functional; it’s human.</p>
 <p>Interested in shaping experiences that matter? <a href="https://go.gov.sg/dotc-careers" rel="noopener nofollow" target="_blank">Join DOTC</a> and be part of a team
 designing the future, one pixel at a time..</p>
 <p>test</p>
-<p>
-<br>
-</p>
+<p></p>
