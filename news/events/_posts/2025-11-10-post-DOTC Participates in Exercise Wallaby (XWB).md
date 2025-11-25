@@ -1,7 +1,7 @@
 ---
 title: DOTC Participates in Exercise Wallaby (XWB)
 permalink: /dotc-participates-in-exercise-wallaby-xwb/
-date: 2025-11-25
+date: 2025-11-10
 layout: post
 description: ""
 image: ""

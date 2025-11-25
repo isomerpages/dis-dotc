@@ -1,7 +1,7 @@
 ---
 title: DOTC Participates in Exercise Forging Sabre (XFS)
 permalink: /dotc-participates-in-exercise-forging-sabre-xfs/
-date: 2025-11-24
+date: 2025-10-06
 layout: post
 description: ""
 image: ""
