@@ -1,5 +1,4 @@
 collections:
   wip:
     output: true
-    order:
-      - "Inside DOTC Series: Designing with Purpose and Empathy.md"
+    order: []
