@@ -276,7 +276,7 @@ variant: markdown
 					<h6>Coding is fun.</h6>
  </div>
 	 		<div class="card-item">
-   <img src="/images/Meet%20the%20Team/ZhiKang.jpg">
+   <img src="/images/Meet%20the%20Team/jeslyn_lam.png">
             <span class="swe">Software Engineer</span>
             <h3>Jeslyn Lam</h3>
 					<h6>I write code, bugs come free of charge.</h6>
