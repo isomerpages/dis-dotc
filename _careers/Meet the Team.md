@@ -278,7 +278,7 @@ variant: markdown
 	 		<div class="card-item">
    <img src="/images/Meet%20the%20Team/ZhiKang.jpg">
             <span class="swe">Software Engineer</span>
-            <h3>Jeslyn</h3>
+            <h3>Jeslyn Lam</h3>
 					<h6>I write code, bugs come free of charge.</h6>
  </div>
   </div>
