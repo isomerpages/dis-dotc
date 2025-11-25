@@ -4,7 +4,15 @@ permalink: /kicking-off-buildtogether-hackathon-2025/
 variant: tiptap
 description: ""
 ---
-<p>Building on the success of the inaugural Hackathon 2024, BuildTogether
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pillars_2a.jpg">
+</div>
+<blockquote>
+<p><em><sub>The 2025 Hackathon Coin: the 3 interlocking cubes represent the fundamental building blocks of design, engineering, and strategy that are required for quality digital products.&nbsp;</sub></em>
+</p>
+</blockquote>
+<p>
+<br>Building on the success of the inaugural Hackathon 2024, BuildTogether
 Hackathon 2025 promises to deliver even more digital solutions for the
 Singapore Armed Forces (SAF). Last year’s event brought together users
 and developers across the SAF, emphasising the motto: "For the SAF, by
@@ -48,12 +56,6 @@ in response to uncertain operational scenarios.</p>
 </li>
 </ul>
 <p></p>
-<p>The 2025 Hackathon Coin: the 3 interlocking cubes represent the fundamental
-building blocks of design, engineering, and strategy that are required
-for quality digital products.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pillars_2a.jpg">
-</div>
 <p>Stay tuned for our post-hackathon wrap-up article to learn more about
 the highlights and innovative solutions showcased during the event.</p>
 <p>
