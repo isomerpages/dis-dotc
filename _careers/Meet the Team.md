@@ -275,6 +275,12 @@ variant: markdown
             <h3>Zhi Kang</h3>
 					<h6>Coding is fun.</h6>
  </div>
+			<div class="card-item">
+   <img src="/images/Meet%20the%20Team/rizvan_jacob.png">
+            <span class="swe">Software Engineer</span>
+            <h3>Rizvan Jacob</h3>
+					<h6>I think best while doing.</h6>
+ </div>
 	 		<div class="card-item">
    <img src="/images/Meet%20the%20Team/jeslyn_lam.png">
             <span class="swe">Software Engineer</span>
