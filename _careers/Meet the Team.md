@@ -25,8 +25,8 @@ variant: markdown
 }
 
 .card-list .card-item {
-    background: #FFFFFF;
-    padding: 26px;
+    background: #fdfcf2;
+    padding: 24px;
     border-radius: 8px;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.04);
     list-style: none;
@@ -62,7 +62,7 @@ variant: markdown
 }
 	
 .card-list .card-item-horizontal {
-    background: #fff;
+    background: #fdfcf2;
     padding: 8px;
     border-radius: 8px;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.04);
@@ -82,7 +82,7 @@ variant: markdown
 	
 .card-list-horizontal span {
     display: inline-block;
-    background: #F7DF34;
+    background: #fdfcf2;
     margin-top: 16px;
     padding: 8px 15px;
     font-size: 0.75rem;
