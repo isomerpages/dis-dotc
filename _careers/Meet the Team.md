@@ -25,8 +25,8 @@ variant: markdown
 }
 
 .card-list .card-item {
-    background: #FFFFFF;
-    padding: 26px;
+    background: #fdfcf2;
+    padding: 24px;
     border-radius: 8px;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.04);
     list-style: none;
@@ -62,7 +62,7 @@ variant: markdown
 }
 	
 .card-list .card-item-horizontal {
-    background: #fff;
+    background: #fdfcf2;
     padding: 8px;
     border-radius: 8px;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.04);
@@ -82,7 +82,7 @@ variant: markdown
 	
 .card-list-horizontal span {
     display: inline-block;
-    background: #F7DF34;
+    background: #fdfcf2;
     margin-top: 16px;
     padding: 8px 15px;
     font-size: 0.75rem;
@@ -187,13 +187,13 @@ variant: markdown
 <div class="card-list">
 	       <div class="card-item">
             <img src="/images/Meet%20the%20Team/christian-chow-swe-full-bg.png">
-            <span class="swe"> Senior Software Engineer</span>
+            <span class="swe"> Snr Software Engineer</span>
             <h3>Christian Chow</h3>
 					<h6>Crushing bugs and breaking boundaries.</h6>
         </div>
 	 		<div class="card-item">
          <img src="/images/Meet%20the%20Team/ZhiYuan.jpg">
-            <span class="swe">Senior Software Engineer</span>
+            <span class="swe">Snr Software Engineer</span>
             <h3>Yong Zhi Yuan</h3>
 					<h6>I don't need therapy. I just need my code to work.</h6>
  </div>
@@ -264,7 +264,7 @@ variant: markdown
 					<h6>I create solutions... and sometimes problems.</h6>
 </div>
 	 		<div class="card-item">
-      <img src="/images/Meet%20the%20Team/pravind2.jpg">
+      <img src="/images/Meet%20the%20Team/pravind.jpg">
             <span class="swe">Software Engineer</span>
             <h3>Pravind Kummar</h3>
 					<h6>Works on my machine.</h6>
@@ -274,6 +274,12 @@ variant: markdown
             <span class="swe">Software Engineer</span>
             <h3>Zhi Kang</h3>
 					<h6>Coding is fun.</h6>
+ </div>
+			<div class="card-item">
+   <img src="/images/Meet%20the%20Team/rizvan_jacob.png">
+            <span class="swe">Software Engineer</span>
+            <h3>Rizvan Jacob</h3>
+					<h6>I think best while doing.</h6>
  </div>
 	 		<div class="card-item">
    <img src="/images/Meet%20the%20Team/jeslyn_lam.png">
@@ -288,7 +294,7 @@ variant: markdown
 <div class="card-list">
         <div class="card-item">
             <img src="/images/Meet%20the%20Team/joel-tai-full-bg.png">
-            <span class="designer">Senior Product Designer</span>
+            <span class="designer">Snr Product Designer</span>
             <h3>Joel Tai</h3>
 					<h6>Less, but better.</h6>
         </div>
@@ -312,7 +318,7 @@ variant: markdown
 <div class="card-list">
         <div class="card-item">
             <img src="/images/Meet%20the%20Team/joe-quak-full-bg.jpg">
-            <span class="prodmanager">Senior Product Manager</span>
+            <span class="prodmanager">Snr Product Manager</span>
             <h3>Joe Quak</h3>
 					<h6>Sculpting visions into reality, one roadmap at a time.</h6>
         </div>
@@ -333,6 +339,12 @@ variant: markdown
             <span class="prodmanager">Product Manager</span>
             <h3>Jia Hua</h3>
 					<h6>The essence of strategy is choosing what not to do.</h6>
+        </div>
+				<div class="card-item">
+            <img src="/images/Meet%20the%20Team/jodie_siow.png">
+            <span class="prodmanager">Product Manager</span>
+            <h3>Jodie Siow</h3>
+					<h6>Building products that solve real problems and spark meaningful impact.</h6>
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/xin_yang_po.png">
