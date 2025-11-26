@@ -85,7 +85,8 @@ efficiency and focus on impactful results with Trackr. <a href="https://www.dotc
 organize and share information. With smart filtering, summarization, translation,
 and curated collections, it simplifies knowledge management and boosts
 collaboration. Accessible securely via Defence or MINDEF email, Pressify
-centralizes workflows, enhancing productivity and accessibility. <a href="https://www.dotc.gov.sg/our-products/pressify/" rel="noopener noreferrer nofollow" target="_blank">Learn more</a>.</p>
+centralizes workflows, enhancing productivity and accessibility. <a href="https://www.dotc.gov.sg/our-products/pressify/" rel="noopener noreferrer nofollow" target="_blank">Learn more</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -111,7 +112,8 @@ military personnel to send timely, personalised updates at scale. Built
 on Telegram and developed by DOTC, it features an intuitive dashboard,
 campaign scheduling, and RSN-wide broadcasts. With one-to-one messaging
 and real-time reporting, Telepost enhances engagement, streamlines communication,
-and ensures teams stay informed and connected. Learn more.</p>
+and ensures teams stay informed and connected. <a href="https://www.dotc.gov.sg/our-products/telepost/" rel="noopener nofollow" target="_blank">Learn more</a>
+</p>
 </td>
 </tr>
 </tbody>

@@ -322,6 +322,12 @@ variant: markdown
             <h3>Joe Quak</h3>
 					<h6>Sculpting visions into reality, one roadmap at a time.</h6>
         </div>
+					<div class="card-item">
+            <img src="/images/Meet%20the%20Team/jodie_siow.png">
+            <span class="prodmanager">Snr Product Manager</span>
+            <h3>Jodie Siow</h3>
+					<h6>Building products that solve real problems and spark meaningful impact.</h6>
+        </div>
 				<div class="card-item">
             <img src="/images/Meet%20the%20Team/eunice-full.png">
             <span class="prodmanager">Product Manager</span>
@@ -339,12 +345,6 @@ variant: markdown
             <span class="prodmanager">Product Manager</span>
             <h3>Jia Hua</h3>
 					<h6>The essence of strategy is choosing what not to do.</h6>
-        </div>
-				<div class="card-item">
-            <img src="/images/Meet%20the%20Team/jodie_siow.png">
-            <span class="prodmanager">Product Manager</span>
-            <h3>Jodie Siow</h3>
-					<h6>Building products that solve real problems and spark meaningful impact.</h6>
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/xin_yang_po.png">

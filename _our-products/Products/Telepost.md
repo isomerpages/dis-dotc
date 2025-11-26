@@ -1,6 +1,6 @@
 ---
 title: Telepost
-permalink: /telepost/
+permalink: /our-products/telepost/
 variant: tiptap
 description: ""
 third_nav_title: Products
