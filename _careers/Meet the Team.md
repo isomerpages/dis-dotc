@@ -187,13 +187,13 @@ variant: markdown
 <div class="card-list">
 	       <div class="card-item">
             <img src="/images/Meet%20the%20Team/christian-chow-swe-full-bg.png">
-            <span class="swe"> Senior Software Engineer</span>
+            <span class="swe"> Snr Software Engineer</span>
             <h3>Christian Chow</h3>
 					<h6>Crushing bugs and breaking boundaries.</h6>
         </div>
 	 		<div class="card-item">
          <img src="/images/Meet%20the%20Team/ZhiYuan.jpg">
-            <span class="swe">Senior Software Engineer</span>
+            <span class="swe">Snr Software Engineer</span>
             <h3>Yong Zhi Yuan</h3>
 					<h6>I don't need therapy. I just need my code to work.</h6>
  </div>
@@ -264,7 +264,7 @@ variant: markdown
 					<h6>I create solutions... and sometimes problems.</h6>
 </div>
 	 		<div class="card-item">
-      <img src="/images/Meet%20the%20Team/pravind2.jpg">
+      <img src="/images/Meet%20the%20Team/pravind.jpg">
             <span class="swe">Software Engineer</span>
             <h3>Pravind Kummar</h3>
 					<h6>Works on my machine.</h6>
@@ -288,7 +288,7 @@ variant: markdown
 <div class="card-list">
         <div class="card-item">
             <img src="/images/Meet%20the%20Team/joel-tai-full-bg.png">
-            <span class="designer">Senior Product Designer</span>
+            <span class="designer">Snr Product Designer</span>
             <h3>Joel Tai</h3>
 					<h6>Less, but better.</h6>
         </div>
@@ -312,7 +312,7 @@ variant: markdown
 <div class="card-list">
         <div class="card-item">
             <img src="/images/Meet%20the%20Team/joe-quak-full-bg.jpg">
-            <span class="prodmanager">Senior Product Manager</span>
+            <span class="prodmanager">Snr Product Manager</span>
             <h3>Joe Quak</h3>
 					<h6>Sculpting visions into reality, one roadmap at a time.</h6>
         </div>
@@ -335,7 +335,7 @@ variant: markdown
 					<h6>The essence of strategy is choosing what not to do.</h6>
         </div>
 				<div class="card-item">
-            <img src="/images/Meet%20the%20Team/jiahua3.jpg">
+            <img src="/images/Meet%20the%20Team/jodie_siow.png">
             <span class="prodmanager">Product Manager</span>
             <h3>Jodie Siow</h3>
 					<h6>Building products that solve real problems and spark meaningful impact.</h6>
