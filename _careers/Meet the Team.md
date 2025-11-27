@@ -239,12 +239,6 @@ variant: markdown
             <h3>Shen Rui</h3>
 					<h6>Coding with creativity (and coffee).</h6>
         </div>
-	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/zhenwei.jpg">
-            <span class="swe">Software Engineer</span>
-            <h3>Zhen Wei</h3>
-					<h6>It’s a feature, not a bug.</h6>
-        </div>
 		<div class="card-item">
             <img src="/images/Meet%20the%20Team/Justin.jpg">
             <span class="swe">Software Engineer</span>
