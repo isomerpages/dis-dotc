@@ -123,6 +123,11 @@ variant: markdown
     background-color: #F7DFF5; 
     color: #B22485;
 }
+	
+	.card-list .cyber {
+    background-color: #FEEBC8; 
+    color: #DD6B20;
+}
 
 .card-list .prodmanager {
     background-color: #d6f8d6; 
@@ -264,7 +269,7 @@ variant: markdown
 					<h6>Works on my machine.</h6>
  </div>
 	 		<div class="card-item">
-   <img src="/images/Meet%20the%20Team/ZhiKang.jpg">
+   <img src="/images/Meet%20the%20Team/zhi_kang.png">
             <span class="swe">Software Engineer</span>
             <h3>Zhi Kang</h3>
 					<h6>Coding is fun.</h6>
@@ -281,7 +286,23 @@ variant: markdown
             <h3>Jeslyn Lam</h3>
 					<h6>I write code, bugs come free of charge.</h6>
  </div>
+		<div class="card-item">
+   <img src="/images/Meet%20the%20Team/john_alec.jpg">
+            <span class="swe">Software Engineer</span>
+            <h3>John Alec</h3>
+					<h6>I turn complex problems into simple solutions, one line of code at a time.</h6>
+ </div>
   </div>
+	
+<header style="font-size:50px;margin:16px;color:#3C6DE8">Cyber</header>
+<div class="card-list">
+        <div class="card-item">
+            <img src="/images/Meet%20the%20Team/jonathan.png">
+            <span class="cyber">Principal Threat Risk Consultant</span>
+            <h3>Jonathan</h3>
+					<h6>I help protect our people and systems by staying one step ahead of threats.</h6>
+        </div>
+	</div>
  
 <header style="font-size:50px;margin:16px;color:#3C6DE8">Product Designers</header>
 
@@ -305,6 +326,8 @@ variant: markdown
 					</h3><h6>My mantra: "Good design is obvious but great design is transparent"</h6>
         </div>
 	</div>
+	
+
 	
 
 <header style="font-size:50px;margin:16px;color:#3C6DE8">Product Managers/Operations</header>
