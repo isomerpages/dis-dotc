@@ -299,7 +299,7 @@ variant: markdown
         <div class="card-item">
             <img src="/images/Meet%20the%20Team/jonathan.png">
             <span class="cyber">Principal Threat Risk Consultant</span>
-            <h3>Jonathan</h3>
+            <h3>Jonathan Tan</h3>
 					<h6>I help protect our people and systems by staying one step ahead of threats.</h6>
         </div>
 	</div>
