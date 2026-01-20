@@ -381,21 +381,15 @@ variant: markdown
 					<h6>Empowering excellence, cultivating synergy, and shaping the backbone of success.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/divya_hdpeople.jpg">
-            <span class="corpserv">Hd (People)</span>
-            <h3>Divya Ginna</h3>
-					<h6>Connecting talent with opportunity, one innovative mind at a time.</h6>
-        </div>
-	<div class="card-item">
             <img src="/images/Meet%20the%20Team/priscillia-seah-corporate-full.png">
             <span class="corpserv">Manpower Officer</span>
             <h3>Priscillia Seah</h3>
 					<h6>Nurturing talent, fostering growth, and building the team that powers our innovation.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/sharmain-corporate-full.png">
+            <img src="/images/Meet%20the%20Team/lorraine_lee.png">
             <span class="corpserv">Finance Officer</span>
-            <h3>Sharmain Chan</h3>
+            <h3>Lorraine Lee</h3>
 					<h6>Balancing the books and charting our course to success.</h6>
         </div>
 	<div class="card-item">
@@ -403,11 +397,5 @@ variant: markdown
             <span class="corpserv">Secretary to Hd DOTC</span>
             <h3>Stephanie Lee</h3>
 					<h6>Orchestrating chaos into a symphony of productivity, one appointment at a time.</h6>
-        </div>
-		<div class="card-item">
-            <img src="/images/Meet%20the%20Team/Janessa4.jpg">
-            <span class="corpserv">HR Assistant Manager</span>
-            <h3>Janessa Teng</h3>
-					<h6>Putting the "human" in Human Resources, and occasionally the "resourceful" too.</h6>
         </div>
 </div>
