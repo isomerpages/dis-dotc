@@ -202,35 +202,35 @@ variant: markdown
             <h3>Yong Zhi Yuan</h3>
 					<h6>I don't need therapy. I just need my code to work.</h6>
  </div>
-		<div class="card-item">
-            <img src="/images/Meet%20the%20Team/aaron-teow-corporate-full.png">
-            <span class="swe">Software Engineer</span>
-            <h3>Aaron Teow</h3>
-					<h6>Trust me, I'm an engineer.</h6>
-        </div>
-				<div class="card-item">
-            <img src="/images/Meet%20the%20Team/foo-chi-fa-swe-full.png">
-            <span class="swe">Software Engineer</span>
-            <h3>Foo Chi Fa</h3>
-					<h6>From 'Hello, World!' to 'Hello, Future!'</h6>
-        </div>
-	      <div class="card-item">
-            <img src="/images/Meet%20the%20Team/ong-wei-xiang-swe-full-bg.png">
-            <span class="swe">Software Engineer</span>
-            <h3>Ong Wei Xiang</h3>
-					<h6>Spaghetti is best left on the plate, not in the code.</h6>
-        </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/ang-ding-jie-swe-full-bg.png">
-            <span class="swe">Software Engineer</span>
+            <span class="swe">Snr Software Engineer</span>
             <h3>Ang Ding Jie</h3>
 					<h6>I love cats.</h6>
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/vijey-swe-full.png">
-            <span class="swe">Software Engineer</span>
+            <span class="swe">Snr Software Engineer</span>
             <h3>Vijey</h3>
 					<h6>With a vision in mind, the tough days get easier.</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/foo-chi-fa-swe-full.png">
+            <span class="swe">Snr Software Engineer</span>
+            <h3>Foo Chi Fa</h3>
+					<h6>From 'Hello, World!' to 'Hello, Future!'</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/ong-wei-xiang-swe-full-bg.png">
+            <span class="swe">Snr Software Engineer</span>
+            <h3>Ong Wei Xiang</h3>
+					<h6>Spaghetti is best left on the plate, not in the code.</h6>
+        </div>
+		<div class="card-item">
+            <img src="/images/Meet%20the%20Team/aaron-teow-corporate-full.png">
+            <span class="swe">Software Engineer</span>
+            <h3>Aaron Teow</h3>
+					<h6>Trust me, I'm an engineer.</h6>
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/t_daranidarran_swe.jpg">
