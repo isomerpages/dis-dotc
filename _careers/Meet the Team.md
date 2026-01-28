@@ -211,7 +211,7 @@ variant: markdown
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/vijey-swe-full.png">
             <span class="swe">Snr Software Engineer</span>
-            <h3>Vijey</h3>
+            <h3>Vijeykannen Ng</h3>
 					<h6>With a vision in mind, the tough days get easier.</h6>
         </div>
 	<div class="card-item">
@@ -241,7 +241,7 @@ variant: markdown
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/ShenRui.jpg">
             <span class="swe">Software Engineer</span>
-            <h3>Shen Rui</h3>
+            <h3>Chong Shen Rui</h3>
 					<h6>Coding with creativity (and coffee).</h6>
         </div>
 		<div class="card-item">
@@ -271,7 +271,7 @@ variant: markdown
 	 		<div class="card-item">
    <img src="/images/Meet%20the%20Team/zhi_kang.png">
             <span class="swe">Software Engineer</span>
-            <h3>Zhi Kang</h3>
+            <h3>Song Zhi Kang</h3>
 					<h6>Coding is fun.</h6>
  </div>
 			<div class="card-item">
@@ -360,13 +360,13 @@ variant: markdown
 			<div class="card-item">
             <img src="/images/Meet%20the%20Team/jiahua3.jpg">
             <span class="prodmanager">Product Manager</span>
-            <h3>Jia Hua</h3>
+            <h3>Jia Hua Law</h3>
 					<h6>The essence of strategy is choosing what not to do.</h6>
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/xin_yang_po.png">
             <span class="prodops">Product Operations</span>
-            <h3>Xin Yang</h3>
+            <h3>Wong Xin Yang</h3>
 					<h6>Rome wasn't built in a day but I don't want to wait 200 years.</h6>
         </div>
 	</div>
