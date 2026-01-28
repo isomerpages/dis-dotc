@@ -292,6 +292,12 @@ variant: markdown
             <h3>John Alec</h3>
 					<h6>I turn complex problems into simple solutions, one line of code at a time.</h6>
  </div>
+	<div class="card-item">
+   <img src="/images/Meet%20the%20Team/matthew_cruz.png">
+            <span class="swe">Software Engineer</span>
+            <h3>Matthew Cruz</h3>
+					<h6>if(!sleeping) coding();</h6>
+ </div>
   </div>
 	
 <header style="font-size:50px;margin:16px;color:#3C6DE8">Cyber</header>
