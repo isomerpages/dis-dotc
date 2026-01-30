@@ -313,12 +313,6 @@ variant: markdown
 <header style="font-size:50px;margin:16px;color:#3C6DE8">Product Designers</header>
 
 <div class="card-list">
-        <div class="card-item">
-            <img src="/images/Meet%20the%20Team/joel-tai-full-bg.png">
-            <span class="designer">Snr Product Designer</span>
-            <h3>Joel Tai</h3>
-					<h6>Less, but better.</h6>
-        </div>
 				<div class="card-item">
             <img src="/images/Meet%20the%20Team/trena-full.png">
             <span class="designer">Product Designer</span>
