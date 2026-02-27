@@ -238,12 +238,6 @@ variant: markdown
             <h3>T Daranidarran</h3>
 					<h6>Part time degen, full time programmer.</h6>
         </div>
-	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/ShenRui.jpg">
-            <span class="swe">Software Engineer</span>
-            <h3>Chong Shen Rui</h3>
-					<h6>Coding with creativity (and coffee).</h6>
-        </div>
 		<div class="card-item">
             <img src="/images/Meet%20the%20Team/Justin.jpg">
             <span class="swe">Software Engineer</span>
@@ -314,12 +308,6 @@ variant: markdown
 
 <div class="card-list">
 				<div class="card-item">
-            <img src="/images/Meet%20the%20Team/trena-full.png">
-            <span class="designer">Product Designer</span>
-            <h3>Trena Lee</h3>
-					<h6>At DOTC, we design experiences that leave a mark, one click at a time. 🖱️✨</h6>
-        </div>
-				<div class="card-item">
             <img src="/images/Meet%20the%20Team/Sheryl.jpg">
             <span class="designer">Product Designer</span>
             <h3>Sheryl Ang
@@ -363,12 +351,6 @@ variant: markdown
             <h3>Jia Hua Law</h3>
 					<h6>The essence of strategy is choosing what not to do.</h6>
         </div>
-	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/xin_yang_po.png">
-            <span class="prodops">Product Operations</span>
-            <h3>Wong Xin Yang</h3>
-					<h6>Rome wasn't built in a day but I don't want to wait 200 years.</h6>
-        </div>
 	</div>
 	
 <header style="font-size:50px;margin:16px;color:#3C6DE8">Corporate Services</header>
@@ -391,11 +373,5 @@ variant: markdown
             <span class="corpserv">Finance Officer</span>
             <h3>Lorraine Lee</h3>
 					<h6>Balancing the books and charting our course to success.</h6>
-        </div>
-	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/stephanie-full.png">
-            <span class="corpserv">Secretary to Hd DOTC</span>
-            <h3>Stephanie Lee</h3>
-					<h6>Orchestrating chaos into a symphony of productivity, one appointment at a time.</h6>
         </div>
 </div>
