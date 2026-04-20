@@ -19,7 +19,7 @@ contacts:
       - phone: ""
       - email: ""
       - other: Check our job openings and apply <a
-          href="https://go.gov.sg/dotc-careers">here</a>!
+          href="https://jobs.careers.gov.sg/?a=MINDEF&s=digital+ops">here</a>!
     title: Careers
   - content:
       - phone: ""
@@ -28,5 +28,5 @@ contacts:
           collaborations and partnerships, please fill in the online form <a
           href="https://go.gov.sg/contact-dotc">here</a>.
     title: General Enquiries
-feedback: https://go.gov.sg/contact-dotc
+feedback: ""
 ---
