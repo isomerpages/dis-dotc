@@ -24,8 +24,8 @@ sections:
       size: md
       key_highlights:
         - title: We are hiring!
-          description: Register your interest here
-          url: https://go.gov.sg/dotc-careers
+          description: Find current openings here
+          url: https://jobs.careers.gov.sg/?a=MINDEF&s=digital+ops
   - resources:
       title: What's up in DOTC?
       subtitle: IN THE NEWS
