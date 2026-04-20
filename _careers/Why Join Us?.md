@@ -42,5 +42,5 @@ transformation in the military.</p>
 making a real difference, we invite you to join the DOTC team. Together,
 let's push the boundaries of military technology, develop innovative solutions,
 and shape the future of defence.</p>
-<p>Check our current openings and <a href="https://go.gov.sg/dotc-careers" rel="noopener noreferrer nofollow" target="_blank">apply today</a> to become a part of
-our team.</p>
+<p>Check our current openings and <a href="https://jobs.careers.gov.sg/?a=MINDEF&amp;s=digital+ops" rel="noopener noreferrer nofollow" target="_blank">apply today</a> to
+become a part of our team.</p>
