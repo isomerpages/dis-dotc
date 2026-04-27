@@ -37,7 +37,6 @@ variant: markdown
 	
 .card-list .card-item img {
     width: 100%;
-		height: 100%
     aspect-ratio: 1/1;
     border-radius: 8px;
     object-fit: cover;
@@ -232,12 +231,6 @@ variant: markdown
             <h3>Aaron Teow</h3>
 					<h6>Trust me, I'm an engineer.</h6>
         </div>
-	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/t_daranidarran_swe.jpg">
-            <span class="swe">Software Engineer</span>
-            <h3>T Daranidarran</h3>
-					<h6>Part time degen, full time programmer.</h6>
-        </div>
 		<div class="card-item">
             <img src="/images/Meet%20the%20Team/Justin.jpg">
             <span class="swe">Software Engineer</span>
@@ -291,6 +284,18 @@ variant: markdown
             <span class="swe">Software Engineer</span>
             <h3>Matthew Cruz</h3>
 					<h6>if(!sleeping) coding();</h6>
+ </div>
+	<div class="card-item">
+   <img src="/images/Meet%20the%20Team/calvin.jpg">
+            <span class="swe">Software Engineer</span>
+            <h3>Calvin Goh</h3>
+					<h6>Code never lies, comments sometimes do.</h6>
+ </div>
+		<div class="card-item">
+   <img src="/images/Meet%20the%20Team/jayden.jpg">
+            <span class="swe">Software Engineer</span>
+            <h3>Jayden Yeo </h3>
+					<h6>Things aren't always #000000 and #FFFFFF.</h6>
  </div>
   </div>
 	
@@ -373,5 +378,17 @@ variant: markdown
             <span class="corpserv">Finance Officer</span>
             <h3>Lorraine Lee</h3>
 					<h6>Balancing the books and charting our course to success.</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/jieson.png">
+            <span class="corpserv">AD Biz Dev</span>
+            <h3>Chua Jieson</h3>
+					<h6>Focus means saying no to the hundred other good ideas.</h6>
+        </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/chris.jpg">
+            <span class="corpserv">AD Biz Dev</span>
+            <h3>Chris Kan</h3>
+					<h6>If opportunity doesn't knock, build a door.</h6>
         </div>
 </div>
