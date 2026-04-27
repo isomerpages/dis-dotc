@@ -295,7 +295,13 @@ variant: markdown
    <img src="/images/Meet%20the%20Team/jayden.jpg">
             <span class="swe">Software Engineer</span>
             <h3>Jayden Yeo </h3>
-					<h6>Things aren't always #000000 and #FFFFFF.</h6>
+					<h6>Hardware is the body, but I write the soul.</h6>
+ </div>
+	<div class="card-item">
+   <img src="/images/Meet%20the%20Team/amos.jpg">
+            <span class="swe">Software Engineer</span>
+            <h3>Amos Hung </h3>
+					<h6>I’m not a magician, I just have a lot of tabs open.</h6>
  </div>
   </div>
 	
