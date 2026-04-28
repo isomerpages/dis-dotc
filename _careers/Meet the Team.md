@@ -392,7 +392,7 @@ variant: markdown
 					<h6>Focus means saying no to the hundred other good ideas.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/chris.jpg">
+            <img src="/images/Meet%20the%20Team/chris_4.png">
             <span class="corpserv">AD Biz Dev</span>
             <h3>Chris Kan</h3>
 					<h6>If opportunity doesn't knock, build a door.</h6>
