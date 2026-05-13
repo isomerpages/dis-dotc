@@ -324,6 +324,12 @@ variant: markdown
             <h3>Sheryl Ang
 					</h3><h6>My mantra: "Good design is obvious but great design is transparent"</h6>
         </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/cara.jpg">
+            <span class="designer">Product Designer</span>
+            <h3>Cara Quek</h3>
+					<h6>I hope Design would feel like water to people someday.</h6>
+        </div>
 	</div>
 	
 
