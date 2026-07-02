@@ -62,4 +62,14 @@ sections:
       url: https://www.dotc.gov.sg/up-in-the-air-experiencing-rsaf-flag-flypast-operations-firsthand/
       image: /images/1000055253__1_.jpg
       alt: Image alt text
+  - infopic:
+      title: NSmen of the Year 2026
+      subtitle: Recognising Contribution
+      id: infopic
+      description: Congratulation to CPT(NS) Liang Yuanruo for his exceptional
+        contribution in DOTC
+      button: READ MORE
+      url: https://www.dotc.gov.sg/Nsmen-of-the-year-2026/
+      image: /images/WhatsApp_Image_2026_07_01_at_21_09_27.jpg
+      alt: Receiving his award on SAF Day
 ---
