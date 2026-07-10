@@ -14,10 +14,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_07_02_at_12_30_02__1_.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_07_02_at_12_30_00__2_.jpg">
-</div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_07_02_at_12_30_00__3_.jpg">
+</div>
 <p>Huge shoutout to CPT (NS) Liang Yuanruo, our DIS NSman of the Year 2026!
 We’re so proud to have him as part of the DOTC family.</p>
 <p>Some of you may remember him leading the charge at DOTC’s BuildTogether
