@@ -337,7 +337,7 @@ variant: markdown
 					<h6>I hope Design would feel like water to people someday.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/Sui Yang.jpg">
+            <img src="/images/Meet%20the%20Team/Sui_Yang.jpg">
             <span class="designer">Product Designer</span>
             <h3>Wong Sui Yang</h3>
 					<h6>Simple is harder than it looks, and usually invisible when it's right.</h6>
@@ -386,7 +386,7 @@ variant: markdown
 					<h6>Empowering excellence, cultivating synergy, and shaping the backbone of success.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/William.png">
+            <img src="/images/Meet%20the%20Team/William.jpg">
             <span class="corpserv">Senior Project Officer</span>
             <h3>William Chew</h3>
 					<h6>Software is our craft. Operational advantage is our mission.</h6>
