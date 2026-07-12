@@ -309,6 +309,12 @@ variant: markdown
             <h3>Amos Hung </h3>
 					<h6>I’m not a magician, I just have a lot of tabs open.</h6>
  </div>
+	<div class="card-item">
+   <img src="/images/Meet%20the%20Team/amos.jpg">
+            <span class="swe">Software Engineer</span>
+            <h3>T Daranidarran</h3>
+					<h6>Part time degen, full time programmer.</h6>
+ </div>
   </div>
 	
 <header style="font-size:50px;margin:16px;color:#3C6DE8">Cyber</header>
