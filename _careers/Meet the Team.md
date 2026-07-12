@@ -189,7 +189,13 @@ variant: markdown
 </div>
 	
 <div class="card-list">
-	       <div class="card-item">
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/weiqing.jpeg">
+            <span class="swe"> Principal Engineer</span>
+            <h3>Toh Wei Qing</h3>
+					<h6>Solving problems, one at a time.</h6>
+        </div>      
+	<div class="card-item">
             <img src="/images/Meet%20the%20Team/christian-chow-swe-full-bg.png">
             <span class="swe"> Snr Software Engineer</span>
             <h3>Christian Chow</h3>
