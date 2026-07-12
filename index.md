@@ -37,7 +37,7 @@ sections:
       description: Congratulations to CPT(NS) Liang Yuanruo for being recognised as
         DIS NSman of the Year
       button: READ MORE
-      url: https://www.dotc.gov.sg/Nsmen-of-the-year-2026/
+      url: https://www.dotc.gov.sg/dotc-nsman-awarded-dis-nsman-of-the-year-2026/
       image: /images/WhatsApp_Image_2026_07_01_at_21_09_27.jpg
       alt: Receiving his award on SAF Day
   - infopic:
