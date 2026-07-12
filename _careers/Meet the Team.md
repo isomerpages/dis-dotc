@@ -310,7 +310,7 @@ variant: markdown
 					<h6>I’m not a magician, I just have a lot of tabs open.</h6>
  </div>
 	<div class="card-item">
-   <img src="/images/Meet%20the%20Team/amos.jpg">
+   <img src="/images/Meet%20the%20Team/t_daranidarran_swe.jpg">
             <span class="swe">Software Engineer</span>
             <h3>T Daranidarran</h3>
 					<h6>Part time degen, full time programmer.</h6>
