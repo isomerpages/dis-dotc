@@ -80,7 +80,7 @@ prototyping, or perfecting the final design?</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left: 0px; margin-top: 0px;" height="346" width="462" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZoIDI1I3DB4_FCQ77r9S03qpJYnQMJE0pMzGNaR-Om0hdNeqq4D5rur0kF9jaWhMYIna_odLNh4cFbdiFOtr_FVsBENJFzvtsSmZPVpAf9DvO6tVldckFkpl_amn3eVEzdUt9yA?key=OQhE5H4GgiHa2ak4gIWJroc0">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/joel_speaking.png">
 </div>
 <p></p>
 <blockquote>
@@ -94,10 +94,10 @@ moment for you?</p>
 <p><em>One of the highlights was engaging with new designers entering the field, who found value in understanding how we navigate the complexities of military UX. It was also a great opportunity to connect with fellow designers from CSIT and DSTA, exchanging ideas on the evolving role of UX in national defence. Seeing the enthusiasm and curiosity from the community reaffirmed the importance of fostering design conversations beyond our immediate domain and how crucial it is to share, learn, and grow as a design community."</em>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="margin-left: 0px; margin-top: 0px;" height="349" width="465" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXddtTM64e5sS4ea4j2Y54gD7pONjrYf2AbPI_I-GbJAeTbnO-79Xu3QfmH0mm2eo78Jif2HFjBG69PBF-F11exAQ4mXILF-JaBZnGRVIwrih37wjlFdnhZ9ntyxPSunPVRCrTfc?key=OQhE5H4GgiHa2ak4gIWJroc0">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="team of ball players assembled in blue jerseys" src="/images/joel_volley_2.png">
+</div>
 <blockquote>
 <p>I understand that you’ll be competing in the Volleyball Masters Tournament
 in Taiwan this May. From your experience, how has the fast-paced nature
