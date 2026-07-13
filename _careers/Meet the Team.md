@@ -189,7 +189,13 @@ variant: markdown
 </div>
 	
 <div class="card-list">
-	       <div class="card-item">
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/Weiqing.jpg">
+            <span class="swe"> Principal Engineer</span>
+            <h3>Toh Wei Qing</h3>
+					<h6>Solving problems, one at a time.</h6>
+        </div>      
+	<div class="card-item">
             <img src="/images/Meet%20the%20Team/christian-chow-swe-full-bg.png">
             <span class="swe"> Snr Software Engineer</span>
             <h3>Christian Chow</h3>
@@ -303,6 +309,12 @@ variant: markdown
             <h3>Amos Hung </h3>
 					<h6>I’m not a magician, I just have a lot of tabs open.</h6>
  </div>
+	<div class="card-item">
+   <img src="/images/Meet%20the%20Team/t_daranidarran_swe.jpg">
+            <span class="swe">Software Engineer</span>
+            <h3>T Daranidarran</h3>
+					<h6>Part time degen, full time programmer.</h6>
+ </div>
   </div>
 	
 <header style="font-size:50px;margin:16px;color:#3C6DE8">Cyber</header>
@@ -330,6 +342,12 @@ variant: markdown
             <h3>Cara Quek</h3>
 					<h6>I hope Design would feel like water to people someday.</h6>
         </div>
+	<div class="card-item">
+            <img src="/images/Meet%20the%20Team/Sui_Yang.jpg">
+            <span class="designer">Product Designer</span>
+            <h3>Wong Sui Yang</h3>
+					<h6>Simple is harder than it looks, and usually invisible when it's right.</h6>
+        </div>
 	</div>
 	
 
@@ -350,13 +368,7 @@ variant: markdown
             <h3>Jodie Siow</h3>
 					<h6>Building products that solve real problems and spark meaningful impact.</h6>
         </div>
-				<div class="card-item">
-            <img src="/images/Meet%20the%20Team/eunice-full.png">
-            <span class="prodmanager">Product Manager</span>
-            <h3>Eunice Lee</h3>
-					<h6>Can we build it? Yes we can!</h6>
-        </div>
-		<div class="card-item">
+	<div class="card-item">
             <img src="/images/Meet%20the%20Team/bryan_lian_pm.png">
             <span class="prodmanager">Product Manager</span>
             <h3>Bryan Lian</h3>
@@ -380,10 +392,10 @@ variant: markdown
 					<h6>Empowering excellence, cultivating synergy, and shaping the backbone of success.</h6>
         </div>
 	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/priscillia-seah-corporate-full.png">
-            <span class="corpserv">Manpower Officer</span>
-            <h3>Priscillia Seah</h3>
-					<h6>Nurturing talent, fostering growth, and building the team that powers our innovation.</h6>
+            <img src="/images/Meet%20the%20Team/William.jpg">
+            <span class="corpserv">Senior Project Officer</span>
+            <h3>William Chew</h3>
+					<h6>Software is our craft. Operational advantage is our mission.</h6>
         </div>
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/lorraine_lee.png">
