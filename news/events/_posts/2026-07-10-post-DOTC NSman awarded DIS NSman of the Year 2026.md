@@ -16,7 +16,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_07_02_at_12_30_00__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yuanruo2.jpg">
 </div>
 <p>Huge shoutout to CPT (NS) Liang Yuanruo, our DIS NSman of the Year 2026!
 We’re so proud to have him as part of the DOTC family.</p>
@@ -25,7 +25,7 @@ Hackathon, where his team built a fully functional SpaceScanner in just
 two weeks.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="CPT (NS) Liang Yuanruo presenting SpaceScanner at BuildTogether" src="/images/Screenshot_2026_07_10_165036.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DOTC_Hackathon_20.jpg">
 </div>
 <p>On top of that, he’s been quietly mentoring DIS software engineers, sharing
 his insights with leadership and raising the engineering bar across the
