@@ -219,12 +219,7 @@ variant: markdown
             <h3>Vijeykannen Ng</h3>
 					<h6>With a vision in mind, the tough days get easier.</h6>
         </div>
-	<div class="card-item">
-            <img src="/images/Meet%20the%20Team/foo-chi-fa-swe-full.png">
-            <span class="swe">Snr Software Engineer</span>
-            <h3>Foo Chi Fa</h3>
-					<h6>From 'Hello, World!' to 'Hello, Future!'</h6>
-        </div>
+
 	<div class="card-item">
             <img src="/images/Meet%20the%20Team/ong-wei-xiang-swe-full-bg.png">
             <span class="swe">Snr Software Engineer</span>
